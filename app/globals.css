@@ -1,0 +1,39 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+@import 'shadcn/tailwind.css';
+:root { color-scheme: light; --background:#fff; --foreground:#192c39; --primary:#164d69; --primary-foreground:#fff; --muted:#f0f4f6; --muted-foreground:#586773; --border:#dce3e7; --ring:#164d69; --radius:.25rem; }
+@theme inline { --color-background:var(--background); --color-foreground:var(--foreground); --color-primary:var(--primary); --color-border:var(--border); --font-sans:Arial,Helvetica,sans-serif; }
+* { box-sizing:border-box; }
+html { scroll-behavior:smooth; scroll-padding-top:2rem; }
+body { margin:0; background:var(--background); color:var(--foreground); font-family:Arial,Helvetica,sans-serif; font-size:1rem; line-height:1.75; -webkit-font-smoothing:antialiased; }
+a { color:inherit; text-underline-offset:.25em; } a:hover { color:var(--primary); } a:focus-visible { outline:2px solid var(--primary); outline-offset:5px; }
+.skip-link { position:absolute; left:1rem; top:-5rem; padding:.5rem 1rem; background:white; z-index:10; } .skip-link:focus { top:1rem; }
+.site-header { max-width:1240px; margin:auto; padding:2rem 3rem; display:flex; justify-content:space-between; gap:2rem; align-items:center; border-bottom:1px solid var(--border); }
+.wordmark { text-decoration:none; font-size:1rem; font-weight:600; } .wordmark span { margin-left:1rem; font-size:.875rem; font-weight:400; color:var(--muted-foreground); }
+nav { display:flex; gap:2rem; font-size:.875rem; } nav a { text-decoration:none; }
+.page-grid { max-width:1240px; margin:auto; padding:4.5rem 3rem 0; display:grid; grid-template-columns:240px minmax(0,720px); gap:clamp(3rem,7vw,7rem); }
+.profile { align-self:start; }
+.portrait,.portrait-pending { width:100%; aspect-ratio:4/5; object-fit:cover; object-position:center; display:block; border-radius:2px; }
+.portrait-pending { display:grid; place-items:center; background:var(--muted); color:var(--primary); font:4rem Georgia,serif; }
+.profile-meta { padding-top:1.4rem; font-size:.875rem; line-height:1.7; } .profile-meta p { margin:0; }
+.profile-meta .affiliation { margin-top:1rem; color:var(--muted-foreground); }
+.profile-links { margin-top:1.75rem; padding-top:1.25rem; border-top:1px solid var(--border); display:grid; gap:.65rem; }
+.profile-links a { display:flex; justify-content:space-between; text-decoration:none; } .profile-links a span { color:var(--muted-foreground); }
+.eyebrow { font-size:.875rem; letter-spacing:.08em; color:var(--muted-foreground); margin:0 0 1.4rem; }
+h1,h2,h3 { font-family:Georgia,'Times New Roman',serif; font-weight:400; }
+h1 { font-size:clamp(3.1rem,5.7vw,5rem); line-height:1.04; letter-spacing:-.045em; margin:0 0 2.3rem; } .full-stop { color:var(--primary); }
+.content p { max-width:65ch; margin-top:0; margin-bottom:1.15rem; }
+.content .lead { font-family:Georgia,'Times New Roman',serif; font-size:1.5rem; line-height:1.5; margin-bottom:1.6rem; color:var(--primary); }
+.research { margin-top:4rem; }
+.section-heading { border-top:2px solid var(--foreground); padding-top:1.1rem; margin-bottom:1rem; display:flex; justify-content:space-between; align-items:baseline; gap:2rem; }
+.section-heading h2 { font-size:2rem; margin:0; } .section-heading .eyebrow { margin:0; }
+.project { display:grid; grid-template-columns:2rem minmax(0,1fr); gap:1.4rem; padding:1.9rem 0; border-bottom:1px solid var(--border); }
+.project-number { font-size:.875rem; color:var(--muted-foreground); padding-top:.3rem; }
+.project h3 { font-size:1.65rem; line-height:1.25; margin:0 0 .75rem; } .project p:last-child { margin-bottom:0; }
+.project .eyebrow { font-size:.875rem; margin-bottom:.8rem; } .book-subtitle { font-style:italic; }
+.text-link { color:var(--primary); font-size:.875rem; }
+footer { margin-top:3rem; padding:0 0 2rem; display:flex; justify-content:space-between; gap:1rem; font-size:.875rem; color:var(--muted-foreground); }
+@media(min-width:1000px) { .profile { position:sticky; top:2rem; } }
+@media(max-width:760px) { .site-header { padding:1.25rem 1.5rem; flex-wrap:wrap; gap:.7rem; } .wordmark span { display:none; } nav { gap:1.2rem; } .page-grid { grid-template-columns:minmax(0,1fr); padding:2.5rem 1.5rem 0; gap:2.75rem; } .profile { display:grid; grid-template-columns:minmax(110px,155px) minmax(0,1fr); gap:1.4rem; } .profile-meta { padding-top:0; } .profile-links { margin-top:1rem; padding-top:.75rem; } .profile-meta .affiliation { margin-top:.5rem; } h1 { font-size:3.6rem; } .research { margin-top:2.7rem; } }
+@media(max-width:390px) { .profile { grid-template-columns:110px minmax(0,1fr); gap:1rem; } .profile-links a { overflow-wrap:anywhere; } }
+@media(prefers-reduced-motion:reduce) { html { scroll-behavior:auto; } }
