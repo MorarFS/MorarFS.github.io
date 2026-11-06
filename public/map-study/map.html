@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="Explore Matteo Ricci’s World Map and the Manchus through Florin-Stefan Morar’s original essay and source images." name="description"/>
+<meta content="#ffffff" name="theme-color"/>
+<title>Matteo Ricci’s World Map and the Manchus · Connected Cartographies</title>
+<link as="image" href="media/xuantu/preview.webp" rel="preload"/>
+<link href="explorer.css" rel="stylesheet"/>
+<script defer="" src="vendor/openseadragon.min.js"></script>
+<script defer="" src="explorer.js"></script>
+</head>
+<body>
+<a class="skip-link" href="#reading">Skip to the story</a>
+<svg aria-hidden="true" class="icon-definitions" xmlns="http://www.w3.org/2000/svg"><defs>
+<symbol id="i-plus" viewbox="0 0 24 24"><path d="M12 5v14M5 12h14"></path></symbol>
+<symbol id="i-minus" viewbox="0 0 24 24"><path d="M5 12h14"></path></symbol>
+<symbol id="i-left" viewbox="0 0 24 24"><path d="m14 5-7 7 7 7M7 12h14"></path></symbol>
+<symbol id="i-right" viewbox="0 0 24 24"><path d="m10 5 7 7-7 7M3 12h14"></path></symbol>
+<symbol id="i-fit" viewbox="0 0 24 24"><path d="M9 4H4v5m11-5h5v5M4 15v5h5m11-5v5h-5"></path></symbol>
+<symbol id="i-close" viewbox="0 0 24 24"><path d="m6 6 12 12M6 18 18 6"></path></symbol>
+<symbol id="i-source" viewbox="0 0 24 24"><path d="M7 3h10v18H7zM10 7h4m-4 4h4m-4 4h4"></path></symbol>
+<symbol id="i-link" viewbox="0 0 24 24"><path d="m9 15 6-6m-6-2 2-2a4 4 0 0 1 6 6l-2 2m0 4-2 2a4 4 0 0 1-6-6l2-2"></path></symbol>
+<symbol id="i-pin" viewbox="0 0 24 24"><circle cx="12" cy="10" r="3"></circle><path d="M19 10c0 5-7 11-7 11S5 15 5 10a7 7 0 0 1 14 0Z"></path></symbol>
+<symbol id="i-compare" viewbox="0 0 24 24"><path d="M3 5h7v14H3zM14 5h7v14h-7z"></path></symbol>
+</defs></svg>
+<header class="site-header">
+<a class="wordmark" href="https://connectedcartographies.net/">Connected Cartographies</a>
+<span class="header-author">Florin-Stefan Morar</span>
+<nav aria-label="Map navigation">
+<button aria-label="Compare maps" aria-pressed="false" id="compare-toggle"><svg><use href="#i-compare"></use></svg><span class="compare-label-wide">Compare maps</span><span aria-hidden="true" class="compare-label-narrow">Compare</span></button>
+<a class="essay-link" href="essay.html">Read the essay</a>
+</nav>
+</header>
+<main class="experience">
+<aside aria-label="Story and map details" class="story-panel">
+<div class="panel-scroll" id="reading" tabindex="-1">
+<div id="welcome">
+<h1>Matteo Ricci’s World Map and the Manchus</h1>
+<p class="byline">Florin-Stefan Morar</p>
+<blockquote>“Indeed, Xuantu is important not so much for what it has in it but for what it has on it: the repairs, modifications, and annotations added to the original print.”</blockquote>
+<button class="primary-button" id="start-story">Follow the story <svg><use href="#i-right"></use></svg></button>
+<button class="quiet-button" id="start-explore">Explore freely</button>
+<p class="intro-instruction">Move closer. The details tell the story.</p>
+</div>
+<div hidden="" id="story-content">
+<label class="field-label" for="chapter-select">In this story</label>
+<select aria-label="Choose a chapter" id="chapter-select"></select>
+<h2 id="passage-title" tabindex="-1"></h2>
+<div class="scholarly-text" id="passage-body"></div>
+<button class="text-button" id="reframe">Show this detail again <svg><use href="#i-fit"></use></svg></button>
+</div>
+<div hidden="" id="explore-content">
+<h2>Look closer</h2>
+<p class="explore-instruction">Choose a detail, or make your own way across the map.</p>
+<div class="detail-list" id="detail-list"></div>
+<div hidden="" id="detail-reading"><h3 id="detail-title"></h3><div class="scholarly-text" id="detail-body"></div><button class="text-button" id="continue-story">Continue from here <svg><use href="#i-right"></use></svg></button></div>
+<button class="text-button" id="explore-to-story">Follow the whole story <svg><use href="#i-right"></use></svg></button>
+</div>
+<div hidden="" id="source-content">
+<button class="text-button" id="source-back"><svg><use href="#i-left"></use></svg> Back to reading</button>
+<h2 id="source-title"></h2>
+<img alt="The Xuantu, 1603" class="source-thumb" id="source-thumb" src="media/xuantu/preview.webp"/>
+<p class="source-credit" id="source-credit"></p>
+<p class="source-note">Attribution follows the original essay.</p>
+<a class="text-link" id="original-link" rel="noopener" target="_blank">Open the original image</a>
+<p class="source-note" id="source-resolution"></p>
+<a class="text-link" href="essay.html" id="essay-section-link">Read in the full essay</a>
+</div>
+<details class="help-details">
+<summary>How to explore</summary>
+<p>Drag to move. Scroll or pinch to zoom. Choose a numbered marker to read about a detail.</p>
+<p>With the image focused, use the arrow keys to move, + and − to zoom, and 0 to fit the image. All markers are also listed in Explore freely.</p>
+<button aria-pressed="false" class="text-button" id="motion-toggle">Camera motion: on</button>
+</details>
+</div>
+<div class="story-controls" hidden="" id="story-controls">
+<div class="progress-meta"><span id="step-count"></span><button class="text-button" id="to-free">Explore freely</button></div>
+<input aria-label="Story position" id="story-position" max="25" min="0" type="range" value="0"/>
+<div class="step-buttons"><button id="previous"><svg><use href="#i-left"></use></svg>Previous</button><button class="primary-button" id="next">Next<svg><use href="#i-right"></use></svg></button></div>
+</div>
+</aside>
+<section aria-label="Interactive source images" class="map-workspace">
+<div class="map-topbar">
+<button class="map-button" id="whole-map"><svg><use href="#i-fit"></use></svg><span>Whole map</span></button>
+<button aria-pressed="true" class="map-button" id="markers-toggle"><svg><use href="#i-pin"></use></svg><span>Details</span></button>
+<button class="map-button" hidden="" id="compare-close"><svg><use href="#i-close"></use></svg>Close comparison</button>
+<span id="map-instruction">Drag to move · Scroll or pinch to zoom</span>
+</div>
+<div class="viewers">
+<div class="image-frame" id="main-frame">
+<div class="comparison-caption" hidden="" id="main-comparison-caption"><h2>The Xuantu, 1603</h2><p>Li Yingshi and Matteo Ricci</p></div>
+<img alt="Eight panels of the Xuantu world map" class="map-poster" id="map-poster" src="media/xuantu/preview.webp"/>
+<div aria-label="Zoomable source image. Arrow keys move; plus and minus zoom; 0 fits the image." class="deep-viewer" id="map-viewer" role="region" tabindex="0"></div>
+<div class="zoom-controls"><button aria-label="Zoom in" class="icon-button" id="zoom-in"><svg><use href="#i-plus"></use></svg></button><span aria-label="Zoom relative to whole image" id="zoom-level">100%</span><button aria-label="Zoom out" class="icon-button" id="zoom-out"><svg><use href="#i-minus"></use></svg></button></div>
+<div aria-label="Image overview" class="overview" id="overview"></div>
+</div>
+<div class="image-frame" hidden="" id="compare-frame">
+<div class="comparison-caption"><h2>A predecessor, 1602</h2><p>Matteo Ricci and Li Zhizao</p></div>
+<div aria-label="Zoomable 1602 map. Arrow keys move; plus and minus zoom; 0 fits the image." class="deep-viewer" id="compare-viewer" role="region" tabindex="0"></div>
+<div class="peer-controls"><button aria-label="Zoom into the 1602 map" class="icon-button" id="peer-in"><svg><use href="#i-plus"></use></svg></button><button aria-label="Zoom out of the 1602 map" class="icon-button" id="peer-out"><svg><use href="#i-minus"></use></svg></button><button aria-label="Fit the 1602 map" class="icon-button" id="peer-fit"><svg><use href="#i-fit"></use></svg></button></div>
+<a class="peer-credit" href="sources/ricci.jpeg" rel="noopener" target="_blank">James Ford Bell Library, University of Minnesota</a>
+</div>
+</div>
+<footer class="image-footer"><div><span id="image-title">The Xuantu, 1603</span><span id="image-context">Liaoning Provincial Museum, Shenyang</span></div><div class="image-actions"><button aria-expanded="false" id="source-button"><svg><use href="#i-source"></use></svg>Source</button><button id="share-button"><svg><use href="#i-link"></use></svg>Copy link</button></div></footer>
+<p class="load-message" id="load-message" role="status">Opening the map…</p>
+<div class="image-error" hidden="" id="image-error"><p>The zoomable image could not load.</p><button id="retry-image">Try again</button><a href="sources/Fig.4.1.png" id="fallback-link">Open the source image</a></div>
+</section>
+</main>
+<p aria-live="polite" class="visually-hidden" id="announcement"></p>
+<div class="toast" hidden="" id="toast" role="status"></div>
+<noscript><div class="no-script"><p>The explorer needs JavaScript. The complete essay and its original images are available below.</p><a href="essay.html">Read the essay</a></div></noscript>
+</body>
+</html>

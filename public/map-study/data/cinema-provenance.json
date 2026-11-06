@@ -1,0 +1,66 @@
+{
+  "version": "map-film-subtitles-v4",
+  "room": {
+    "method": "Built-in ImageGen",
+    "interpretation": "Imagined interior, not a documented location",
+    "generatedSha256": "6f09bd2f4c64977504b736306d3f02bba546528a6cd2e4b3e9b259d87634fc14",
+    "deliverySha256": "b3c3245c4b0829f6b49e02f28ba85873f3480a6aee28769d4e9084cfbdf94f50",
+    "mapPixels": "Original Xuantu preview placed by HTML; map pixels are not generated"
+  },
+  "film": {
+    "method": "Eight original source panels unroll sequentially, followed by source-only camera movement and static evidence holds",
+    "manifest": "data/map-film-v4.json",
+    "delivery": "media/map-film-v4/map-study.mp4",
+    "duration": 940.4583333333334,
+    "fps": 24,
+    "frames": 22571,
+    "audio": false,
+    "characters": false,
+    "sourcePassages": 26,
+    "subtitles": 153,
+    "narrativePosition": "Below the map",
+    "readingPace": {
+      "wordsPerMinute": 150,
+      "minimumSeconds": 3,
+      "maximumCharactersPerSecond": 13,
+      "pauseSeconds": 0.45
+    },
+    "deliverySha256": "c02663b986867d64cb3940c4b043a1bcaea6814bef6179e844f6e2dbe44ec50a",
+    "masterSha256": "ab9a6e045d387062b39bd764bff56eb6c11cc813d7ff119b32c73d4af287c131",
+    "opening": {
+      "method": "Source-textured sequential unrolling of the eight genuine unequal map panels, right to left",
+      "completeRevealSeconds": 15.291666666666666,
+      "panelBoundariesCropX": [
+        0,
+        1057,
+        2113,
+        3119,
+        4114,
+        5118,
+        6123,
+        7123,
+        8121
+      ],
+      "sourceSha256": "371f8d520321bab95e89c984d07488aa05bbe7e561b2c8012368b7645a16ba99"
+    }
+  },
+  "catalogue": {
+    "data": "maps/data/catalogue.json",
+    "scope": "250 sourced records, including181 map/copy units; explicit coverage gaps",
+    "model": "Public CROSS v4,11October2026",
+    "images": "Sourced institutional images and exact public CROSS identification reproductions; restricted images link to the institution",
+    "publishedUrl": "https://morarfs.github.io/sino-western-maps/",
+    "backlink": "https://connectedcartographies.net/"
+  },
+  "palette": {
+    "userInstruction": "black white and red",
+    "primaryRed": "#c62026",
+    "generatedRoom": "CSS grayscale(1)",
+    "originalMapAndFilm": "Unfiltered original colors"
+  },
+  "newGPUJob": false,
+  "publication": {
+    "catalogue": "Published on the user’s existing GitHub Pages site",
+    "film": "https://morarfs.github.io/map-study/"
+  }
+}

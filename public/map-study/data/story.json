@@ -1,0 +1,626 @@
+{
+  "title": "Matteo Ricci’s World Map and the Manchus",
+  "author": "Florin-Stefan Morar",
+  "sourcePage": "https://cstudy1.connectedcartographies.net/",
+  "sourcePageSha256": "d4aed21fecf47a15a3eb5ea5bd0094fb6ec6b78f220b2d52f4df4ff0e3ad2edb",
+  "assets": {
+    "xuantu": {
+      "id": "xuantu",
+      "title": "The Xuantu, 1603",
+      "credit": "Map of Observing the Mysteries of the Heaven and Earth. Liaoning Provincial Museum, Shenyang.",
+      "width": 8121,
+      "height": 3582,
+      "dzi": "media/xuantu/image.dzi",
+      "preview": "media/xuantu/preview.webp",
+      "original": "https://cstudy1.connectedcartographies.net/assets/figure%201.png",
+      "originalSha256": "371f8d520321bab95e89c984d07488aa05bbe7e561b2c8012368b7645a16ba99",
+      "crop": [
+        210,
+        1427,
+        8331,
+        5009
+      ],
+      "legacyImage": "sources/Fig.4.1.png"
+    },
+    "ricci": {
+      "id": "ricci",
+      "title": "Ricci and Li Zhizao’s world map, 1602",
+      "credit": "Map of myriad countries of the Earth, Kunyu wanguo quantu 坤輿萬國全圖, by Matteo Ricci, Li Zhizao 李之藻, et al., 1602. James Ford Bell Library, University of Minnesota.",
+      "width": 1873,
+      "height": 821,
+      "dzi": "media/ricci/image.dzi",
+      "preview": "media/ricci/preview.webp",
+      "original": "sources/ricci.jpeg",
+      "originalSha256": "e1f2d89f84026a4189a7c61e548fb1beca7b78d812166eb4bd1203064edb5cd8",
+      "crop": null,
+      "legacyImage": "sources/ricci.jpeg"
+    },
+    "screen": {
+      "id": "screen",
+      "title": "Folding screen",
+      "credit": "Folding screen with figures in a landscape, Qing dynasty, Metropolitan Museum of Art, New York.",
+      "width": 1200,
+      "height": 900,
+      "dzi": "media/screen/image.dzi",
+      "preview": "media/screen/preview.webp",
+      "original": "sources/main-image.jpeg",
+      "originalSha256": "3d4ff9a9257659c8ca5c59c41a6435bdacfa430aed5bca02003450d78fb57b88",
+      "crop": null,
+      "legacyImage": "sources/main-image.jpeg"
+    },
+    "cartouche": {
+      "id": "cartouche",
+      "title": "The equatorial commentary",
+      "credit": "Detail of the Xuantu used in the original essay. Liaoning Provincial Museum, Shenyang.",
+      "width": 1280,
+      "height": 864,
+      "dzi": "media/cartouche/image.dzi",
+      "preview": "media/cartouche/preview.webp",
+      "original": "sources/zoom1.jpg",
+      "originalSha256": "c49f4b232cd24cd82cf4d76fc5e38580636a6156539cadb589fac032029e3e02",
+      "crop": null,
+      "legacyImage": "sources/zoom1.jpg"
+    },
+    "cosmology": {
+      "id": "cosmology",
+      "title": "Manchu commentary and translation",
+      "credit": "Source figure reproduced in the original essay.",
+      "width": 873,
+      "height": 854,
+      "dzi": "media/cosmology/image.dzi",
+      "preview": "media/cosmology/preview.webp",
+      "original": "sources/Fig.4.3.png",
+      "originalSha256": "8324436677b4d20df16490bce55d97033c5da7189d67a78e5c936c116054399f",
+      "crop": null,
+      "legacyImage": "sources/Fig.4.3.png"
+    },
+    "repair": {
+      "id": "repair",
+      "title": "The repaired paper",
+      "credit": "Detail of the Xuantu used in the original essay. Liaoning Provincial Museum, Shenyang.",
+      "width": 2529,
+      "height": 2905,
+      "dzi": "media/repair/image.dzi",
+      "preview": "media/repair/preview.webp",
+      "original": "sources/Fig.4.2.png",
+      "originalSha256": "890b9af6995f3e1f66f359c208eb012b235be1ecbb4a9cea8f6e5f3c18319b46",
+      "crop": null,
+      "legacyImage": "sources/Fig.4.2.png"
+    },
+    "north": {
+      "id": "north",
+      "title": "Places in the northern hemisphere",
+      "credit": "Annotated source figure reproduced in the original essay.",
+      "width": 2064,
+      "height": 1540,
+      "dzi": "media/north/image.dzi",
+      "preview": "media/north/preview.webp",
+      "original": "sources/Fig.4.4b.png",
+      "originalSha256": "1108b1c262ef4e40ee8fa26cf4067d618ef9bc5991aa66311fa99d7353db8f5e",
+      "crop": null,
+      "legacyImage": "sources/Fig.4.4b.png"
+    },
+    "places": {
+      "id": "places",
+      "title": "Place-names across the map",
+      "credit": "Annotated source figure reproduced in the original essay.",
+      "width": 2095,
+      "height": 1540,
+      "dzi": "media/places/image.dzi",
+      "preview": "media/places/preview.webp",
+      "original": "sources/Fig.4.4a.png",
+      "originalSha256": "62f2a4fdf21b4b1bedcf98c220e795ce7d1ef967917a1d4bb4285c2f9e9065b5",
+      "crop": null,
+      "legacyImage": "sources/Fig.4.4a.png"
+    },
+    "script": {
+      "id": "script",
+      "title": "The form of the script",
+      "credit": "Source figure reproduced in the original essay.",
+      "width": 1012,
+      "height": 1486,
+      "dzi": "media/script/image.dzi",
+      "preview": "media/script/preview.webp",
+      "original": "sources/Fig.4.5.png",
+      "originalSha256": "6f671ffc3aaf7d7ccb1da69be53414db76a89350635c07a02a4a201f1d9f39cb",
+      "crop": null,
+      "legacyImage": "sources/Fig.4.5.png"
+    },
+    "great-ming": {
+      "id": "great-ming",
+      "title": "The Great Ming map",
+      "credit": "Synthetic map of the Great Ming, Da Ming hunyi tu 大明混一圖. Original in First Historical Archives, Beijing; reprint in Zhongguo Gudai Ditu Ji (Beijing, 1990). Facsimile from the Shanghai Museum of Navigation. Photograph by the author.",
+      "width": 1024,
+      "height": 768,
+      "dzi": "media/great-ming/image.dzi",
+      "preview": "media/great-ming/preview.webp",
+      "original": "sources/Fig.4.7.jpeg",
+      "originalSha256": "8dd3ae9c524d9da3bb84b5fa36f6b12e1a6a86194406325f17ae4680b3cb1e39",
+      "crop": null,
+      "legacyImage": "sources/Fig.4.7.jpeg"
+    }
+  },
+  "chapters": [
+    {
+      "id": "first-encounter",
+      "title": "An eight-panel world",
+      "firstStop": "passage-01-02"
+    },
+    {
+      "id": "maps-in-print",
+      "title": "Maps in print",
+      "firstStop": "passage-02-01"
+    },
+    {
+      "id": "reading-additions",
+      "title": "Reading the additions",
+      "firstStop": "passage-05-01"
+    },
+    {
+      "id": "repairs",
+      "title": "Repairs and losses",
+      "firstStop": "passage-08-01"
+    },
+    {
+      "id": "places",
+      "title": "Places in translation",
+      "firstStop": "passage-10-01"
+    },
+    {
+      "id": "script",
+      "title": "Dating the script",
+      "firstStop": "passage-12-01"
+    },
+    {
+      "id": "continuity",
+      "title": "Across the divide",
+      "firstStop": "passage-13-01"
+    }
+  ],
+  "stops": [
+    {
+      "id": "passage-01-02",
+      "title": "The Xuantu",
+      "chapter": 0,
+      "chapterId": "first-encounter",
+      "asset": "xuantu",
+      "html": "\n<p class=\"interactive\" data-anim=\"default1\"><i>The Map of Observing the Mysteries of the Heaven and Earth (Liangyi xuanlan\n                        tu 兩儀玄覽圖 ), </i>which we call here the <em>Xuantu</em><em> </em>is a worldmap\n                        in eight panels created in 1603 by the Ming dynasty\n                        military official Li Yingshi李應試. <br/><br/> <i>Figure 1: Map of Observing the Mysteries of the Heaven and the Earth. Liaoning Provincial Museum辽宁省博物馆, Shenyang, People's Republic of China </i> </p>\n",
+      "text": "The Map of Observing the Mysteries of the Heaven and Earth (Liangyi xuanlan\n                        tu 兩儀玄覽圖 ), which we call here the Xuantu is a worldmap\n                        in eight panels created in 1603 by the Ming dynasty\n                        military official Li Yingshi李應試. Figure 1: Map of Observing the Mysteries of the Heaven and the Earth. Liaoning Provincial Museum辽宁省博物馆, Shenyang, People's Republic of China",
+      "focus": null,
+      "legacyAnimation": "default1",
+      "originalSection": 0,
+      "originalCaption": 1
+    },
+    {
+      "id": "passage-01-03",
+      "title": "Before the conquest",
+      "chapter": 0,
+      "chapterId": "first-encounter",
+      "asset": "xuantu",
+      "html": "\n<p class=\"interactive\" data-anim=\"default1\">There is strong reason to believe that\n                        the Manchus obtained this particular map before they conquered China, a surprising\n                        development that makes us reconsider the Manchus' relationship to Western\n                        cartography. <br/> <br/> This interactive websiste will tell the\n                        story of this maps and presents some of the evidence linking the Xuantu map to the pre-\n                        conquest Manchus </p>\n",
+      "text": "There is strong reason to believe that\n                        the Manchus obtained this particular map before they conquered China, a surprising\n                        development that makes us reconsider the Manchus' relationship to Western\n                        cartography. This interactive websiste will tell the\n                        story of this maps and presents some of the evidence linking the Xuantu map to the pre-\n                        conquest Manchus",
+      "focus": null,
+      "legacyAnimation": "default1",
+      "originalSection": 0,
+      "originalCaption": 2
+    },
+    {
+      "id": "passage-02-01",
+      "title": "A printed predecessor",
+      "chapter": 1,
+      "chapterId": "maps-in-print",
+      "asset": "ricci",
+      "html": "\n<p class=\"interactive\" data-anim=\"default9\">\n                        Matteo Ricci and the scholar Li Zhizao 李之藻 created in 1602 a map named Complete Map of the Myriad Kingdoms of the World ( Kunyu Wanguo Quantu 坤輿萬國全圖). \n                        It included geographical descriptions of the historical five continents, complete with place-names, a précis of Ptolemaic cosmology, and paper instruments for measuring polar altitude and latitude.      \n                    <br/> <br/> <i>Figure 2: Map of myriad countries of the Earth, Kunyu wanguo quantu 坤輿萬國全圖, by Matteo Ricci, Li Zhizao 李之藻, et al., 1602.  James Ford Bell Library, University of Minnesota. </i></p>\n",
+      "text": "Matteo Ricci and the scholar Li Zhizao 李之藻 created in 1602 a map named Complete Map of the Myriad Kingdoms of the World ( Kunyu Wanguo Quantu 坤輿萬國全圖). \n                        It included geographical descriptions of the historical five continents, complete with place-names, a précis of Ptolemaic cosmology, and paper instruments for measuring polar altitude and latitude. Figure 2: Map of myriad countries of the Earth, Kunyu wanguo quantu 坤輿萬國全圖, by Matteo Ricci, Li Zhizao 李之藻, et al., 1602.  James Ford Bell Library, University of Minnesota.",
+      "focus": null,
+      "legacyAnimation": "default9",
+      "originalSection": 1,
+      "originalCaption": 0
+    },
+    {
+      "id": "passage-03-01",
+      "title": "The scale of the object",
+      "chapter": 1,
+      "chapterId": "maps-in-print",
+      "asset": "xuantu",
+      "html": "\n<p class=\"interactive\" data-anim=\"default12\"> \n                        The Xuantu is a large object, measuring 2 meters (78.74 inches) vertically and 4.42 meters (174.01 inches) horizontally. As such, it fits awkwardly among Chinese prints from the Ming dynasty. Maps of this size meant for a high-end audience of officials were rarely prints. Instead, just as for paintings, Chinese artisans normally used silk, which was favored for its superior durability. Silk, however, because of its cost, was more appropriate for the creation of unique items, such as decorative folding screens. \n                    </p>\n",
+      "text": "The Xuantu is a large object, measuring 2 meters (78.74 inches) vertically and 4.42 meters (174.01 inches) horizontally. As such, it fits awkwardly among Chinese prints from the Ming dynasty. Maps of this size meant for a high-end audience of officials were rarely prints. Instead, just as for paintings, Chinese artisans normally used silk, which was favored for its superior durability. Silk, however, because of its cost, was more appropriate for the creation of unique items, such as decorative folding screens.",
+      "focus": null,
+      "legacyAnimation": "default12",
+      "originalSection": 2,
+      "originalCaption": 0
+    },
+    {
+      "id": "passage-04-01",
+      "title": "The fragility of print",
+      "chapter": 1,
+      "chapterId": "maps-in-print",
+      "asset": "screen",
+      "html": "\n<p class=\"interactive\" data-anim=\"default14\"> For Sino-Western world maps, the desire to quickly disseminate many copies trumped that of creating solid, durable objects. World maps by Matteo Ricci and other Jesuits thus came to occupy an important niche. They were as large in size as silk maps made for important people, yet easily reproducible and affordable. This was at the root of their success in the late Ming. It is also the reason why so few copies survived: large prints were fragile.\n                   <br/><br/> <i>Folding screen with figures in a landscape, Qing dynasty, Metropolitan Museum of Art, New York. </i> </p>\n",
+      "text": "For Sino-Western world maps, the desire to quickly disseminate many copies trumped that of creating solid, durable objects. World maps by Matteo Ricci and other Jesuits thus came to occupy an important niche. They were as large in size as silk maps made for important people, yet easily reproducible and affordable. This was at the root of their success in the late Ming. It is also the reason why so few copies survived: large prints were fragile. Folding screen with figures in a landscape, Qing dynasty, Metropolitan Museum of Art, New York.",
+      "focus": null,
+      "legacyAnimation": "default14",
+      "originalSection": 3,
+      "originalCaption": 0
+    },
+    {
+      "id": "passage-05-01",
+      "title": "What is on the map",
+      "chapter": 2,
+      "chapterId": "reading-additions",
+      "asset": "xuantu",
+      "html": "\n<p class=\"interactive\" data-anim=\"zoom1\">Indeed, Xuantu is important not so much for what it has in\n                      it but for what it has on it: the repairs, modifications, and annotations added to the original\n                      print. </p>\n",
+      "text": "Indeed, Xuantu is important not so much for what it has in\n                      it but for what it has on it: the repairs, modifications, and annotations added to the original\n                      print.",
+      "focus": [
+        0.5,
+        0.5,
+        0.75
+      ],
+      "legacyAnimation": "zoom1",
+      "originalSection": 4,
+      "originalCaption": 0
+    },
+    {
+      "id": "passage-05-02",
+      "title": "Three kinds of evidence",
+      "chapter": 2,
+      "chapterId": "reading-additions",
+      "asset": "xuantu",
+      "html": "\n<p class=\"interactive\" data-anim=\"zoom1\">\n<br/> Material alterations, the content of annotations, and the form of the Manchu script are three aspects that demonstrate the epistemological engagement of the Manchu translators of the Later Jin state with the<em> Map of Observing the Mysteries of the Heaven and Earth. </em>\n</p>\n",
+      "text": "Material alterations, the content of annotations, and the form of the Manchu script are three aspects that demonstrate the epistemological engagement of the Manchu translators of the Later Jin state with the Map of Observing the Mysteries of the Heaven and Earth.",
+      "focus": [
+        0.5,
+        0.5,
+        0.75
+      ],
+      "legacyAnimation": "zoom1",
+      "originalSection": 4,
+      "originalCaption": 1
+    },
+    {
+      "id": "passage-05-03",
+      "title": "Painted mountain ranges",
+      "chapter": 2,
+      "chapterId": "reading-additions",
+      "asset": "xuantu",
+      "html": "\n<p class=\"interactive\" data-anim=\"zoom2\"> The Map of Observing Mysteries, like its 1602 predecessor,\n                        the Map of Myriad Kingdoms, was intended by Ricci to be colored by hand, to better distinguish\n                        the continents and land masses from the bodies of water. Since the coloring process had to be\n                        done after the printing and involved the work of another specialized artisan, incurring\n                        additional expenses, many copies remained black-and-white prints. The Shenyang copy was originally uncolored. Yet during its life in the Shenyang palace, an artisan was\n                        tasked with embellishing the mountain ranges across all the continents in the style of Chinese\n                        painting. The color scheme of these decorations—blue, green, and gold—fits the one used\n                        throughout the Shenyang palace.\n                    </p>\n",
+      "text": "The Map of Observing Mysteries, like its 1602 predecessor,\n                        the Map of Myriad Kingdoms, was intended by Ricci to be colored by hand, to better distinguish\n                        the continents and land masses from the bodies of water. Since the coloring process had to be\n                        done after the printing and involved the work of another specialized artisan, incurring\n                        additional expenses, many copies remained black-and-white prints. The Shenyang copy was originally uncolored. Yet during its life in the Shenyang palace, an artisan was\n                        tasked with embellishing the mountain ranges across all the continents in the style of Chinese\n                        painting. The color scheme of these decorations—blue, green, and gold—fits the one used\n                        throughout the Shenyang palace.",
+      "focus": [
+        0.8,
+        0.28,
+        0.24
+      ],
+      "legacyAnimation": "zoom2",
+      "originalSection": 4,
+      "originalCaption": 2
+    },
+    {
+      "id": "passage-05-04",
+      "title": "Annotations and cosmology",
+      "chapter": 2,
+      "chapterId": "reading-additions",
+      "asset": "xuantu",
+      "html": "\n<p class=\"interactive\" data-anim=\"zoom3\">Besides the repairs and added decorative elements, the\n                        Shenyang copy of the Map of Observing Mysteries displays a number of Manchu annotations.\n                        These inscriptions consisted of both topology and technical elements. The technical\n                        elements included the cosmological theory explained in the map's prefaces and surrounding texts.\n                        The theory of the map expounded in the preface by Matteo Ricci presented relationships between\n                        Earth's spherical shape, its position in the solar system, and the cycles of night and day.\n                        All of these features, represented by lines on the map, had Manchu translations attached. \n                    </p>\n",
+      "text": "Besides the repairs and added decorative elements, the\n                        Shenyang copy of the Map of Observing Mysteries displays a number of Manchu annotations.\n                        These inscriptions consisted of both topology and technical elements. The technical\n                        elements included the cosmological theory explained in the map's prefaces and surrounding texts.\n                        The theory of the map expounded in the preface by Matteo Ricci presented relationships between\n                        Earth's spherical shape, its position in the solar system, and the cycles of night and day.\n                        All of these features, represented by lines on the map, had Manchu translations attached.",
+      "focus": [
+        0.55,
+        0.51,
+        0.25
+      ],
+      "legacyAnimation": "zoom3",
+      "originalSection": 4,
+      "originalCaption": 3
+    },
+    {
+      "id": "passage-06-01",
+      "title": "The equatorial commentary",
+      "chapter": 2,
+      "chapterId": "reading-additions",
+      "asset": "cartouche",
+      "html": "\n<p class=\"interactive\" data-anim=\"default13\"> The\n                        central text of the map summarized the cosmology in a commentary written in Manchu placed on the\n                        map near the line of the equator. The main divisions of Earth into continents and\n                        oceans, described in the preface by Ricci and other texts on the map, were also translated.\n                    </p>\n",
+      "text": "The\n                        central text of the map summarized the cosmology in a commentary written in Manchu placed on the\n                        map near the line of the equator. The main divisions of Earth into continents and\n                        oceans, described in the preface by Ricci and other texts on the map, were also translated.",
+      "focus": null,
+      "legacyAnimation": "default13",
+      "originalSection": 5,
+      "originalCaption": 0
+    },
+    {
+      "id": "passage-07-01",
+      "title": "Understanding the theory",
+      "chapter": 2,
+      "chapterId": "reading-additions",
+      "asset": "cosmology",
+      "html": "\n<p class=\"interactive\" data-anim=\"default6\"> Taken together, they suggest that the Manchu translator had a grasp of and an interest in\n                        the “theory” of the map, having read and understood the prefaces and other accompanying texts.\n                    </p>\n",
+      "text": "Taken together, they suggest that the Manchu translator had a grasp of and an interest in\n                        the “theory” of the map, having read and understood the prefaces and other accompanying texts.",
+      "focus": null,
+      "legacyAnimation": "default6",
+      "originalSection": 6,
+      "originalCaption": 0
+    },
+    {
+      "id": "passage-08-01",
+      "title": "Damage and repair",
+      "chapter": 3,
+      "chapterId": "repairs",
+      "asset": "xuantu",
+      "html": "\n<p class=\"interactive\" data-anim=\"default7\"> There are three things that make us believe that this\n                        map stood out at its time. It was repaired, intentionally colored, and had inscriptions of the\n                        Manchu transcript on it. When it was used in the Shenyang palace, the Xuantu was damaged. Winters in Shenyang are\n                        bitterly cold, and rooms must be heated. For this reason, there was a temperature difference\n                        between the upper and lower parts of the room. This created condensation, and because the map\n                        was most likely displayed vertically, the dampness damaged the portions closer to the ground.\n                    </p>\n",
+      "text": "There are three things that make us believe that this\n                        map stood out at its time. It was repaired, intentionally colored, and had inscriptions of the\n                        Manchu transcript on it. When it was used in the Shenyang palace, the Xuantu was damaged. Winters in Shenyang are\n                        bitterly cold, and rooms must be heated. For this reason, there was a temperature difference\n                        between the upper and lower parts of the room. This created condensation, and because the map\n                        was most likely displayed vertically, the dampness damaged the portions closer to the ground.",
+      "focus": null,
+      "legacyAnimation": "default7",
+      "originalSection": 7,
+      "originalCaption": 0
+    },
+    {
+      "id": "passage-08-02",
+      "title": "Redrawn meridians",
+      "chapter": 3,
+      "chapterId": "repairs",
+      "asset": "xuantu",
+      "html": "\n<p class=\"interactive\" data-anim=\"zoombottom\">The bottom corner of the eight roll (left side of the map) of the Shengyang copy of the Map\n                        of observing mysteries. This area, representing the Southern Hemisphere, was damaged and later\n                        repaired. An artisan had applied paper paste and, after it dried, redrew the meridians to give\n                        the impression of continuity. Further damage to the map reveals the discrepancy between the two\n                        layers.</p>\n",
+      "text": "The bottom corner of the eight roll (left side of the map) of the Shengyang copy of the Map\n                        of observing mysteries. This area, representing the Southern Hemisphere, was damaged and later\n                        repaired. An artisan had applied paper paste and, after it dried, redrew the meridians to give\n                        the impression of continuity. Further damage to the map reveals the discrepancy between the two\n                        layers.",
+      "focus": [
+        0.045,
+        0.8,
+        0.19
+      ],
+      "legacyAnimation": "zoombottom",
+      "originalSection": 7,
+      "originalCaption": 1
+    },
+    {
+      "id": "passage-09-01",
+      "title": "Two layers of paper",
+      "chapter": 3,
+      "chapterId": "repairs",
+      "asset": "repair",
+      "html": "\n<p class=\"interactive\" data-anim=\"default2\">\n                        The amount of information included in the reconstruction on the top stratum differed from that of\n                        the layer below. This was due perhaps to the artisan's limited knowledge. But it might also be a\n                        reflection of the interests of the map owners. he Southern Hemisphere on the left side of the\n                        map (roll one), for instance, disappeared completely, being covered up in the restoration; only\n                        a circle and some of the radiating meridians were copied on top for consistency. On the other\n                        hand, the northern hemisphere was preserved, and annotations were added to it because it\n                        encompassed places the Manchus were interested in.\n                    </p>\n",
+      "text": "The amount of information included in the reconstruction on the top stratum differed from that of\n                        the layer below. This was due perhaps to the artisan's limited knowledge. But it might also be a\n                        reflection of the interests of the map owners. he Southern Hemisphere on the left side of the\n                        map (roll one), for instance, disappeared completely, being covered up in the restoration; only\n                        a circle and some of the radiating meridians were copied on top for consistency. On the other\n                        hand, the northern hemisphere was preserved, and annotations were added to it because it\n                        encompassed places the Manchus were interested in.",
+      "focus": null,
+      "legacyAnimation": "default2",
+      "originalSection": 8,
+      "originalCaption": 0
+    },
+    {
+      "id": "passage-10-01",
+      "title": "Locating the homeland",
+      "chapter": 4,
+      "chapterId": "places",
+      "asset": "north",
+      "html": "\n<p class=\"interactive\" data-anim=\"default3\"> Most translations of place-names are concentrated in\n                        East Asia, radiating toward Europe.The Manchus, it seems, were primarily preoccupied with\n                        locating themselves and their immediate surroundings; in terms of their outward interest, they\n                        focused on looking westward.\n                        <br/> <br/> The Manchu homeland is marked out by the translation of three adjacent place-names\n                        northeastof the Great Wall: Jurchen (Nüzhen女真), Mount Changbai (Changbai Shan長白山), and the City\n                        of the Five Nations (Wuguo Cheng五國城).\n                    </p>\n",
+      "text": "Most translations of place-names are concentrated in\n                        East Asia, radiating toward Europe.The Manchus, it seems, were primarily preoccupied with\n                        locating themselves and their immediate surroundings; in terms of their outward interest, they\n                        focused on looking westward. The Manchu homeland is marked out by the translation of three adjacent place-names\n                        northeastof the Great Wall: Jurchen (Nüzhen女真), Mount Changbai (Changbai Shan長白山), and the City\n                        of the Five Nations (Wuguo Cheng五國城).",
+      "focus": null,
+      "legacyAnimation": "default3",
+      "originalSection": 9,
+      "originalCaption": 0
+    },
+    {
+      "id": "passage-10-02",
+      "title": "Mount Changbai",
+      "chapter": 4,
+      "chapterId": "places",
+      "asset": "north",
+      "html": "\n<p class=\"interactive\" data-anim=\"zoom5\">The translation of Mount Changbai (Changbai Shan長白山), on\n                        the other hand, is more revealing of the Manchus' own emerging sense of identity in the\n                        sixteenth\n                        century. The mountain, appearing here in translation as Sanggiyan Alin, was part of an imperial\n                        cult throughout the Qing, revered as the birthplace of the mythical founder of the dynasty,\n                        Bukūri Yongšon. The addition of an in-scription alongside the mountain is an indication that\n                        the place was meaningful for the Manchus as early as the Later Jin.\n                    </p>\n",
+      "text": "The translation of Mount Changbai (Changbai Shan長白山), on\n                        the other hand, is more revealing of the Manchus' own emerging sense of identity in the\n                        sixteenth\n                        century. The mountain, appearing here in translation as Sanggiyan Alin, was part of an imperial\n                        cult throughout the Qing, revered as the birthplace of the mythical founder of the dynasty,\n                        Bukūri Yongšon. The addition of an in-scription alongside the mountain is an indication that\n                        the place was meaningful for the Manchus as early as the Later Jin.",
+      "focus": [
+        0.81,
+        0.1,
+        0.42
+      ],
+      "legacyAnimation": "zoom5",
+      "originalSection": 9,
+      "originalCaption": 1
+    },
+    {
+      "id": "passage-10-03",
+      "title": "Names of neighbours",
+      "chapter": 4,
+      "chapterId": "places",
+      "asset": "north",
+      "html": "\n<p class=\"interactive\" data-anim=\"zoom6\"> Moving beyond this sphere, immediately neighboring\n                        countries such as Japan, Korea, and the Great Ming are labeled using names of Manchu origin:\n                        Ose, Sohlo, and Nikan. These names do not describe places or countries but, rather,\n                        ethnicities.They were well established in the common geographic knowledge embedded in the Manchu\n                        language, as the Manchus had direct interactions with them.\n                    </p>\n",
+      "text": "Moving beyond this sphere, immediately neighboring\n                        countries such as Japan, Korea, and the Great Ming are labeled using names of Manchu origin:\n                        Ose, Sohlo, and Nikan. These names do not describe places or countries but, rather,\n                        ethnicities.They were well established in the common geographic knowledge embedded in the Manchu\n                        language, as the Manchus had direct interactions with them.",
+      "focus": [
+        0.65,
+        0.45,
+        0.75
+      ],
+      "legacyAnimation": "zoom6",
+      "originalSection": 9,
+      "originalCaption": 2
+    },
+    {
+      "id": "passage-10-04",
+      "title": "Places farther afield",
+      "chapter": 4,
+      "chapterId": "places",
+      "asset": "north",
+      "html": "\n<p class=\"interactive\" data-anim=\"zoom6.1\">The rest of the translations of place-names on the map\n                        are transliterations in Manchu of the pronunciation of Chinese characters. These include the\n                        place-names for India, the Philippines, Java, Madagascar, the Cape of Good Hope, the Fortunate\n                        (Canary) Islands, Greenland,and Novaya Zemlya. The selection of these places cannot be easily\n                        explained by what we readily know about the Manchus. However, since they were singled out among\n                        all the other locations on the map, we must assume that they triggered a sense of relevance and\n                        recognition for the translator and for the map's viewership.\n                    </p>\n",
+      "text": "The rest of the translations of place-names on the map\n                        are transliterations in Manchu of the pronunciation of Chinese characters. These include the\n                        place-names for India, the Philippines, Java, Madagascar, the Cape of Good Hope, the Fortunate\n                        (Canary) Islands, Greenland,and Novaya Zemlya. The selection of these places cannot be easily\n                        explained by what we readily know about the Manchus. However, since they were singled out among\n                        all the other locations on the map, we must assume that they triggered a sense of relevance and\n                        recognition for the translator and for the map's viewership.",
+      "focus": [
+        0.38,
+        0.5,
+        0.8
+      ],
+      "legacyAnimation": "zoom6.1",
+      "originalSection": 9,
+      "originalCaption": 3
+    },
+    {
+      "id": "passage-11-01",
+      "title": "Maritime connections",
+      "chapter": 4,
+      "chapterId": "places",
+      "asset": "places",
+      "html": "\n<p class=\"interactive\" data-anim=\"zoom5.1\">The translations of places like the Fortunate Islands,\n                        the Cape of Good Hope, Madagascar, Java, and the Philippines resulted from an awareness of the\n                        centers of the European trade network around Eurasia. These were, after all, places from which\n                        ships dropping anchor at Macao would have been coming.\n                    </p>\n",
+      "text": "The translations of places like the Fortunate Islands,\n                        the Cape of Good Hope, Madagascar, Java, and the Philippines resulted from an awareness of the\n                        centers of the European trade network around Eurasia. These were, after all, places from which\n                        ships dropping anchor at Macao would have been coming.",
+      "focus": [
+        0.5,
+        0.5,
+        1
+      ],
+      "legacyAnimation": "zoom5.1",
+      "originalSection": 10,
+      "originalCaption": 0
+    },
+    {
+      "id": "passage-11-02",
+      "title": "Reading the script",
+      "chapter": 4,
+      "chapterId": "places",
+      "asset": "places",
+      "html": "\n<p class=\"interactive\" data-anim=\"default4\"> However, the form of the inscriptions is also meaningful. They can help answer\n                        questions about the dating and authorship of the translations.</p>\n",
+      "text": "However, the form of the inscriptions is also meaningful. They can help answer\n                        questions about the dating and authorship of the translations.",
+      "focus": null,
+      "legacyAnimation": "default4",
+      "originalSection": 10,
+      "originalCaption": 1
+    },
+    {
+      "id": "passage-12-01",
+      "title": "A written language",
+      "chapter": 5,
+      "chapterId": "script",
+      "asset": "script",
+      "html": "\n<p class=\"interactive\" data-anim=\"default5\"> According to the Manchu Veritable Records,\n                        the Manchu written language was a direct invention of bilingual scholars working for Nurhaci and\n                        was established in 1599. <br/><br/> A well-known passage describes how Nurhaci noticed that Mongolian and\n                        Chinese could be both written and spoken, while the Manchus needed to use Mongolian—a language\n                        they did not speak as natives—to write documentsand proclamations. Consequently, Nurhaci asked\n                        the polyglot scholar Erdeni and the judge Gagai to solve the problem and modify the Mongolian\n                        script so as to write Manchu words. But because Mongolian letters could not perfectly represent\n                        Manchu sounds, this version of the scripthad a few drawbacks. The script could not clearly\n                        distinguish a and e,o and u, or k,g, and h. There was also no distinction between front and back\n                        d and t, and there were uncertainties in spelling certain words.\n                    </p>\n",
+      "text": "According to the Manchu Veritable Records,\n                        the Manchu written language was a direct invention of bilingual scholars working for Nurhaci and\n                        was established in 1599. A well-known passage describes how Nurhaci noticed that Mongolian and\n                        Chinese could be both written and spoken, while the Manchus needed to use Mongolian—a language\n                        they did not speak as natives—to write documentsand proclamations. Consequently, Nurhaci asked\n                        the polyglot scholar Erdeni and the judge Gagai to solve the problem and modify the Mongolian\n                        script so as to write Manchu words. But because Mongolian letters could not perfectly represent\n                        Manchu sounds, this version of the scripthad a few drawbacks. The script could not clearly\n                        distinguish a and e,o and u, or k,g, and h. There was also no distinction between front and back\n                        d and t, and there were uncertainties in spelling certain words.",
+      "focus": null,
+      "legacyAnimation": "default5",
+      "originalSection": 11,
+      "originalCaption": 0
+    },
+    {
+      "id": "passage-12-02",
+      "title": "Dots and circles",
+      "chapter": 5,
+      "chapterId": "script",
+      "asset": "script",
+      "html": "\n<p class=\"interactive\" data-anim=\"zoom7\"> A reform of the language that would address these issues\n                        was implemented during the time of the second Khan, Hong Taiji. The most important and visible\n                        aspect of this reform was the addition of dots and circles to solve the problem of distinction.\n                        The addition of dots could separate a from e,o from u, and k from g, while circles would\n                        distinguish k from h. This way of writing Manchu achieved virtually universal usage and has\n                        remained the standard way of writing it to this day.\n                    </p>\n",
+      "text": "A reform of the language that would address these issues\n                        was implemented during the time of the second Khan, Hong Taiji. The most important and visible\n                        aspect of this reform was the addition of dots and circles to solve the problem of distinction.\n                        The addition of dots could separate a from e,o from u, and k from g, while circles would\n                        distinguish k from h. This way of writing Manchu achieved virtually universal usage and has\n                        remained the standard way of writing it to this day.",
+      "focus": [
+        0.37,
+        0.23,
+        0.65
+      ],
+      "legacyAnimation": "zoom7",
+      "originalSection": 11,
+      "originalCaption": 1
+    },
+    {
+      "id": "passage-12-03",
+      "title": "Dating the annotations",
+      "chapter": 5,
+      "chapterId": "script",
+      "asset": "script",
+      "html": "\n<p class=\"interactive\" data-anim=\"zoom8\"> Analysis of the form of the script on the map thus\n                        indicates that the Map of Observing\n                        Mysterieswas translated between roughly 1625 and 1636, when the reformed version of the Old\n                        Manchu script was used. In any case, the map's annotations indicate an interest in, as well as\n                        an epistemological engagement with, a Sino-Western artifact in a crucial moment, as the Manchus\n                        were beginning to plan their conquest of China.</p>\n",
+      "text": "Analysis of the form of the script on the map thus\n                        indicates that the Map of Observing\n                        Mysterieswas translated between roughly 1625 and 1636, when the reformed version of the Old\n                        Manchu script was used. In any case, the map's annotations indicate an interest in, as well as\n                        an epistemological engagement with, a Sino-Western artifact in a crucial moment, as the Manchus\n                        were beginning to plan their conquest of China.",
+      "focus": [
+        0.37,
+        0.77,
+        0.65
+      ],
+      "legacyAnimation": "zoom8",
+      "originalSection": 11,
+      "originalCaption": 2
+    },
+    {
+      "id": "passage-13-01",
+      "title": "Labels on the Great Ming map",
+      "chapter": 6,
+      "chapterId": "continuity",
+      "asset": "great-ming",
+      "html": "\n<p class=\"interactive\" data-anim=\"default8\"> <i>Figure 4 Synthetic map of the\n                        Great Ming, Da Ming hunyi tu大明混一圖, original in First Historical Archives, Beijing, reprint in\n                        Zhongguo Gudai Ditu Ji中国古代地图集 (Beijing, 1990). Facsimile from the Shanghai Museum\n                        of Navigation 航海博物馆. Photograph by the author. </i> <br/> <br/> This section of the map of\n                        the Great Ming depicts the western portion of Korea and displays the Manchu place-name\n                        transliterations on affixed labels. In some places, over time, the labels have detached, revealing\n                        the original Chinese text underneath. </p>\n",
+      "text": "Figure 4 Synthetic map of the\n                        Great Ming, Da Ming hunyi tu大明混一圖, original in First Historical Archives, Beijing, reprint in\n                        Zhongguo Gudai Ditu Ji中国古代地图集 (Beijing, 1990). Facsimile from the Shanghai Museum\n                        of Navigation 航海博物馆. Photograph by the author. This section of the map of\n                        the Great Ming depicts the western portion of Korea and displays the Manchu place-name\n                        transliterations on affixed labels. In some places, over time, the labels have detached, revealing\n                        the original Chinese text underneath.",
+      "focus": null,
+      "legacyAnimation": "default8",
+      "originalSection": 12,
+      "originalCaption": 0
+    },
+    {
+      "id": "passage-14-01",
+      "title": "Translation across the divide",
+      "chapter": 6,
+      "chapterId": "continuity",
+      "asset": "xuantu",
+      "html": "\n<p class=\"interactive\" data-anim=\"default10\"> \n                        Repairs, modifications, as well as\n                        annotations therefore, all belonged to a broad strategy of translation of cartographic artifacts first\n                        practiced in the preconquest period on the map by Li Yingshi and Ricci, then on the Map of the\n                        nine borders, and ultimately, after the conquest, on Ming maps. This demonstrates the continuity\n                        in translation across the Ming-Qing divide. </p>\n",
+      "text": "Repairs, modifications, as well as\n                        annotations therefore, all belonged to a broad strategy of translation of cartographic artifacts first\n                        practiced in the preconquest period on the map by Li Yingshi and Ricci, then on the Map of the\n                        nine borders, and ultimately, after the conquest, on Ming maps. This demonstrates the continuity\n                        in translation across the Ming-Qing divide.",
+      "focus": null,
+      "legacyAnimation": "default10",
+      "originalSection": 13,
+      "originalCaption": 0
+    },
+    {
+      "id": "passage-14-02",
+      "title": "Networks of knowledge",
+      "chapter": 6,
+      "chapterId": "continuity",
+      "asset": "xuantu",
+      "html": "\n<p class=\"interactive\" data-anim=\"default10\"> \n                        The presence of a map co-authored by Matteo Ricci\n                        in the Shenyang palace is ultimately a testament to the extent of knowledge networks in the\n                        early modern period. </p>\n",
+      "text": "The presence of a map co-authored by Matteo Ricci\n                        in the Shenyang palace is ultimately a testament to the extent of knowledge networks in the\n                        early modern period.",
+      "focus": null,
+      "legacyAnimation": "default10",
+      "originalSection": 13,
+      "originalCaption": 1
+    }
+  ],
+  "hotspots": [
+    {
+      "id": "painted-mountains",
+      "label": "Painted mountain ranges",
+      "point": [
+        0.8,
+        0.28
+      ],
+      "stop": "passage-05-03",
+      "number": 1,
+      "focus": [
+        0.8,
+        0.28,
+        0.24
+      ]
+    },
+    {
+      "id": "equatorial-commentary",
+      "label": "Manchu commentary",
+      "point": [
+        0.55,
+        0.51
+      ],
+      "stop": "passage-06-01",
+      "number": 2,
+      "focus": [
+        0.55,
+        0.51,
+        0.25
+      ]
+    },
+    {
+      "id": "paper-repair",
+      "label": "Paper repairs",
+      "point": [
+        0.045,
+        0.8
+      ],
+      "stop": "passage-08-02",
+      "number": 3,
+      "focus": [
+        0.045,
+        0.8,
+        0.19
+      ]
+    },
+    {
+      "id": "northern-hemisphere",
+      "label": "Places in translation",
+      "point": [
+        0.065,
+        0.13
+      ],
+      "stop": "passage-10-01",
+      "number": 4,
+      "focus": [
+        0.065,
+        0.13,
+        0.22
+      ]
+    }
+  ]
+}
