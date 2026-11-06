@@ -19,6 +19,8 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run build
+      - name: Exclude the archived silent film from Pages
+        run: rm -f -- dist/client/map-study/media/map-film-v4/map-study.mp4
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist/client
@@ -35,5 +37,3 @@ jobs:
       - name: Publish
         id: deployment
         uses: actions/deploy-pages@v4
-        with:
-          timeout: '1800000'
