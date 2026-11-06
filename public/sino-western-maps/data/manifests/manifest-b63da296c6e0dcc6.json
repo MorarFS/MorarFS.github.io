@@ -1,0 +1,63 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://eichi.library.pref.miyagi.jp/data/iiif/manifest/00087501/manifest_00087613.json",
+  "@type" : "sc:Manifest",
+  "metadata" : [ {
+    "label" : "タイトル",
+    "value" : [ "坤輿萬國全圖（写本着色）" ]
+  }, {
+    "label" : "文献ID",
+    "value" : [ "70139" ]
+  } ],
+  "label" : "坤輿萬國全圖（写本着色）",
+  "description" : "解説:『坤輿萬國全圖』は、イタリア人マテオ・リッチ（Ricci,Matteo）によって刊行された世界図である。 1582年、イエズス会宣教師として明代の中国に渡ったリッチは、翌年、肇慶の知府（総督）の依頼により、ヨーロッパ製の世界図をもとに中国語で地名等を記した地図を作製した。 世界図はリッチ死後に刊行されたものも含めて16種が知られる。  <br />宮城県図書館蔵『坤輿萬國全圖（版本）』は、1602年、北京において明朝の高官・李子藻の助力により刊行した「李子藻版」である。 刊行8番目にあたるこの世界図を、リッチはほぼ会心の作であるとした。 同図は、私蔵のものを別にして現在のところ、ヴァチカン、京都大学、宮城県図書館の3館に、そして世界図の部分を切り取って張り直したものが内閣文庫に所蔵されている。  <br />同館蔵『坤輿萬國全圖（写本着色）』は、現在20数本の所在が明らかにされている写本のうちの一つである。 同図には、彩色や地名の修正・追加等、原本（李子藻版）と相違する表記が多々見られることから、1602年以降に作製された世界図に拠ったもので、1664年以降に写されたものであろうと推測されている。 多くの写本を生んだリッチの世界図は、人々に新しい世界観を示し、学問や思想に大きな影響を与えたといえる。  <br />平成2年（1990）、宮城県図書館蔵の『坤輿萬國全圖（版本）』は、『坤輿萬國全圖（写本着色）』とともに国指定重要文化財に指定された。  <br />（参考及び抜粋：宮城県図書館所蔵「絵図・地図解説目録」）  <br /><br />TIFF容量（GB):5.54<br />ピクセル数（pixel）:66,519×29,831",
+  "viewingDirection" : "left-to-right",
+  "viewingHint" : "paged",
+  "attribution" : "宮城県図書館　叡智の杜Web",
+  "license" : "https://www.library.pref.miyagi.jp/eichi",
+  "logo" : "",
+  "related" : {
+    "@id" : "https://doi.org/",
+    "format" : ""
+  },
+  "seeAlso" : {
+    "@id" : "https://eichi.library.pref.miyagi.jp/miyagi_da/detail?cls=collect16&pkey=70139",
+    "format" : ""
+  },
+  "sequences" : [ {
+    "@id" : "",
+    "@type" : "sc:Sequence",
+    "canvases" : [ {
+      "@id" : "https://eichi.library.pref.miyagi.jp/iiif/00087613/canvas/1",
+      "@type" : "sc:Canvas",
+      "label" : "坤輿萬國全圖（写本着色）",
+      "width" : 16630,
+      "height" : 7458,
+      "images" : [ {
+        "@id" : "",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "description" : "",
+          "@id" : "https://eichi.library.pref.miyagi.jp/iiif/2/00466863.tif/full/full/0/default.jpg",
+          "@type" : "oa:Annotation",
+          "format" : "image/jpeg",
+          "width" : 16630,
+          "height" : 7458,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://eichi.library.pref.miyagi.jp/iiif/2/00466863.tif",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          }
+        },
+        "on" : "https://eichi.library.pref.miyagi.jp/iiif/00466863/canvas/1"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://eichi.library.pref.miyagi.jp/iiif/2/00466863.tif/full/!256,256/0/default.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg"
+      }
+    } ],
+    "viewingHint" : "individuals"
+  } ]
+}

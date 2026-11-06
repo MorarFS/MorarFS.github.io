@@ -1,0 +1,3559 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/manifest.json",
+  "@type" : "sc:Manifest",
+  "metadata" : [ {
+    "label" : "Shelfmark",
+    "value" : "Barb.or.151.pt.1"
+  }, {
+    "label" : "Date",
+    "value" : [ "sec. XVI/XVIII" ]
+  }, {
+    "label" : "Language",
+    "value" : [ "Cinese. Siamese. Latino. Siriaco." ]
+  } ],
+  "label" : "Barb.or.151.pt.1",
+  "description" : "",
+  "thumbnail" : {
+    "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/cover/cover.jpg",
+    "@type" : "dctypes:Image",
+    "format" : "image/jpeg",
+    "width" : 101,
+    "height" : 256
+  },
+  "viewingDirection" : "left-to-right",
+  "viewingHint" : "paged",
+  "attribution" : "Images Copyright Biblioteca Apostolica Vaticana",
+  "logo" : "https://digi.vatlib.it/resource/img/i/DVL_logo.jpg",
+  "sequences" : [ {
+    "@type" : "sc:Sequence",
+    "canvases" : [ {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0001",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[01.fx.0000]",
+      "width" : 2365,
+      "height" : 3316,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0001",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0001",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0001_fa_0001r.%5B01.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2365,
+          "height" : 3316
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0001"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0001_fa_0001r.%5B01.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 113,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0002",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[02.hx.0000]",
+      "width" : 2365,
+      "height" : 3316,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0002",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0002",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0002_fa_0001v.%5B02.hx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2365,
+          "height" : 3316
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0002"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0002_fa_0001v.%5B02.hx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 113,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0003",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[02.fx.0000]",
+      "width" : 2362,
+      "height" : 3315,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0003",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0003",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0003_fa_0001r.%5B02.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2362,
+          "height" : 3315
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0003"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0003_fa_0001r.%5B02.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 113,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0004",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[02.fx.0000]",
+      "width" : 2362,
+      "height" : 3315,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0004",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0004",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0004_fa_0001v.%5B02.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2362,
+          "height" : 3315
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0004"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0004_fa_0001v.%5B02.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 113,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0005",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[02.fn.0000]",
+      "width" : 4952,
+      "height" : 5739,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0005",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0005",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0005_fa_0001r.%5B02.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 4952,
+          "height" : 5739
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0005"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0005_fa_0001r.%5B02.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 138,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0006",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[02.fn.0000]",
+      "width" : 4952,
+      "height" : 5739,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0006",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0006",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0006_fa_0001v.%5B02.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 4952,
+          "height" : 5739
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0006"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0006_fa_0001v.%5B02.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 138,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0007",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[03.fx.0000]",
+      "width" : 2362,
+      "height" : 3315,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0007",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0007",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0007_fa_0001r.%5B03.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2362,
+          "height" : 3315
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0007"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0007_fa_0001r.%5B03.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 113,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0008",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[03.fx.0000]",
+      "width" : 2362,
+      "height" : 3315,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0008",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0008",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0008_fa_0001v.%5B03.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2362,
+          "height" : 3315
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0008"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0008_fa_0001v.%5B03.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 113,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0009",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[04.fn.0000]",
+      "width" : 5862,
+      "height" : 10582,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0009",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0009",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0009_fa_0001r.%5B04.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 5862,
+          "height" : 10582
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0009"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0009_fa_0001r.%5B04.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 86,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0010",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[04.fn.0000]",
+      "width" : 5862,
+      "height" : 10582,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0010",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0010",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0010_fa_0001v.%5B04.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 5862,
+          "height" : 10582
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0010"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0010_fa_0001v.%5B04.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 86,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0011",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[05.fn.0000]",
+      "width" : 5870,
+      "height" : 6761,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0011",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0011",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0011_fa_0001r.%5B05.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 5870,
+          "height" : 6761
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0011"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0011_fa_0001r.%5B05.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 139,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0012",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[05.fn.a000]",
+      "width" : 5870,
+      "height" : 6761,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0012",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0012",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0012_fa_0001r.%5B05.fn.a000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 5870,
+          "height" : 6761
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0012"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0012_fa_0001r.%5B05.fn.a000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 139,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0013",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[05.fn.0000]",
+      "width" : 5870,
+      "height" : 6753,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0013",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0013",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0013_fa_0001v.%5B05.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 5870,
+          "height" : 6753
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0013"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0013_fa_0001v.%5B05.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 139,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0014",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[05.fn.a000]",
+      "width" : 5870,
+      "height" : 6761,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0014",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0014",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0014_fa_0001v.%5B05.fn.a000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 5870,
+          "height" : 6761
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0014"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0014_fa_0001v.%5B05.fn.a000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 139,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0015",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[06.fn.0000]",
+      "width" : 3302,
+      "height" : 6871,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0015",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0015",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0015_fa_0001r.%5B06.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 3302,
+          "height" : 6871
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0015"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0015_fa_0001r.%5B06.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 75,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0016",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[06.fn.a000]",
+      "width" : 3302,
+      "height" : 6871,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0016",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0016",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0016_fa_0001r.%5B06.fn.a000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 3302,
+          "height" : 6871
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0016"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0016_fa_0001r.%5B06.fn.a000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 75,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0017",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[06.fn.0000]",
+      "width" : 3302,
+      "height" : 6871,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0017",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0017",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0017_fa_0001v.%5B06.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 3302,
+          "height" : 6871
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0017"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0017_fa_0001v.%5B06.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 75,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0018",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[06.fn.a000]",
+      "width" : 3302,
+      "height" : 6871,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0018",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0018",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0018_fa_0001v.%5B06.fn.a000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 3302,
+          "height" : 6871
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0018"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0018_fa_0001v.%5B06.fn.a000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 75,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0019",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[05.fx.0000]",
+      "width" : 2362,
+      "height" : 3315,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0019",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0019",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0019_fa_0001r.%5B05.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2362,
+          "height" : 3315
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0019"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0019_fa_0001r.%5B05.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 113,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0020",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[05.fx.0000]",
+      "width" : 2362,
+      "height" : 3315,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0020",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0020",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0020_fa_0001v.%5B05.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2362,
+          "height" : 3315
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0020"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0020_fa_0001v.%5B05.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 113,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0021",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[06.fx.0000]",
+      "width" : 2362,
+      "height" : 3315,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0021",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0021",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0021_fa_0001r.%5B06.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2362,
+          "height" : 3315
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0021"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0021_fa_0001r.%5B06.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 113,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0022",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[06.fx.0000]",
+      "width" : 2362,
+      "height" : 3315,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0022",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0022",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0022_fa_0001v.%5B06.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2362,
+          "height" : 3315
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0022"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0022_fa_0001v.%5B06.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 113,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0023",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[07.fn.0000]",
+      "width" : 2872,
+      "height" : 3351,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0023",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0023",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0023_fa_0001r.%5B07.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2872,
+          "height" : 3351
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0023"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0023_fa_0001r.%5B07.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 137,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0024",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[07.fn.0000]",
+      "width" : 2872,
+      "height" : 3351,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0024",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0024",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0024_fa_0001v.%5B07.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2872,
+          "height" : 3351
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0024"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0024_fa_0001v.%5B07.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 137,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0025",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[08.fn.0000]",
+      "width" : 2872,
+      "height" : 3391,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0025",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0025",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0025_fa_0001r.%5B08.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2872,
+          "height" : 3391
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0025"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0025_fa_0001r.%5B08.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 135,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0026",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[08.fn.0000]",
+      "width" : 2872,
+      "height" : 3391,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0026",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0026",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0026_fa_0001v.%5B08.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2872,
+          "height" : 3391
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0026"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0026_fa_0001v.%5B08.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 135,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0027",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[09.fn.0000]",
+      "width" : 2992,
+      "height" : 4304,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0027",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0027",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0027_fa_0001r.%5B09.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2992,
+          "height" : 4304
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0027"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0027_fa_0001r.%5B09.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 110,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0028",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[09.fn.0000]",
+      "width" : 2992,
+      "height" : 4304,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0028",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0028",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0028_fa_0001v.%5B09.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2992,
+          "height" : 4304
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0028"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0028_fa_0001v.%5B09.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 110,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0029",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[10.fn.0000]",
+      "width" : 7125,
+      "height" : 7161,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0029",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0029",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0029_fa_0001r.%5B10.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 7125,
+          "height" : 7161
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0029"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0029_fa_0001r.%5B10.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 150,
+        "height" : 140
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0030",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[10.fn.a000]",
+      "width" : 7125,
+      "height" : 7161,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0030",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0030",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0030_fa_0001r.%5B10.fn.a000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 7125,
+          "height" : 7161
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0030"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0030_fa_0001r.%5B10.fn.a000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 150,
+        "height" : 140
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0031",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[10.fn.b000]",
+      "width" : 7125,
+      "height" : 7161,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0031",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0031",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0031_fa_0001r.%5B10.fn.b000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 7125,
+          "height" : 7161
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0031"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0031_fa_0001r.%5B10.fn.b000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 150,
+        "height" : 140
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0032",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[10.fn.c000]",
+      "width" : 7122,
+      "height" : 6371,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0032",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0032",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0032_fa_0001r.%5B10.fn.c000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 7122,
+          "height" : 6371
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0032"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0032_fa_0001r.%5B10.fn.c000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 150,
+        "height" : 124
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0033",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[10.fn.0000]",
+      "width" : 7122,
+      "height" : 7161,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0033",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0033",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0033_fa_0001v.%5B10.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 7122,
+          "height" : 7161
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0033"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0033_fa_0001v.%5B10.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 150,
+        "height" : 140
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0034",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[10.fn.a000]",
+      "width" : 7130,
+      "height" : 7161,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0034",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0034",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0034_fa_0001v.%5B10.fn.a000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 7130,
+          "height" : 7161
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0034"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0034_fa_0001v.%5B10.fn.a000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 150,
+        "height" : 140
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0035",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[10.fn.b000]",
+      "width" : 7130,
+      "height" : 7161,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0035",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0035",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0035_fa_0001v.%5B10.fn.b000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 7130,
+          "height" : 7161
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0035"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0035_fa_0001v.%5B10.fn.b000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 150,
+        "height" : 140
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0036",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[10.fn.c000]",
+      "width" : 7130,
+      "height" : 6349,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0036",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0036",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0036_fa_0001v.%5B10.fn.c000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 7130,
+          "height" : 6349
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0036"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0036_fa_0001v.%5B10.fn.c000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 150,
+        "height" : 123
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0037",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[07.fx.0000]",
+      "width" : 2360,
+      "height" : 3317,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0037",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0037",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0037_fa_0001r.%5B07.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2360,
+          "height" : 3317
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0037"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0037_fa_0001r.%5B07.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 112,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0038",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[07.fx.0000]",
+      "width" : 2360,
+      "height" : 3317,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0038",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0038",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0038_fa_0001v.%5B07.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2360,
+          "height" : 3317
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0038"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0038_fa_0001v.%5B07.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 112,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0039",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[08.fx.0000]",
+      "width" : 2360,
+      "height" : 3317,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0039",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0039",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0039_fa_0001r.%5B08.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2360,
+          "height" : 3317
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0039"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0039_fa_0001r.%5B08.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 112,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0040",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[08.fx.0000]",
+      "width" : 2360,
+      "height" : 3317,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0040",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0040",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0040_fa_0001v.%5B08.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2360,
+          "height" : 3317
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0040"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0040_fa_0001v.%5B08.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 112,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0041",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[11.fn.0000]",
+      "width" : 2000,
+      "height" : 2890,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0041",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0041",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0041_fa_0001r.%5B11.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2000,
+          "height" : 2890
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0041"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0041_fa_0001r.%5B11.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 109,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0042",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[11.fn.0000]",
+      "width" : 2000,
+      "height" : 2890,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0042",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0042",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0042_fa_0001v.%5B11.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2000,
+          "height" : 2890
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0042"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0042_fa_0001v.%5B11.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 109,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0043",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[12.fn.0000]",
+      "width" : 2005,
+      "height" : 2897,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0043",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0043",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0043_fa_0001r.%5B12.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2005,
+          "height" : 2897
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0043"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0043_fa_0001r.%5B12.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 109,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0044",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[12.fn.0000]",
+      "width" : 2005,
+      "height" : 2897,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0044",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0044",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0044_fa_0001v.%5B12.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2005,
+          "height" : 2897
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0044"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0044_fa_0001v.%5B12.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 109,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0045",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[13.fn.0000]",
+      "width" : 2005,
+      "height" : 2897,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0045",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0045",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0045_fa_0001r.%5B13.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2005,
+          "height" : 2897
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0045"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0045_fa_0001r.%5B13.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 109,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0046",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[13.fn.0000]",
+      "width" : 2005,
+      "height" : 2897,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0046",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0046",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0046_fa_0001v.%5B13.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2005,
+          "height" : 2897
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0046"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0046_fa_0001v.%5B13.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 109,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0047",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[14.fn.0000]",
+      "width" : 2000,
+      "height" : 2890,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0047",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0047",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0047_fa_0001r.%5B14.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2000,
+          "height" : 2890
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0047"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0047_fa_0001r.%5B14.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 109,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0048",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[14.fn.0000]",
+      "width" : 2000,
+      "height" : 2890,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0048",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0048",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0048_fa_0001v.%5B14.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2000,
+          "height" : 2890
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0048"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0048_fa_0001v.%5B14.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 109,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0049",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[15.fn.0000]",
+      "width" : 2005,
+      "height" : 2897,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0049",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0049",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0049_fa_0001r.%5B15.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2005,
+          "height" : 2897
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0049"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0049_fa_0001r.%5B15.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 109,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0050",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[15.fn.0000]",
+      "width" : 2005,
+      "height" : 2897,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0050",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0050",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0050_fa_0001v.%5B15.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2005,
+          "height" : 2897
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0050"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0050_fa_0001v.%5B15.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 109,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0051",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[16.fn.0000]",
+      "width" : 2005,
+      "height" : 2897,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0051",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0051",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0051_fa_0001r.%5B16.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2005,
+          "height" : 2897
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0051"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0051_fa_0001r.%5B16.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 109,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0052",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[16.fn.0000]",
+      "width" : 2005,
+      "height" : 2897,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0052",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0052",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0052_fa_0001v.%5B16.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2005,
+          "height" : 2897
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0052"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0052_fa_0001v.%5B16.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 109,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0053",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[17.fn.0000]",
+      "width" : 2005,
+      "height" : 2897,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0053",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0053",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0053_fa_0001r.%5B17.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2005,
+          "height" : 2897
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0053"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0053_fa_0001r.%5B17.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 109,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0054",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[17.fn.0000]",
+      "width" : 2005,
+      "height" : 2897,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0054",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0054",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0054_fa_0001v.%5B17.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2005,
+          "height" : 2897
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0054"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0054_fa_0001v.%5B17.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 109,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0055",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[18.fn.0000]",
+      "width" : 2005,
+      "height" : 2897,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0055",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0055",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0055_fa_0001r.%5B18.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2005,
+          "height" : 2897
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0055"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0055_fa_0001r.%5B18.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 109,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0056",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[18.fn.0000]",
+      "width" : 2005,
+      "height" : 2897,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0056",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0056",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0056_fa_0001v.%5B18.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2005,
+          "height" : 2897
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0056"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0056_fa_0001v.%5B18.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 109,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0057",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[19.fn.0000]",
+      "width" : 2005,
+      "height" : 2897,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0057",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0057",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0057_fa_0001r.%5B19.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2005,
+          "height" : 2897
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0057"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0057_fa_0001r.%5B19.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 109,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0058",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[19.fn.0000]",
+      "width" : 2005,
+      "height" : 2897,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0058",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0058",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0058_fa_0001v.%5B19.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2005,
+          "height" : 2897
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0058"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0058_fa_0001v.%5B19.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 109,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0059",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[20.fn.0000]",
+      "width" : 2005,
+      "height" : 2897,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0059",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0059",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0059_fa_0001r.%5B20.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2005,
+          "height" : 2897
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0059"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0059_fa_0001r.%5B20.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 109,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0060",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[20.fn.0000]",
+      "width" : 2005,
+      "height" : 2897,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0060",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0060",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0060_fa_0001v.%5B20.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2005,
+          "height" : 2897
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0060"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0060_fa_0001v.%5B20.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 109,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0061",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[21.fn.0000]",
+      "width" : 2005,
+      "height" : 2897,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0061",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0061",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0061_fa_0001r.%5B21.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2005,
+          "height" : 2897
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0061"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0061_fa_0001r.%5B21.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 109,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0062",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[21.fn.0000]",
+      "width" : 2005,
+      "height" : 2897,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0062",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0062",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0062_fa_0001v.%5B21.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2005,
+          "height" : 2897
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0062"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0062_fa_0001v.%5B21.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 109,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0063",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[22.fn.0000]",
+      "width" : 2005,
+      "height" : 2897,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0063",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0063",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0063_fa_0001r.%5B22.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2005,
+          "height" : 2897
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0063"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0063_fa_0001r.%5B22.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 109,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0064",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[22.fn.0000]",
+      "width" : 2005,
+      "height" : 2897,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0064",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0064",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0064_fa_0001v.%5B22.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2005,
+          "height" : 2897
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0064"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0064_fa_0001v.%5B22.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 109,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0065",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[09.fx.0000]",
+      "width" : 2360,
+      "height" : 3317,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0065",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0065",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0065_fa_0001r.%5B09.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2360,
+          "height" : 3317
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0065"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0065_fa_0001r.%5B09.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 112,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0066",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[09.fx.0000]",
+      "width" : 2360,
+      "height" : 3317,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0066",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0066",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0066_fa_0001v.%5B09.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2360,
+          "height" : 3317
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0066"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0066_fa_0001v.%5B09.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 112,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0067",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[10.fx.0000]",
+      "width" : 2360,
+      "height" : 3317,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0067",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0067",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0067_fa_0001r.%5B10.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2360,
+          "height" : 3317
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0067"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0067_fa_0001r.%5B10.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 112,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0068",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[10.fx.0000]",
+      "width" : 2360,
+      "height" : 3317,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0068",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0068",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0068_fa_0001v.%5B10.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2360,
+          "height" : 3317
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0068"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0068_fa_0001v.%5B10.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 112,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0069",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[23.fn.0000]",
+      "width" : 4840,
+      "height" : 10346,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0069",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0069",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0069_fa_0001r.%5B23.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 4840,
+          "height" : 10346
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0069"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0069_fa_0001r.%5B23.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 73,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0070",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[23.fn.0000]",
+      "width" : 4840,
+      "height" : 10346,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0070",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0070",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0070_fa_0001v.%5B23.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 4840,
+          "height" : 10346
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0070"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0070_fa_0001v.%5B23.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 73,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0071",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[24.fn.0000]",
+      "width" : 3920,
+      "height" : 8374,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0071",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0071",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0071_fa_0001r.%5B24.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 3920,
+          "height" : 8374
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0071"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0071_fa_0001r.%5B24.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 73,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0072",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[24.fn.0000]",
+      "width" : 3920,
+      "height" : 8374,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0072",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0072",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0072_fa_0001v.%5B24.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 3920,
+          "height" : 8374
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0072"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0072_fa_0001v.%5B24.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 73,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0073",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[25.fn.0000]",
+      "width" : 9850,
+      "height" : 7615,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0073",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0073",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0073_fa_0001r.%5B25.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 9850,
+          "height" : 7615
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0073"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0073_fa_0001r.%5B25.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 150,
+        "height" : 105
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0074",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[25.fn.a000]",
+      "width" : 9850,
+      "height" : 7615,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0074",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0074",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0074_fa_0001r.%5B25.fn.a000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 9850,
+          "height" : 7615
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0074"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0074_fa_0001r.%5B25.fn.a000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 150,
+        "height" : 105
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0075",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[25.fn.0000]",
+      "width" : 9850,
+      "height" : 7615,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0075",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0075",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0075_fa_0001v.%5B25.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 9850,
+          "height" : 7615
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0075"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0075_fa_0001v.%5B25.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 150,
+        "height" : 105
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0076",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[25.fn.a000]",
+      "width" : 9850,
+      "height" : 7615,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0076",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0076",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0076_fa_0001v.%5B25.fn.a000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 9850,
+          "height" : 7615
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0076"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0076_fa_0001v.%5B25.fn.a000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 150,
+        "height" : 105
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0077",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[26.fn.0000]",
+      "width" : 5630,
+      "height" : 10511,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0077",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0077",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0077_fa_0001r.%5B26.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 5630,
+          "height" : 10511
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0077"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0077_fa_0001r.%5B26.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 83,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0078",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[26.fn.0000]",
+      "width" : 5630,
+      "height" : 10511,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0078",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0078",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0078_fa_0001v.%5B26.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 5630,
+          "height" : 10511
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0078"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0078_fa_0001v.%5B26.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 83,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0079",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[27.fn.0000]",
+      "width" : 5267,
+      "height" : 7339,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0079",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0079",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0079_fa_0001r.%5B27.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 5267,
+          "height" : 7339
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0079"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0079_fa_0001r.%5B27.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 113,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0080",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[27.fn.a000]",
+      "width" : 5267,
+      "height" : 7339,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0080",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0080",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0080_fa_0001r.%5B27.fn.a000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 5267,
+          "height" : 7339
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0080"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0080_fa_0001r.%5B27.fn.a000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 113,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0081",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[27.fn.0000]",
+      "width" : 5277,
+      "height" : 7339,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0081",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0081",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0081_fa_0001v.%5B27.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 5277,
+          "height" : 7339
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0081"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0081_fa_0001v.%5B27.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 114,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0082",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[27.fn.a000]",
+      "width" : 5277,
+      "height" : 7464,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0082",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0082",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0082_fa_0001v.%5B27.fn.a000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 5277,
+          "height" : 7464
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0082"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0082_fa_0001v.%5B27.fn.a000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 112,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0083",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[28.fn.0000]",
+      "width" : 3540,
+      "height" : 4538,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0083",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0083",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0083_fa_0001r.%5B28.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 3540,
+          "height" : 4538
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0083"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0083_fa_0001r.%5B28.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 124,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0084",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[28.fn.0000]",
+      "width" : 3540,
+      "height" : 4538,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0084",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0084",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0084_fa_0001v.%5B28.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 3540,
+          "height" : 4538
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0084"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0084_fa_0001v.%5B28.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 124,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0085",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[29.fn.0000]",
+      "width" : 3540,
+      "height" : 4538,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0085",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0085",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0085_fa_0001r.%5B29.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 3540,
+          "height" : 4538
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0085"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0085_fa_0001r.%5B29.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 124,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0086",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[29.fn.0000]",
+      "width" : 3540,
+      "height" : 4538,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0086",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0086",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0086_fa_0001v.%5B29.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 3540,
+          "height" : 4538
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0086"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0086_fa_0001v.%5B29.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 124,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0087",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[30.fn.0000]",
+      "width" : 5702,
+      "height" : 10274,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0087",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0087",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0087_fa_0001r.%5B30.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 5702,
+          "height" : 10274
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0087"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0087_fa_0001r.%5B30.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 87,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0088",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[30.fn.0000]",
+      "width" : 5702,
+      "height" : 10274,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0088",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0088",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0088_fa_0001v.%5B30.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 5702,
+          "height" : 10274
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0088"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0088_fa_0001v.%5B30.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 87,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0089",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[11.fx.0000]",
+      "width" : 2362,
+      "height" : 3315,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0089",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0089",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0089_fa_0001r.%5B11.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2362,
+          "height" : 3315
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0089"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0089_fa_0001r.%5B11.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 113,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0090",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[11.fx.0000]",
+      "width" : 2362,
+      "height" : 3315,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0090",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0090",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0090_fa_0001v.%5B11.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2362,
+          "height" : 3315
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0090"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0090_fa_0001v.%5B11.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 113,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0091",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[12.fx.0000]",
+      "width" : 2362,
+      "height" : 3315,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0091",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0091",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0091_fa_0001r.%5B12.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2362,
+          "height" : 3315
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0091"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0091_fa_0001r.%5B12.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 113,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0092",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[12.fx.0000]",
+      "width" : 2362,
+      "height" : 3315,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0092",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0092",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0092_fa_0001v.%5B12.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2362,
+          "height" : 3315
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0092"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0092_fa_0001v.%5B12.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 113,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0093",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[13.fx.0000]",
+      "width" : 2362,
+      "height" : 3315,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0093",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0093",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0093_fa_0001r.%5B13.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2362,
+          "height" : 3315
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0093"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0093_fa_0001r.%5B13.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 113,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0094",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[13.fx.0000]",
+      "width" : 2362,
+      "height" : 3315,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0094",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0094",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0094_fa_0001v.%5B13.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2362,
+          "height" : 3315
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0094"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0094_fa_0001v.%5B13.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 113,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0095",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[31.fn.0000]",
+      "width" : 2992,
+      "height" : 5444,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0095",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0095",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0095_fa_0001r.%5B31.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2992,
+          "height" : 5444
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0095"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0095_fa_0001r.%5B31.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 86,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0096",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[31.fn.0000]",
+      "width" : 2992,
+      "height" : 5444,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0096",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0096",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0096_fa_0001v.%5B31.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2992,
+          "height" : 5444
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0096"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0096_fa_0001v.%5B31.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 86,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0097",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[32.fn.0000]",
+      "width" : 2992,
+      "height" : 4619,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0097",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0097",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0097_fa_0001r.%5B32.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2992,
+          "height" : 4619
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0097"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0097_fa_0001r.%5B32.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 102,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0098",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[32.fn.0000]",
+      "width" : 2992,
+      "height" : 4619,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0098",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0098",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0098_fa_0001v.%5B32.fn.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2992,
+          "height" : 4619
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0098"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0098_fa_0001v.%5B32.fn.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 102,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0099",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[14.fx.0000]",
+      "width" : 2362,
+      "height" : 3315,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0099",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0099",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0099_fa_0001r.%5B14.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2362,
+          "height" : 3315
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0099"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0099_fa_0001r.%5B14.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 113,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0100",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[14.fx.0000]",
+      "width" : 2362,
+      "height" : 3315,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0100",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0100",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0100_fa_0001v.%5B14.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2362,
+          "height" : 3315
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0100"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0100_fa_0001v.%5B14.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 113,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0101",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[15.fx.0000]",
+      "width" : 2362,
+      "height" : 3315,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0101",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0101",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0101_fa_0001r.%5B15.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2362,
+          "height" : 3315
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0101"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0101_fa_0001r.%5B15.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 113,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0102",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[15.fx.0000]",
+      "width" : 2362,
+      "height" : 3315,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0102",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0102",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0102_fa_0001v.%5B15.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 2362,
+          "height" : 3315
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0102"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0102_fa_0001v.%5B15.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 113,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0103",
+      "@type" : "sc:Canvas",
+      "label" : "custodia",
+      "width" : 6882,
+      "height" : 9552,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0103",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0103",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0103_yr_custodia.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 6882,
+          "height" : 9552
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0103"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0103_yr_custodia.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 114,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0104",
+      "@type" : "sc:Canvas",
+      "label" : "custodia.[01.xz.a000]",
+      "width" : 6882,
+      "height" : 9552,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0104",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0104",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0104_yr_custodia.%5B01.xz.a000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 6882,
+          "height" : 9552
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0104"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0104_yr_custodia.%5B01.xz.a000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 114,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0105",
+      "@type" : "sc:Canvas",
+      "label" : "colorchecker",
+      "width" : 4460,
+      "height" : 3597,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0105",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0105",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0105_zx_colorchecker.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 4460,
+          "height" : 3597
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0105"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0105_zx_colorchecker.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 150,
+        "height" : 110
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0106",
+      "@type" : "sc:Canvas",
+      "label" : "scala.millimetrica",
+      "width" : 4460,
+      "height" : 3597,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/anno0106",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/res/img0106",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.1/Barb.or.151.pt.1_0106_zz_scala.millimetrica.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 4460,
+          "height" : 3597
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0106"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.1/thumb/Barb.or.151.pt.1_0106_zz_scala.millimetrica.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 150,
+        "height" : 110
+      },
+      "viewingHint" : "non-paged"
+    } ],
+    "viewingDirection" : "left-to-right",
+    "viewingHint" : "paged"
+  } ],
+  "structures" : [ {
+    "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0",
+    "@type" : "sc:Range",
+    "label" : "sec. XVI/XVIII",
+    "ranges" : [ "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-0", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-1", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-2", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-3", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-4", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-5", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-6", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-7", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-8", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-9", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-10", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-11", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-12", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-13", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-14", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-15", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-16", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-17", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-18", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-19", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-20" ]
+  }, {
+    "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-0",
+    "@type" : "sc:Range",
+    "label" : "Vecchia cartellina dell'interno 1",
+    "within" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0",
+    "canvases" : [ "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0001", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0002" ]
+  }, {
+    "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-1",
+    "@type" : "sc:Range",
+    "label" : "(1)a 萬國全圖  一幅.",
+    "within" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0",
+    "canvases" : [ "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0005", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0006" ]
+  }, {
+    "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-2",
+    "@type" : "sc:Range",
+    "label" : "(1)c 見界總星圖  一幅.",
+    "within" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0",
+    "canvases" : [ "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0009", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0010" ]
+  }, {
+    "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-3",
+    "@type" : "sc:Range",
+    "label" : "(1)d 見界總星圖  一幅.",
+    "within" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0",
+    "canvases" : [ "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0011", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0012", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0013", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0014" ]
+  }, {
+    "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-4",
+    "@type" : "sc:Range",
+    "label" : "(1)e 黃道總星圖  一幅.",
+    "within" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0",
+    "canvases" : [ "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0015", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0016", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0017", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0018" ]
+  }, {
+    "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-5",
+    "@type" : "sc:Range",
+    "label" : "Vecchia cartellina dell'interno 2",
+    "within" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0",
+    "canvases" : [ "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0021", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0022" ]
+  }, {
+    "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-6",
+    "@type" : "sc:Range",
+    "label" : "(2)a-b Stele nestoriana di Sian-fu.",
+    "within" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0",
+    "canvases" : [ "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0023", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0024", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0025", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0026" ]
+  }, {
+    "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-7",
+    "@type" : "sc:Range",
+    "label" : "(2)c 大秦景教流行中國碑.",
+    "within" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0",
+    "canvases" : [ "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0029", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0030", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0031", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0032", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0033", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0034", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0035", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0036" ]
+  }, {
+    "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-8",
+    "@type" : "sc:Range",
+    "label" : "(2)d 大秦景教流行中國碑. 碑額.",
+    "within" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0",
+    "canvases" : [ "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0027", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0028" ]
+  }, {
+    "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-9",
+    "@type" : "sc:Range",
+    "label" : "Vecchia cartellina dell'interno 3",
+    "within" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0",
+    "canvases" : [ "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0039", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0040" ]
+  }, {
+    "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-10",
+    "@type" : "sc:Range",
+    "label" : "(3) 印度花卉. Flores quidam et plantae Indae : folia duodecim.",
+    "within" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0",
+    "canvases" : [ "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0041", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0042", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0043", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0044", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0045", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0046", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0047", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0048", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0049", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0050", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0051", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0052", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0053", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0054", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0055", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0056", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0057", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0058", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0059", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0060", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0061", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0062", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0063", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0064" ]
+  }, {
+    "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-11",
+    "@type" : "sc:Range",
+    "label" : "Vecchia cartellina dell'interno 4",
+    "within" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0",
+    "canvases" : [ "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0067", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0068" ]
+  }, {
+    "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-12",
+    "@type" : "sc:Range",
+    "label" : "(4)a 白衣大悲五印心陀羅尼經  一幅.",
+    "within" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0",
+    "canvases" : [ "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0069", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0070" ]
+  }, {
+    "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-13",
+    "@type" : "sc:Range",
+    "label" : "(4)b 須彌三界圖  一幅.",
+    "within" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0",
+    "canvases" : [ "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0071", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0072" ]
+  }, {
+    "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-14",
+    "@type" : "sc:Range",
+    "label" : "(4)c 呂紀鴛鴦  一幅.",
+    "within" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0",
+    "canvases" : [ "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0073", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0074", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0075", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0076" ]
+  }, {
+    "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-15",
+    "@type" : "sc:Range",
+    "label" : "(4)d 敕建江天寺金山勝景  一幅.",
+    "within" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0",
+    "canvases" : [ "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0077", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0078" ]
+  }, {
+    "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-16",
+    "@type" : "sc:Range",
+    "label" : "(4)e 駿馬圖  一幅.",
+    "within" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0",
+    "canvases" : [ "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0079", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0080", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0081", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0082" ]
+  }, {
+    "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-17",
+    "@type" : "sc:Range",
+    "label" : "(4)f-g 人體解刨圖",
+    "within" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0",
+    "canvases" : [ "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0083", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0084", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0085", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0086" ]
+  }, {
+    "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-18",
+    "@type" : "sc:Range",
+    "label" : "(4)h 鎮宅龜蛇  一幅.",
+    "within" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0",
+    "canvases" : [ "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0087", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0088" ]
+  }, {
+    "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-19",
+    "@type" : "sc:Range",
+    "label" : "Vecchia cartelle dell'interno 5",
+    "within" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0",
+    "canvases" : [ "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0091", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0092" ]
+  }, {
+    "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0-20",
+    "@type" : "sc:Range",
+    "label" : "(5)a-b Ms. siamese su 2 fogli cinesi, con timbro rosso",
+    "within" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/range/r0",
+    "canvases" : [ "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0095", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0096", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0097", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.1/canvas/p0098" ]
+  } ],
+  "seeAlso" : [ "https://digi.vatlib.it/mss/detail/Barb.or.151.pt.1" ]
+}

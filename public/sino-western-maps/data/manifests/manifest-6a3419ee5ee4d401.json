@@ -1,0 +1,468 @@
+{
+  "id" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/manifest?iiifVersion=3",
+  "type" : "Manifest",
+  "label" : {
+    "none" : [ "坤輿全圖 1" ]
+  },
+  "metadata" : [ {
+    "label" : {
+      "none" : [ "Type" ]
+    },
+    "value" : {
+      "none" : [ "고문헌" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Title" ]
+    },
+    "value" : {
+      "none" : [ "坤輿全圖 1" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Alternative Title" ]
+    },
+    "value" : {
+      "none" : [ "Kun yu quan tu" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Contributor" ]
+    },
+    "value" : {
+      "none" : [ "Verbiest, F." ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Contributor" ]
+    },
+    "value" : {
+      "none" : [ "南懷仁" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Contributor" ]
+    },
+    "value" : {
+      "none" : [ "Verbiest, Ferdinand, 1623-1688" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Contributor" ]
+    },
+    "value" : {
+      "none" : [ "Nan, Huai-jen" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Contributor" ]
+    },
+    "value" : {
+      "none" : [ "南懷仁" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Contributor" ]
+    },
+    "value" : {
+      "none" : [ "남회인" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Description" ]
+    },
+    "value" : {
+      "none" : [ "版の大サ, 全體 174x410 cm. 東半球 150.5x152 cm. 西半球 150x152.5 cm" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Date" ]
+    },
+    "value" : {
+      "none" : [ "康熙13[1674]" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Publisher" ]
+    },
+    "value" : {
+      "none" : [ "[s.n.]" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Format" ]
+    },
+    "value" : {
+      "none" : [ "9 p." ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Language" ]
+    },
+    "value" : {
+      "none" : [ "chi" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Is Part Of" ]
+    },
+    "value" : {
+      "none" : [ "木版" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Is Part Of" ]
+    },
+    "value" : {
+      "none" : [ "고문헌/귀중도서/동양서" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Description" ]
+    },
+    "value" : {
+      "none" : [ "익스플로러에서는 열람에 제한이 있으니 크롬 웹브라우저를 사용하여 주시기 바랍니다. Please use Chrome web browser to view this item." ]
+    }
+  } ],
+  "summary" : {
+    "none" : [ "익스플로러에서는 열람에 제한이 있으니 크롬 웹브라우저를 사용하여 주시기 바랍니다. Please use Chrome web browser to view this item." ]
+  },
+  "thumbnail" : [ {
+    "id" : "https://snu.alma.exlibrisgroup.com/view/delivery/thumbnail/82SNU_INST/12958114780002591",
+    "type" : "Image"
+  } ],
+  "viewingDirection" : "left-to-right",
+  "behavior" : [ "individuals" ],
+  "requiredStatement" : {
+    "label" : {
+      "none" : [ "Required statement" ]
+    },
+    "value" : {
+      "none" : [ "서울대학교 중앙도서관에서는 신청자(기관)의 동의 하에 대학 자체 생산 자료 및 보존적 가치가 있는 자료 등을 디지털화하여 이용자가 검색·열람할 수 있도록 제공하고 있습니다. 구축된 디지털 콘텐츠의 저작권은 서울대학교 중앙도서관이 소유하고 있으며 배포 및 전송된 디지털 콘텐츠는 이용자가 다시 복제 및 전송할 수 없습니다. 이에 따라 디지털 콘텐츠의 다운로드 기능은 제공하고 있지 않습니다. 개인 열람·연구 외 목적으로 복제물을 이용하고자 할 경우 「서울대학교 중앙도서관 디지털 콘텐츠 구축 및 관리 지침」에 따라 허가를 받아야 하며, 이 외 발생한 저작권 침해에 대한 일체의 책임은 복제물의 이용자에게 있습니다." ]
+    }
+  },
+  "provider" : [ {
+    "id" : "https://snu.alma.exlibrisgroup.com/delivery/82SNU_INST/12958114780002591/provider",
+    "type" : "Agent",
+    "label" : {
+      "none" : [ "Seoul National University" ]
+    },
+    "logo" : [ {
+      "id" : "https://snu.alma.exlibrisgroup.com/infra/branding/logo/logo-main.png?institutionCode=82SNU_INST",
+      "type" : "Image",
+      "service" : [ {
+        "id" : "https://snu.alma.exlibrisgroup.com/infra/branding/logo/logo-main.png?institutionCode=82SNU_INST",
+        "type" : "ImageService2",
+        "profile" : "http://iiif.io/api/image/2/level2.json"
+      } ]
+    } ]
+  } ],
+  "items" : [ {
+    "id" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/canvas/13959088900002591?iiifVersion=3",
+    "type" : "Canvas",
+    "label" : {
+      "none" : [ "10900148360_0001" ]
+    },
+    "width" : 590,
+    "height" : 5028,
+    "items" : [ {
+      "id" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/annopage/13959088900002591?iiifVersion=3",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/annopage/13959088900002591?iiifVersion=3",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "https://ap-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJhcC1zb3V0aGVhc3QtMSIsImJ1Y2tldCI6ImFwLXN0MDEuZXh0LmV4bGlicmlzZ3JvdXAuY29tIiwia2V5IjoiODJTTlVfSU5TVC9zdG9yYWdlL2FsbWEvQ0UvOEMvNUUvMEEvQkQvMTQvMEQvMkYvMEUvOEYvNEEvNTYvRjIvMjEvQ0IvRkYvMTA5MDAxNDgzNjBfMDAwMS5qcGciLCJyZXBfaWQiOiIxMjk1ODExNDc4MDAwMjU5MSIsImluc3RhbmNlIjoiYXAwMSIsImluc3RpdHV0aW9uIjoiODJTTlVfSU5TVCIsIndpZHRoIjoiNTkwIiwiaGVpZ2h0IjoiNTAyOCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "service" : [ {
+            "id" : "https://ap-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJhcC1zb3V0aGVhc3QtMSIsImJ1Y2tldCI6ImFwLXN0MDEuZXh0LmV4bGlicmlzZ3JvdXAuY29tIiwia2V5IjoiODJTTlVfSU5TVC9zdG9yYWdlL2FsbWEvQ0UvOEMvNUUvMEEvQkQvMTQvMEQvMkYvMEUvOEYvNEEvNTYvRjIvMjEvQ0IvRkYvMTA5MDAxNDgzNjBfMDAwMS5qcGciLCJyZXBfaWQiOiIxMjk1ODExNDc4MDAwMjU5MSIsImluc3RhbmNlIjoiYXAwMSIsImluc3RpdHV0aW9uIjoiODJTTlVfSU5TVCIsIndpZHRoIjoiNTkwIiwiaGVpZ2h0IjoiNTAyOCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+            "type" : "ImageService2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          } ],
+          "height" : 5028,
+          "width" : 590
+        },
+        "target" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/canvas/13959088900002591?iiifVersion=3"
+      } ]
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://snu.alma.exlibrisgroup.com/view/delivery/thumbnail/82SNU_INST/13959088900002591",
+      "type" : "Image"
+    } ]
+  }, {
+    "id" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/canvas/13959088890002591?iiifVersion=3",
+    "type" : "Canvas",
+    "label" : {
+      "none" : [ "10900148360_0002" ]
+    },
+    "width" : 5316,
+    "height" : 4000,
+    "items" : [ {
+      "id" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/annopage/13959088890002591?iiifVersion=3",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/annopage/13959088890002591?iiifVersion=3",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "https://ap-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJhcC1zb3V0aGVhc3QtMSIsImJ1Y2tldCI6ImFwLXN0MDEuZXh0LmV4bGlicmlzZ3JvdXAuY29tIiwia2V5IjoiODJTTlVfSU5TVC9zdG9yYWdlL2FsbWEvQ0UvOEMvNUUvMEEvQkQvMTQvMEQvMkYvMEUvOEYvNEEvNTYvRjIvMjEvQ0IvRkYvMTA5MDAxNDgzNjBfMDAwMi5qcGciLCJyZXBfaWQiOiIxMjk1ODExNDc4MDAwMjU5MSIsImluc3RhbmNlIjoiYXAwMSIsImluc3RpdHV0aW9uIjoiODJTTlVfSU5TVCIsIndpZHRoIjoiNTMxNiIsImhlaWdodCI6IjQwMDAiLCJ3bUtleSI6bnVsbCwid21XaWR0aCI6bnVsbCwid21IZWlnaHQiOm51bGwsIndtUG9zaXRpb24iOm51bGwsIndtUmVwZWF0IjpmYWxzZSwibmE5MSI6bnVsbH0%3D",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "service" : [ {
+            "id" : "https://ap-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJhcC1zb3V0aGVhc3QtMSIsImJ1Y2tldCI6ImFwLXN0MDEuZXh0LmV4bGlicmlzZ3JvdXAuY29tIiwia2V5IjoiODJTTlVfSU5TVC9zdG9yYWdlL2FsbWEvQ0UvOEMvNUUvMEEvQkQvMTQvMEQvMkYvMEUvOEYvNEEvNTYvRjIvMjEvQ0IvRkYvMTA5MDAxNDgzNjBfMDAwMi5qcGciLCJyZXBfaWQiOiIxMjk1ODExNDc4MDAwMjU5MSIsImluc3RhbmNlIjoiYXAwMSIsImluc3RpdHV0aW9uIjoiODJTTlVfSU5TVCIsIndpZHRoIjoiNTMxNiIsImhlaWdodCI6IjQwMDAiLCJ3bUtleSI6bnVsbCwid21XaWR0aCI6bnVsbCwid21IZWlnaHQiOm51bGwsIndtUG9zaXRpb24iOm51bGwsIndtUmVwZWF0IjpmYWxzZSwibmE5MSI6bnVsbH0%3D",
+            "type" : "ImageService2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          } ],
+          "height" : 4000,
+          "width" : 5316
+        },
+        "target" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/canvas/13959088890002591?iiifVersion=3"
+      } ]
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://snu.alma.exlibrisgroup.com/view/delivery/thumbnail/82SNU_INST/13959088890002591",
+      "type" : "Image"
+    } ]
+  }, {
+    "id" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/canvas/13959088880002591?iiifVersion=3",
+    "type" : "Canvas",
+    "label" : {
+      "none" : [ "10900148360_0003" ]
+    },
+    "width" : 5316,
+    "height" : 4000,
+    "items" : [ {
+      "id" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/annopage/13959088880002591?iiifVersion=3",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/annopage/13959088880002591?iiifVersion=3",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "https://ap-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJhcC1zb3V0aGVhc3QtMSIsImJ1Y2tldCI6ImFwLXN0MDEuZXh0LmV4bGlicmlzZ3JvdXAuY29tIiwia2V5IjoiODJTTlVfSU5TVC9zdG9yYWdlL2FsbWEvQ0UvOEMvNUUvMEEvQkQvMTQvMEQvMkYvMEUvOEYvNEEvNTYvRjIvMjEvQ0IvRkYvMTA5MDAxNDgzNjBfMDAwMy5qcGciLCJyZXBfaWQiOiIxMjk1ODExNDc4MDAwMjU5MSIsImluc3RhbmNlIjoiYXAwMSIsImluc3RpdHV0aW9uIjoiODJTTlVfSU5TVCIsIndpZHRoIjoiNTMxNiIsImhlaWdodCI6IjQwMDAiLCJ3bUtleSI6bnVsbCwid21XaWR0aCI6bnVsbCwid21IZWlnaHQiOm51bGwsIndtUG9zaXRpb24iOm51bGwsIndtUmVwZWF0IjpmYWxzZSwibmE5MSI6bnVsbH0%3D",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "service" : [ {
+            "id" : "https://ap-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJhcC1zb3V0aGVhc3QtMSIsImJ1Y2tldCI6ImFwLXN0MDEuZXh0LmV4bGlicmlzZ3JvdXAuY29tIiwia2V5IjoiODJTTlVfSU5TVC9zdG9yYWdlL2FsbWEvQ0UvOEMvNUUvMEEvQkQvMTQvMEQvMkYvMEUvOEYvNEEvNTYvRjIvMjEvQ0IvRkYvMTA5MDAxNDgzNjBfMDAwMy5qcGciLCJyZXBfaWQiOiIxMjk1ODExNDc4MDAwMjU5MSIsImluc3RhbmNlIjoiYXAwMSIsImluc3RpdHV0aW9uIjoiODJTTlVfSU5TVCIsIndpZHRoIjoiNTMxNiIsImhlaWdodCI6IjQwMDAiLCJ3bUtleSI6bnVsbCwid21XaWR0aCI6bnVsbCwid21IZWlnaHQiOm51bGwsIndtUG9zaXRpb24iOm51bGwsIndtUmVwZWF0IjpmYWxzZSwibmE5MSI6bnVsbH0%3D",
+            "type" : "ImageService2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          } ],
+          "height" : 4000,
+          "width" : 5316
+        },
+        "target" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/canvas/13959088880002591?iiifVersion=3"
+      } ]
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://snu.alma.exlibrisgroup.com/view/delivery/thumbnail/82SNU_INST/13959088880002591",
+      "type" : "Image"
+    } ]
+  }, {
+    "id" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/canvas/13959088870002591?iiifVersion=3",
+    "type" : "Canvas",
+    "label" : {
+      "none" : [ "10900148360_0004" ]
+    },
+    "width" : 5316,
+    "height" : 4000,
+    "items" : [ {
+      "id" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/annopage/13959088870002591?iiifVersion=3",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/annopage/13959088870002591?iiifVersion=3",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "https://ap-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJhcC1zb3V0aGVhc3QtMSIsImJ1Y2tldCI6ImFwLXN0MDEuZXh0LmV4bGlicmlzZ3JvdXAuY29tIiwia2V5IjoiODJTTlVfSU5TVC9zdG9yYWdlL2FsbWEvQ0UvOEMvNUUvMEEvQkQvMTQvMEQvMkYvMEUvOEYvNEEvNTYvRjIvMjEvQ0IvRkYvMTA5MDAxNDgzNjBfMDAwNC5qcGciLCJyZXBfaWQiOiIxMjk1ODExNDc4MDAwMjU5MSIsImluc3RhbmNlIjoiYXAwMSIsImluc3RpdHV0aW9uIjoiODJTTlVfSU5TVCIsIndpZHRoIjoiNTMxNiIsImhlaWdodCI6IjQwMDAiLCJ3bUtleSI6bnVsbCwid21XaWR0aCI6bnVsbCwid21IZWlnaHQiOm51bGwsIndtUG9zaXRpb24iOm51bGwsIndtUmVwZWF0IjpmYWxzZSwibmE5MSI6bnVsbH0%3D",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "service" : [ {
+            "id" : "https://ap-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJhcC1zb3V0aGVhc3QtMSIsImJ1Y2tldCI6ImFwLXN0MDEuZXh0LmV4bGlicmlzZ3JvdXAuY29tIiwia2V5IjoiODJTTlVfSU5TVC9zdG9yYWdlL2FsbWEvQ0UvOEMvNUUvMEEvQkQvMTQvMEQvMkYvMEUvOEYvNEEvNTYvRjIvMjEvQ0IvRkYvMTA5MDAxNDgzNjBfMDAwNC5qcGciLCJyZXBfaWQiOiIxMjk1ODExNDc4MDAwMjU5MSIsImluc3RhbmNlIjoiYXAwMSIsImluc3RpdHV0aW9uIjoiODJTTlVfSU5TVCIsIndpZHRoIjoiNTMxNiIsImhlaWdodCI6IjQwMDAiLCJ3bUtleSI6bnVsbCwid21XaWR0aCI6bnVsbCwid21IZWlnaHQiOm51bGwsIndtUG9zaXRpb24iOm51bGwsIndtUmVwZWF0IjpmYWxzZSwibmE5MSI6bnVsbH0%3D",
+            "type" : "ImageService2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          } ],
+          "height" : 4000,
+          "width" : 5316
+        },
+        "target" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/canvas/13959088870002591?iiifVersion=3"
+      } ]
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://snu.alma.exlibrisgroup.com/view/delivery/thumbnail/82SNU_INST/13959088870002591",
+      "type" : "Image"
+    } ]
+  }, {
+    "id" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/canvas/13959088860002591?iiifVersion=3",
+    "type" : "Canvas",
+    "label" : {
+      "none" : [ "10900148360_0005" ]
+    },
+    "width" : 5316,
+    "height" : 4000,
+    "items" : [ {
+      "id" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/annopage/13959088860002591?iiifVersion=3",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/annopage/13959088860002591?iiifVersion=3",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "https://ap-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJhcC1zb3V0aGVhc3QtMSIsImJ1Y2tldCI6ImFwLXN0MDEuZXh0LmV4bGlicmlzZ3JvdXAuY29tIiwia2V5IjoiODJTTlVfSU5TVC9zdG9yYWdlL2FsbWEvQ0UvOEMvNUUvMEEvQkQvMTQvMEQvMkYvMEUvOEYvNEEvNTYvRjIvMjEvQ0IvRkYvMTA5MDAxNDgzNjBfMDAwNS5qcGciLCJyZXBfaWQiOiIxMjk1ODExNDc4MDAwMjU5MSIsImluc3RhbmNlIjoiYXAwMSIsImluc3RpdHV0aW9uIjoiODJTTlVfSU5TVCIsIndpZHRoIjoiNTMxNiIsImhlaWdodCI6IjQwMDAiLCJ3bUtleSI6bnVsbCwid21XaWR0aCI6bnVsbCwid21IZWlnaHQiOm51bGwsIndtUG9zaXRpb24iOm51bGwsIndtUmVwZWF0IjpmYWxzZSwibmE5MSI6bnVsbH0%3D",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "service" : [ {
+            "id" : "https://ap-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJhcC1zb3V0aGVhc3QtMSIsImJ1Y2tldCI6ImFwLXN0MDEuZXh0LmV4bGlicmlzZ3JvdXAuY29tIiwia2V5IjoiODJTTlVfSU5TVC9zdG9yYWdlL2FsbWEvQ0UvOEMvNUUvMEEvQkQvMTQvMEQvMkYvMEUvOEYvNEEvNTYvRjIvMjEvQ0IvRkYvMTA5MDAxNDgzNjBfMDAwNS5qcGciLCJyZXBfaWQiOiIxMjk1ODExNDc4MDAwMjU5MSIsImluc3RhbmNlIjoiYXAwMSIsImluc3RpdHV0aW9uIjoiODJTTlVfSU5TVCIsIndpZHRoIjoiNTMxNiIsImhlaWdodCI6IjQwMDAiLCJ3bUtleSI6bnVsbCwid21XaWR0aCI6bnVsbCwid21IZWlnaHQiOm51bGwsIndtUG9zaXRpb24iOm51bGwsIndtUmVwZWF0IjpmYWxzZSwibmE5MSI6bnVsbH0%3D",
+            "type" : "ImageService2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          } ],
+          "height" : 4000,
+          "width" : 5316
+        },
+        "target" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/canvas/13959088860002591?iiifVersion=3"
+      } ]
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://snu.alma.exlibrisgroup.com/view/delivery/thumbnail/82SNU_INST/13959088860002591",
+      "type" : "Image"
+    } ]
+  }, {
+    "id" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/canvas/13959088850002591?iiifVersion=3",
+    "type" : "Canvas",
+    "label" : {
+      "none" : [ "10900148360_0006" ]
+    },
+    "width" : 590,
+    "height" : 5028,
+    "items" : [ {
+      "id" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/annopage/13959088850002591?iiifVersion=3",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/annopage/13959088850002591?iiifVersion=3",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "https://ap-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJhcC1zb3V0aGVhc3QtMSIsImJ1Y2tldCI6ImFwLXN0MDEuZXh0LmV4bGlicmlzZ3JvdXAuY29tIiwia2V5IjoiODJTTlVfSU5TVC9zdG9yYWdlL2FsbWEvQ0UvOEMvNUUvMEEvQkQvMTQvMEQvMkYvMEUvOEYvNEEvNTYvRjIvMjEvQ0IvRkYvMTA5MDAxNDgzNjBfMDAwNi5qcGciLCJyZXBfaWQiOiIxMjk1ODExNDc4MDAwMjU5MSIsImluc3RhbmNlIjoiYXAwMSIsImluc3RpdHV0aW9uIjoiODJTTlVfSU5TVCIsIndpZHRoIjoiNTkwIiwiaGVpZ2h0IjoiNTAyOCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "service" : [ {
+            "id" : "https://ap-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJhcC1zb3V0aGVhc3QtMSIsImJ1Y2tldCI6ImFwLXN0MDEuZXh0LmV4bGlicmlzZ3JvdXAuY29tIiwia2V5IjoiODJTTlVfSU5TVC9zdG9yYWdlL2FsbWEvQ0UvOEMvNUUvMEEvQkQvMTQvMEQvMkYvMEUvOEYvNEEvNTYvRjIvMjEvQ0IvRkYvMTA5MDAxNDgzNjBfMDAwNi5qcGciLCJyZXBfaWQiOiIxMjk1ODExNDc4MDAwMjU5MSIsImluc3RhbmNlIjoiYXAwMSIsImluc3RpdHV0aW9uIjoiODJTTlVfSU5TVCIsIndpZHRoIjoiNTkwIiwiaGVpZ2h0IjoiNTAyOCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+            "type" : "ImageService2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          } ],
+          "height" : 5028,
+          "width" : 590
+        },
+        "target" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/canvas/13959088850002591?iiifVersion=3"
+      } ]
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://snu.alma.exlibrisgroup.com/view/delivery/thumbnail/82SNU_INST/13959088850002591",
+      "type" : "Image"
+    } ]
+  }, {
+    "id" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/canvas/13959088840002591?iiifVersion=3",
+    "type" : "Canvas",
+    "label" : {
+      "none" : [ "10900148360_0007" ]
+    },
+    "width" : 5316,
+    "height" : 16649,
+    "items" : [ {
+      "id" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/annopage/13959088840002591?iiifVersion=3",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/annopage/13959088840002591?iiifVersion=3",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "https://ap-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJhcC1zb3V0aGVhc3QtMSIsImJ1Y2tldCI6ImFwLXN0MDEuZXh0LmV4bGlicmlzZ3JvdXAuY29tIiwia2V5IjoiODJTTlVfSU5TVC9zdG9yYWdlL2FsbWEvQ0UvOEMvNUUvMEEvQkQvMTQvMEQvMkYvMEUvOEYvNEEvNTYvRjIvMjEvQ0IvRkYvMTA5MDAxNDgzNjBfMDAwNy5qcGciLCJyZXBfaWQiOiIxMjk1ODExNDc4MDAwMjU5MSIsImluc3RhbmNlIjoiYXAwMSIsImluc3RpdHV0aW9uIjoiODJTTlVfSU5TVCIsIndpZHRoIjoiNTMxNiIsImhlaWdodCI6IjE2NjQ5Iiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "service" : [ {
+            "id" : "https://ap-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJhcC1zb3V0aGVhc3QtMSIsImJ1Y2tldCI6ImFwLXN0MDEuZXh0LmV4bGlicmlzZ3JvdXAuY29tIiwia2V5IjoiODJTTlVfSU5TVC9zdG9yYWdlL2FsbWEvQ0UvOEMvNUUvMEEvQkQvMTQvMEQvMkYvMEUvOEYvNEEvNTYvRjIvMjEvQ0IvRkYvMTA5MDAxNDgzNjBfMDAwNy5qcGciLCJyZXBfaWQiOiIxMjk1ODExNDc4MDAwMjU5MSIsImluc3RhbmNlIjoiYXAwMSIsImluc3RpdHV0aW9uIjoiODJTTlVfSU5TVCIsIndpZHRoIjoiNTMxNiIsImhlaWdodCI6IjE2NjQ5Iiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+            "type" : "ImageService2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          } ],
+          "height" : 16649,
+          "width" : 5316
+        },
+        "target" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/canvas/13959088840002591?iiifVersion=3"
+      } ]
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://snu.alma.exlibrisgroup.com/view/delivery/thumbnail/82SNU_INST/13959088840002591",
+      "type" : "Image"
+    } ]
+  }, {
+    "id" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/canvas/13959088830002591?iiifVersion=3",
+    "type" : "Canvas",
+    "label" : {
+      "none" : [ "10900148360_0008" ]
+    },
+    "width" : 5406,
+    "height" : 10932,
+    "items" : [ {
+      "id" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/annopage/13959088830002591?iiifVersion=3",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/annopage/13959088830002591?iiifVersion=3",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "https://ap-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJhcC1zb3V0aGVhc3QtMSIsImJ1Y2tldCI6ImFwLXN0MDEuZXh0LmV4bGlicmlzZ3JvdXAuY29tIiwia2V5IjoiODJTTlVfSU5TVC9zdG9yYWdlL2FsbWEvQ0UvOEMvNUUvMEEvQkQvMTQvMEQvMkYvMEUvOEYvNEEvNTYvRjIvMjEvQ0IvRkYvMTA5MDAxNDgzNjBfMDAwOC5qcGciLCJyZXBfaWQiOiIxMjk1ODExNDc4MDAwMjU5MSIsImluc3RhbmNlIjoiYXAwMSIsImluc3RpdHV0aW9uIjoiODJTTlVfSU5TVCIsIndpZHRoIjoiNTQwNiIsImhlaWdodCI6IjEwOTMyIiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "service" : [ {
+            "id" : "https://ap-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJhcC1zb3V0aGVhc3QtMSIsImJ1Y2tldCI6ImFwLXN0MDEuZXh0LmV4bGlicmlzZ3JvdXAuY29tIiwia2V5IjoiODJTTlVfSU5TVC9zdG9yYWdlL2FsbWEvQ0UvOEMvNUUvMEEvQkQvMTQvMEQvMkYvMEUvOEYvNEEvNTYvRjIvMjEvQ0IvRkYvMTA5MDAxNDgzNjBfMDAwOC5qcGciLCJyZXBfaWQiOiIxMjk1ODExNDc4MDAwMjU5MSIsImluc3RhbmNlIjoiYXAwMSIsImluc3RpdHV0aW9uIjoiODJTTlVfSU5TVCIsIndpZHRoIjoiNTQwNiIsImhlaWdodCI6IjEwOTMyIiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+            "type" : "ImageService2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          } ],
+          "height" : 10932,
+          "width" : 5406
+        },
+        "target" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/canvas/13959088830002591?iiifVersion=3"
+      } ]
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://snu.alma.exlibrisgroup.com/view/delivery/thumbnail/82SNU_INST/13959088830002591",
+      "type" : "Image"
+    } ]
+  }, {
+    "id" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/canvas/13959088820002591?iiifVersion=3",
+    "type" : "Canvas",
+    "label" : {
+      "none" : [ "10900148360_0009" ]
+    },
+    "width" : 5406,
+    "height" : 10932,
+    "items" : [ {
+      "id" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/annopage/13959088820002591?iiifVersion=3",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/annopage/13959088820002591?iiifVersion=3",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "https://ap-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJhcC1zb3V0aGVhc3QtMSIsImJ1Y2tldCI6ImFwLXN0MDEuZXh0LmV4bGlicmlzZ3JvdXAuY29tIiwia2V5IjoiODJTTlVfSU5TVC9zdG9yYWdlL2FsbWEvQ0UvOEMvNUUvMEEvQkQvMTQvMEQvMkYvMEUvOEYvNEEvNTYvRjIvMjEvQ0IvRkYvMTA5MDAxNDgzNjBfMDAwOS5qcGciLCJyZXBfaWQiOiIxMjk1ODExNDc4MDAwMjU5MSIsImluc3RhbmNlIjoiYXAwMSIsImluc3RpdHV0aW9uIjoiODJTTlVfSU5TVCIsIndpZHRoIjoiNTQwNiIsImhlaWdodCI6IjEwOTMyIiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "service" : [ {
+            "id" : "https://ap-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJhcC1zb3V0aGVhc3QtMSIsImJ1Y2tldCI6ImFwLXN0MDEuZXh0LmV4bGlicmlzZ3JvdXAuY29tIiwia2V5IjoiODJTTlVfSU5TVC9zdG9yYWdlL2FsbWEvQ0UvOEMvNUUvMEEvQkQvMTQvMEQvMkYvMEUvOEYvNEEvNTYvRjIvMjEvQ0IvRkYvMTA5MDAxNDgzNjBfMDAwOS5qcGciLCJyZXBfaWQiOiIxMjk1ODExNDc4MDAwMjU5MSIsImluc3RhbmNlIjoiYXAwMSIsImluc3RpdHV0aW9uIjoiODJTTlVfSU5TVCIsIndpZHRoIjoiNTQwNiIsImhlaWdodCI6IjEwOTMyIiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+            "type" : "ImageService2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          } ],
+          "height" : 10932,
+          "width" : 5406
+        },
+        "target" : "https://snu.alma.exlibrisgroup.com/view/iiif/presentation/82SNU_INST/12958114780002591/canvas/13959088820002591?iiifVersion=3"
+      } ]
+    } ],
+    "thumbnail" : [ {
+      "id" : "https://snu.alma.exlibrisgroup.com/view/delivery/thumbnail/82SNU_INST/13959088820002591",
+      "type" : "Image"
+    } ]
+  } ],
+  "@context" : "http://iiif.io/api/presentation/3/context.json"
+}

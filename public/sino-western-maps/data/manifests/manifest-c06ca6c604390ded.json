@@ -1,0 +1,216 @@
+{
+  "@context" : [ "http://iiif.io/api/presentation/3/context.json" ],
+  "id" : "https://api.onb.ac.at/iiif/presentation/v3/manifest/111054F4",
+  "type" : "Manifest",
+  "label" : {
+    "none" : [ "Matteo Ricci: Weltkarte, 1602, nach 1644" ]
+  },
+  "metadata" : [ {
+    "label" : {
+      "de" : [ "Titel" ],
+      "en" : [ "Title" ]
+    },
+    "value" : {
+      "none" : [ "Matteo Ricci: Weltkarte, 1602, nach 1644" ]
+    }
+  }, {
+    "label" : {
+      "de" : [ "Person" ],
+      "en" : [ "Person" ]
+    },
+    "value" : {
+      "none" : [ "<span>Ricci, Matteo, 1552-1610 [KartografIn] -- (GND: <a href=\"https://d-nb.info/gnd/118600222\">118600222</a>)</span>" ]
+    }
+  }, {
+    "label" : {
+      "de" : [ "Erscheinungsort" ],
+      "en" : [ "Place" ]
+    },
+    "value" : {
+      "de" : [ "Peking" ]
+    }
+  }, {
+    "label" : {
+      "de" : [ "Jahr/Datierung" ],
+      "en" : [ "Year/Date" ]
+    },
+    "value" : {
+      "de" : [ "1602" ],
+      "en" : [ "1602" ]
+    }
+  }, {
+    "label" : {
+      "de" : [ "Medientyp" ],
+      "en" : [ "Mediatype" ]
+    },
+    "value" : {
+      "de" : [ "Grafik" ],
+      "en" : [ "Graphic" ]
+    }
+  }, {
+    "label" : {
+      "de" : [ "Format/Maße" ],
+      "en" : [ "Format/Size" ]
+    },
+    "value" : {
+      "de" : [ "Ma&szlig;e des Objekts: H&ouml;he: 165 cm - Breite: 365 cm" ]
+    }
+  }, {
+    "label" : {
+      "de" : [ "Weitere Informationen" ],
+      "en" : [ "Further Information" ]
+    },
+    "value" : {
+      "de" : [ "Weltkarte; Bezeichnet: &quot;Kunyu Wanguo quantu ...&quot; (Vollst&auml;ndige Karte der zehntausend L&auml;nder der Erde), Ma&szlig;stab ca. 1:10 Mio, Text und Titel chinesisch, enstanden (Peking 1602, nach 1644), kolorierter Holzschnitt, 6 Bl&auml;tter zu 3 zusammengeklebt. &Ouml;NB/KAR: Rolle 119 Kartographische Zimelien der &Ouml;NB, Wien 1995, S. 78" ]
+    }
+  }, {
+    "label" : {
+      "de" : [ "Schlagworte" ],
+      "en" : [ "Keywords" ]
+    },
+    "value" : {
+      "de" : [ "Landkarte", "<span>Grafik -- (GND: <a href=\"https://d-nb.info/gnd/4021845-4\">4021845-4</a>)</span>" ]
+    }
+  }, {
+    "label" : {
+      "de" : [ "Signatur" ],
+      "en" : [ "Shelfmark number" ]
+    },
+    "value" : {
+      "none" : [ "<a href=\"https://data.onb.ac.at/rec/GZ00533474\">Rolle 119 KAR MAG</a>" ]
+    }
+  }, {
+    "label" : {
+      "de" : [ "Barcode" ],
+      "en" : [ "Barcode" ]
+    },
+    "value" : {
+      "none" : [ "alma343752" ]
+    }
+  }, {
+    "label" : {
+      "de" : [ "IDNR" ],
+      "en" : [ "IDNR" ]
+    },
+    "value" : {
+      "none" : [ "GZ00533474" ]
+    }
+  } ],
+  "summary" : {
+    "de" : [ "Weltkarte; Bezeichnet: \"Kunyu Wanguo quantu ...\" (Vollständige Karte der zehntausend Länder der Erde), Maßstab ca. 1:10 Mio, Text und Titel chinesisch, enstanden (Peking 1602, nach 1644), kolorierter Holzschnitt, 6 Blätter zu 3 zusammengeklebt. ÖNB/KAR: Rolle 119 Kartographische Zimelien der ÖNB, Wien 1995, S. 78" ]
+  },
+  "thumbnail" : [ {
+    "id" : "https://api.onb.ac.at/iiif/image/v3/111054F4/JxzJPu4bxhu6hHoZ7PrNcezEDAJ3ih/full/max/0/default.jpg",
+    "type" : "Image",
+    "format" : "image/jp2",
+    "width" : 8733,
+    "height" : 4027,
+    "service" : [ {
+      "id" : "https://api.onb.ac.at/iiif/image/v3/111054F4/JxzJPu4bxhu6hHoZ7PrNcezEDAJ3ih",
+      "type" : "ImageService3",
+      "profile" : "level2"
+    } ]
+  } ],
+  "requiredStatement" : {
+    "label" : {
+      "de" : [ "Bereitgestellt von" ],
+      "en" : [ "Attribution" ]
+    },
+    "value" : {
+      "de" : [ "Österreichische Nationalbibliothek" ],
+      "en" : [ "Austrian National Library" ]
+    }
+  },
+  "provider" : [ {
+    "id" : "https://www.onb.ac.at/sammlungen/kartensammlung",
+    "type" : "Agent",
+    "label" : {
+      "de" : [ "Kartensammlung" ],
+      "en" : [ "Map Department" ]
+    },
+    "homepage" : [ {
+      "id" : "https://www.onb.ac.at/sammlungen/kartensammlung",
+      "type" : "Text",
+      "label" : {
+        "de" : [ "Kartensammlung" ]
+      },
+      "format" : "text/html",
+      "language" : [ "de" ]
+    }, {
+      "id" : "https://www.onb.ac.at/en/departments/map-department",
+      "type" : "Text",
+      "label" : {
+        "en" : [ "Map Department" ]
+      },
+      "format" : "text/html",
+      "language" : [ "en" ]
+    } ],
+    "logo" : [ {
+      "id" : "https://api.onb.ac.at/logo.png",
+      "type" : "Image",
+      "format" : "image/png",
+      "height" : 200,
+      "width" : 200
+    } ]
+  } ],
+  "seeAlso" : [ {
+    "id" : "https://data.onb.ac.at/rec/GZ00533474",
+    "type" : "Catalogue",
+    "label" : {
+      "de" : [ "Zum Katalog" ],
+      "en" : [ "View in catalogue" ]
+    }
+  }, {
+    "id" : "https://pdf-service.onb.ac.at/111054F4",
+    "type" : "PdfGenerator",
+    "label" : {
+      "de" : [ "PDF-Service" ],
+      "en" : [ "PDF-Service" ]
+    }
+  } ],
+  "homepage" : [ {
+    "id" : "https://data.onb.ac.at/rep/111054F4",
+    "type" : "Text",
+    "label" : {
+      "de" : [ "https://data.onb.ac.at/rep/111054F4" ],
+      "en" : [ "https://data.onb.ac.at/rep/111054F4" ]
+    },
+    "format" : "text/html",
+    "language" : [ "de", "en" ]
+  } ],
+  "start" : {
+    "id" : "https://api.onb.ac.at/iiif/presentation/v3/manifest/111054F4/canvas/1",
+    "type" : "Canvas"
+  },
+  "items" : [ {
+    "id" : "https://api.onb.ac.at/iiif/presentation/v3/manifest/111054F4/canvas/1",
+    "type" : "Canvas",
+    "label" : {
+      "none" : [ "1" ]
+    },
+    "height" : 4027,
+    "width" : 8733,
+    "items" : [ {
+      "id" : "https://api.onb.ac.at/iiif/presentation/v3/manifest/111054F4/canvas/1/annotation-page-item/JxzJPu4bxhu6hHoZ7PrNcezEDAJ3ih",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://api.onb.ac.at/iiif/presentation/v3/manifest/111054F4/annotation-painting/JxzJPu4bxhu6hHoZ7PrNcezEDAJ3ih",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "https://api.onb.ac.at/iiif/image/v3/111054F4/JxzJPu4bxhu6hHoZ7PrNcezEDAJ3ih/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jp2",
+          "width" : 8733,
+          "height" : 4027,
+          "service" : [ {
+            "id" : "https://api.onb.ac.at/iiif/image/v3/111054F4/JxzJPu4bxhu6hHoZ7PrNcezEDAJ3ih",
+            "type" : "ImageService3",
+            "profile" : "level2"
+          } ]
+        },
+        "target" : "https://api.onb.ac.at/iiif/presentation/v3/manifest/111054F4/canvas/1"
+      } ]
+    } ]
+  } ]
+}

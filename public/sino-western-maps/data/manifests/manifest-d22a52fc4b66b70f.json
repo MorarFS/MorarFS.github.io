@@ -1,0 +1,178 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.2/manifest.json",
+  "@type" : "sc:Manifest",
+  "metadata" : [ {
+    "label" : "Shelfmark",
+    "value" : "Barb.or.151.pt.2"
+  }, {
+    "label" : "Title",
+    "value" : [ "萬國全圖  一幅." ]
+  }, {
+    "label" : "Date",
+    "value" : [ "<ca. 1648>" ]
+  }, {
+    "label" : "Language",
+    "value" : [ "Cinese." ]
+  } ],
+  "label" : "Barb.or.151.pt.2",
+  "description" : "",
+  "thumbnail" : {
+    "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.2/cover/cover.jpg",
+    "@type" : "dctypes:Image",
+    "format" : "image/jpeg",
+    "width" : 320,
+    "height" : 626
+  },
+  "viewingDirection" : "left-to-right",
+  "viewingHint" : "paged",
+  "attribution" : "Images Copyright Biblioteca Apostolica Vaticana",
+  "logo" : "https://digi.vatlib.it/resource/img/i/DVL_logo.jpg",
+  "sequences" : [ {
+    "@type" : "sc:Sequence",
+    "canvases" : [ {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.2/canvas/p0001",
+      "@type" : "sc:Canvas",
+      "label" : "1r.[01.fx.0000]",
+      "width" : 5342,
+      "height" : 10270,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.2/res/anno0001",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.2/res/img0001",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.2/Barb.or.151.pt.2_0001_fa_0001r.%5B01.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 5342,
+          "height" : 10270
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.2/canvas/p0001"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.2/thumb/Barb.or.151.pt.2_0001_fa_0001r.%5B01.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 80,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.2/canvas/p0002",
+      "@type" : "sc:Canvas",
+      "label" : "1v.[01.fx.0000]",
+      "width" : 5397,
+      "height" : 10273,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.2/res/anno0002",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.2/res/img0002",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.2/Barb.or.151.pt.2_0002_fa_0001v.%5B01.fx.0000%5D.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 5397,
+          "height" : 10273
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.2/canvas/p0002"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.2/thumb/Barb.or.151.pt.2_0002_fa_0001v.%5B01.fx.0000%5D.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 81,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.2/canvas/p0003",
+      "@type" : "sc:Canvas",
+      "label" : "colorchecker",
+      "width" : 5350,
+      "height" : 10381,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.2/res/anno0003",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.2/res/img0003",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.2/Barb.or.151.pt.2_0003_zx_colorchecker.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 5350,
+          "height" : 10381
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.2/canvas/p0003"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.2/thumb/Barb.or.151.pt.2_0003_zx_colorchecker.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 79,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    }, {
+      "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.2/canvas/p0004",
+      "@type" : "sc:Canvas",
+      "label" : "scala.millimetrica",
+      "width" : 5380,
+      "height" : 10347,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.2/res/anno0004",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.2/res/img0004",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/MSS_Barb.or.151.pt.2/Barb.or.151.pt.2_0004_zz_scala.millimetrica.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 5380,
+          "height" : 10347
+        },
+        "on" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.2/canvas/p0004"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/MSS_Barb.or.151.pt.2/thumb/Barb.or.151.pt.2_0004_zz_scala.millimetrica.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 80,
+        "height" : 150
+      },
+      "viewingHint" : "non-paged"
+    } ],
+    "viewingDirection" : "left-to-right",
+    "viewingHint" : "paged"
+  } ],
+  "structures" : [ {
+    "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.2/range/r0",
+    "@type" : "sc:Range",
+    "label" : "萬國全圖  一幅.; &lt;ca. 1648&gt;",
+    "ranges" : [ "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.2/range/r0-0" ]
+  }, {
+    "@id" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.2/range/r0-0",
+    "@type" : "sc:Range",
+    "label" : "Barb.or.151.pt.2",
+    "within" : "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.2/range/r0",
+    "canvases" : [ "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.2/canvas/p0001", "https://digi.vatlib.it/iiif/MSS_Barb.or.151.pt.2/canvas/p0002" ]
+  } ],
+  "seeAlso" : [ "https://digi.vatlib.it/mss/detail/Barb.or.151.pt.2" ]
+}

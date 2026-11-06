@@ -12,3 +12,7 @@ The research summaries are intentionally broad. This website contains no researc
 
 Run `npm ci`, then `npm run dev`. Build with `npm run build`.
 GitHub Actions publishes only the static `dist/client` output.
+
+## Sino-Western map catalogue
+
+The sourced catalogue is served from `public/sino-western-maps/` at `/sino-western-maps/`. It preserves250source records, including181map/copy units, institutional image credits and explicit coverage gaps. The book section links to it. The catalogue itself is buildless HTML/CSS/JavaScript; the existing website build copies it into the GitHub Pages artifact.

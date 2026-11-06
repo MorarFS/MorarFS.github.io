@@ -1,0 +1,36 @@
+{
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "type" : "ImageService3",
+  "protocol" : "http://iiif.io/api/image",
+  "profile" : "level2",
+  "width" : 8733,
+  "height" : 4027,
+  "sizes" : [ {
+    "width" : 273,
+    "height" : 126
+  }, {
+    "width" : 546,
+    "height" : 252
+  }, {
+    "width" : 1092,
+    "height" : 503
+  }, {
+    "width" : 2183,
+    "height" : 1007
+  }, {
+    "width" : 4367,
+    "height" : 2014
+  }, {
+    "width" : 8733,
+    "height" : 4027
+  } ],
+  "tiles" : [ {
+    "scaleFactors" : [ 1, 2, 4, 8, 16, 32 ],
+    "width" : 512,
+    "height" : 512
+  } ],
+  "extraQualities" : [ "bitonal", "color", "gray" ],
+  "extraFeatures" : [ "baseUriRedirect", "canonicalLinkHeader", "cors", "jsonldMediaType", "mirroring", "profileLinkHeader", "regionByPct", "regionByPx", "regionSquare", "rotationArbitrary", "rotationBy90s", "sizeByConfinedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+  "id" : "https://api.onb.ac.at/iiif/image/v3/111054F4/JxzJPu4bxhu6hHoZ7PrNcezEDAJ3ih",
+  "extraFormats" : [ "tif", "gif" ]
+}

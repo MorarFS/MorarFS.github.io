@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#111111">
+  <meta name="description" content="A sourced study catalogue of Sino-Western maps, their editions, surviving copies and adaptations, with IIIF images and institutional records.">
+  <title>Sino-Western maps · Connected Cartographies</title>
+  <link rel="stylesheet" href="explorer.css"><link rel="stylesheet" href="catalogue.css"><script src="catalogue.js" defer></script>
+</head>
+<body class="catalogue-page" data-page="index">
+  <a class="skip-link" href="#map-results">Skip to the maps</a>
+  <header class="site-header"><a class="wordmark" href="https://connectedcartographies.net/">Connected Cartographies</a><nav aria-label="Website navigation"><a href="https://cstudy1.connectedcartographies.net/">Map essay</a><a href="study.html">Study the families</a><a href="coverage.html">Sources &amp; coverage</a></nav></header>
+  <main class="catalogue-main">
+    <div class="catalogue-intro"><div><h1>Sino-Western maps</h1><p>Maps by Jesuits and their collaborators, traced through editions, surviving copies and adaptations. Open a record to inspect the map, compare copies and follow the evidence.</p></div><a class="intro-link" href="study.html">Study the map families <span aria-hidden="true">↗</span></a></div>
+    <nav class="family-nav" id="family-nav" aria-label="Map families"><a href="?family=all" aria-current="page">All families</a></nav>
+    <form class="catalogue-filters" id="catalogue-filters" role="search">
+      <label class="map-search">Search the catalogue<input type="search" id="q" placeholder="Title, maker, Chinese name, holding or shelfmark" autocomplete="off"></label>
+      <label>Record type<select id="type"><option value="all">All map types</option><option value="physical-copy">Prints and manuscript copies</option><option value="book-map-component">Maps in books and atlases</option><option value="compound-map-copy">Multi-sheet maps</option><option value="later">Later impressions &amp; facsimiles</option></select></label>
+      <label>Images<select id="access"><option value="all">All access</option><option value="iiif">IIIF images</option><option value="image">Other images</option><option value="source-link">Institutional links</option></select></label>
+      <label>Order<select id="sort"><option value="family">Family, then date</option><option value="date">Date</option><option value="title">Title</option><option value="holding">Holding institution</option></select></label>
+      <button type="button" id="clear-filters">Clear filters</button>
+    </form>
+    <div class="results-toolbar"><p id="results-count" role="status">Opening the source catalogue…</p><label class="context-toggle"><input type="checkbox" id="include-context"> Include atlases, sheets and reproductions</label><a href="data/catalogue.csv" download>Download CSV</a><a href="data/catalogue.json" download>JSON</a></div>
+    <div class="table-scroll" id="map-results" tabindex="-1"><table class="map-table"><caption class="visually-hidden">Identified maps and copies. Open a title for images, dates, holding and sources.</caption><thead><tr><th scope="col" class="image-column">Map</th><th scope="col">Title &amp; attribution</th><th scope="col">Copy / edition date</th><th scope="col">Holding</th><th scope="col">Images</th></tr></thead><tbody id="map-rows"><tr><td colspan="5">Loading the catalogue…</td></tr></tbody></table></div>
+    <div class="catalogue-empty" id="catalogue-empty" hidden><h2>No records match these filters</h2><p>Try a shorter title, another spelling or a holding institution. Include atlases, sheets and reproductions to search the supporting records.</p><button id="reset-empty">Show all maps</button></div>
+    <div class="pagination" id="pagination"><button id="previous-page">Previous</button><span id="page-position"></span><button id="next-page">Next</button></div>
+    <footer class="catalogue-footer"><p id="catalogue-scope">One identified map per record. Several sheets forming a single map remain one unit.</p><p>Database model: <a href="https://morarfs.github.io/CROSS/releases/v4-2026-10-11/" target="_blank" rel="noopener">Florin-Stefan Morar’s CROSS census, version 4</a>. <a href="coverage.html">Read the scope, sources and outstanding gaps.</a></p></footer>
+  </main>
+  <noscript><p class="no-script">Download the <a href="data/catalogue.csv">source catalogue as CSV</a> or <a href="data/catalogue.json">JSON</a>. JavaScript enables search and image viewing.</p></noscript>
+</body>
+</html>

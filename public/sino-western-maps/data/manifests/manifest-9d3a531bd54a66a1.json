@@ -1,0 +1,76 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://digi.vatlib.it/iiif/GDS_BAVOA.233/manifest.json",
+  "@type" : "sc:Manifest",
+  "metadata" : [ {
+    "label" : "Shelfmark",
+    "value" : "BAVOA.233"
+  }, {
+    "label" : "Language",
+    "value" : [ "und" ]
+  } ],
+  "label" : "BAVOA.233",
+  "description" : "",
+  "thumbnail" : {
+    "@id" : "https://digi.vatlib.it/pub/digit/GDS_BAVOA.233/cover/cover.jpg",
+    "@type" : "dctypes:Image",
+    "format" : "image/jpeg",
+    "width" : 150,
+    "height" : 113
+  },
+  "viewingDirection" : "left-to-right",
+  "viewingHint" : "individuals",
+  "attribution" : "Images Copyright Biblioteca Apostolica Vaticana",
+  "logo" : "https://digi.vatlib.it/resource/img/i/DVL_logo.jpg",
+  "sequences" : [ {
+    "@type" : "sc:Sequence",
+    "canvases" : [ {
+      "@id" : "https://digi.vatlib.it/iiif/GDS_BAVOA.233/canvas/p0233",
+      "@type" : "sc:Canvas",
+      "label" : "233",
+      "width" : 1152,
+      "height" : 916,
+      "images" : [ {
+        "@id" : "https://digi.vatlib.it/iiif/GDS_BAVOA.233/res/anno0233",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://digi.vatlib.it/iiif/GDS_BAVOA.233/res/img0233",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://digi.vatlib.it/iiifimage/GDS_BAVOA.233/BAVOA.233_0233.jp2",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 1152,
+          "height" : 916
+        },
+        "on" : "https://digi.vatlib.it/iiif/GDS_BAVOA.233/canvas/p0233"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://digi.vatlib.it/pub/digit/GDS_BAVOA.233/thumb/BAVOA.233_0233.tif.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 150,
+        "height" : 113
+      },
+      "viewingHint" : "non-paged"
+    } ],
+    "viewingDirection" : "left-to-right",
+    "viewingHint" : "individuals"
+  } ],
+  "structures" : [ {
+    "@id" : "https://digi.vatlib.it/iiif/GDS_BAVOA.233/range/r0",
+    "@type" : "sc:Range",
+    "label" : "BAVOA.233",
+    "ranges" : [ "https://digi.vatlib.it/iiif/GDS_BAVOA.233/range/r0-0" ]
+  }, {
+    "@id" : "https://digi.vatlib.it/iiif/GDS_BAVOA.233/range/r0-0",
+    "@type" : "sc:Range",
+    "label" : "BAVOA.233",
+    "within" : "https://digi.vatlib.it/iiif/GDS_BAVOA.233/range/r0",
+    "canvases" : [ "https://digi.vatlib.it/iiif/GDS_BAVOA.233/canvas/p0233" ]
+  } ],
+  "seeAlso" : [ "https://digi.vatlib.it/gds/detail/11052010" ]
+}
