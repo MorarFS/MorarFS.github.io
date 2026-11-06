@@ -1,0 +1,611 @@
+1
+00:00:00,000 --> 00:00:05,862
+The Map of Observing the Mysteries of the Heaven and Earth (Liangyi xuanlan tu 兩儀玄覽圖 ),
+
+2
+00:00:05,862 --> 00:00:10,251
+which we call here the Xuantu is a worldmap in eight panels created in
+
+3
+00:00:10,251 --> 00:00:15,731
+1603 by the Ming dynasty military official Li Yingshi李應試.
+
+4
+00:00:15,731 --> 00:00:19,863
+Figure 1: Map of Observing the Mysteries of the Heaven and the Earth.
+
+5
+00:00:19,863 --> 00:00:29,917
+Liaoning Provincial Museum辽宁省博物馆, Shenyang, People's Republic of China
+
+6
+00:00:29,917 --> 00:00:34,990
+There is strong reason to believe that the Manchus obtained this particular map before
+
+7
+00:00:34,990 --> 00:00:40,307
+they conquered China, a surprising development that makes us reconsider the Manchus'
+
+8
+00:00:40,307 --> 00:00:46,019
+relationship to Western cartography. This interactive websiste will tell the story of
+
+9
+00:00:46,019 --> 00:00:53,000
+this maps and presents some of the evidence linking the Xuantu map to the pre- conquest Manchus
+
+10
+00:00:53,000 --> 00:00:59,396
+Matteo Ricci and the scholar Li Zhizao 李之藻 created in 1602 a map named Complete
+
+11
+00:00:59,396 --> 00:01:03,901
+Map of the Myriad Kingdoms of the World ( Kunyu Wanguo Quantu 坤輿萬國全圖).
+
+12
+00:01:03,901 --> 00:01:09,102
+It included geographical descriptions of the historical five continents, complete with
+
+13
+00:01:09,102 --> 00:01:15,476
+place-names, a précis of Ptolemaic cosmology, and paper instruments for measuring polar
+
+14
+00:01:15,476 --> 00:01:22,453
+altitude and latitude. Figure 2: Map of myriad countries of the Earth, Kunyu wanguo
+
+15
+00:01:22,453 --> 00:01:28,514
+quantu 坤輿萬國全圖, by Matteo Ricci, Li Zhizao 李之藻, et al., 1602.
+
+16
+00:01:28,514 --> 00:01:33,042
+James Ford Bell Library, University of Minnesota.
+
+17
+00:01:33,042 --> 00:01:41,691
+The Xuantu is a large object, measuring 2 meters (78.74 inches) vertically and 4.42
+
+18
+00:01:41,691 --> 00:01:50,688
+meters (174.01 inches) horizontally. As such, it fits awkwardly among Chinese prints
+
+19
+00:01:50,688 --> 00:01:56,400
+from the Ming dynasty. Maps of this size meant for a high-end audience of officials
+
+20
+00:01:56,400 --> 00:02:03,087
+were rarely prints. Instead, just as for paintings, Chinese artisans normally used silk,
+
+21
+00:02:03,087 --> 00:02:06,303
+which was favored for its superior durability.
+
+22
+00:02:06,303 --> 00:02:11,864
+Silk, however, because of its cost, was more appropriate for the creation of unique
+
+23
+00:02:11,864 --> 00:02:16,208
+items, such as decorative folding screens.
+
+24
+00:02:16,208 --> 00:02:22,407
+For Sino-Western world maps, the desire to quickly disseminate many copies trumped that
+
+25
+00:02:22,407 --> 00:02:29,791
+of creating solid, durable objects. World maps by Matteo Ricci and other Jesuits thus
+
+26
+00:02:29,791 --> 00:02:32,624
+came to occupy an important niche.
+
+27
+00:02:32,624 --> 00:02:38,220
+They were as large in size as silk maps made for important people, yet easily
+
+28
+00:02:38,220 --> 00:02:44,524
+reproducible and affordable. This was at the root of their success in the late Ming.
+
+29
+00:02:44,524 --> 00:02:48,506
+It is also the reason why so few copies survived:
+
+30
+00:02:48,506 --> 00:02:55,158
+large prints were fragile. Folding screen with figures in a landscape, Qing dynasty,
+
+31
+00:02:55,158 --> 00:02:59,000
+Metropolitan Museum of Art, New York.
+
+32
+00:02:59,000 --> 00:03:03,550
+Indeed, Xuantu is important not so much for what it has in it but for
+
+33
+00:03:03,550 --> 00:03:10,292
+what it has on it: the repairs, modifications, and annotations added to the original print.
+
+34
+00:03:10,292 --> 00:03:16,073
+Material alterations, the content of annotations, and the form of the Manchu script are
+
+35
+00:03:16,073 --> 00:03:21,982
+three aspects that demonstrate the epistemological engagement of the Manchu translators
+
+36
+00:03:21,982 --> 00:03:28,458
+of the Later Jin state with the Map of Observing the Mysteries of the Heaven and Earth.
+
+37
+00:03:28,458 --> 00:03:34,436
+The Map of Observing Mysteries, like its 1602 predecessor, the Map of Myriad Kingdoms,
+
+38
+00:03:34,436 --> 00:03:39,696
+was intended by Ricci to be colored by hand, to better distinguish the continents and
+
+39
+00:03:39,696 --> 00:03:42,226
+land masses from the bodies of water.
+
+40
+00:03:42,226 --> 00:03:47,067
+Since the coloring process had to be done after the printing and involved the work
+
+41
+00:03:47,067 --> 00:03:53,209
+of another specialized artisan, incurring additional expenses, many copies remained
+
+42
+00:03:53,209 --> 00:03:58,550
+black-and-white prints. The Shenyang copy was originally uncolored.
+
+43
+00:03:58,550 --> 00:04:04,088
+Yet during its life in the Shenyang palace, an artisan was tasked with embellishing the
+
+44
+00:04:04,088 --> 00:04:09,626
+mountain ranges across all the continents in the style of Chinese painting.
+
+45
+00:04:09,626 --> 00:04:15,849
+The color scheme of these decorations—blue, green, and gold—fits the one used throughout
+
+46
+00:04:15,849 --> 00:04:18,292
+the Shenyang palace.
+
+47
+00:04:18,292 --> 00:04:24,038
+Besides the repairs and added decorative elements, the Shenyang copy of the Map of
+
+48
+00:04:24,038 --> 00:04:28,659
+Observing Mysteries displays a number of Manchu annotations.
+
+49
+00:04:28,659 --> 00:04:33,628
+These inscriptions consisted of both topology and technical elements.
+
+50
+00:04:33,628 --> 00:04:38,701
+The technical elements included the cosmological theory explained in the map's prefaces
+
+51
+00:04:38,701 --> 00:04:44,262
+and surrounding texts. The theory of the map expounded in the preface by Matteo Ricci
+
+52
+00:04:44,262 --> 00:04:49,580
+presented relationships between Earth's spherical shape, its position in the solar
+
+53
+00:04:49,580 --> 00:04:52,390
+system, and the cycles of night and day.
+
+54
+00:04:52,390 --> 00:04:58,958
+All of these features, represented by lines on the map, had Manchu translations attached.
+
+55
+00:04:58,958 --> 00:05:05,099
+The central text of the map summarized the cosmology in a commentary written in Manchu
+
+56
+00:05:05,099 --> 00:05:08,187
+placed on the map near the line of the equator.
+
+57
+00:05:08,187 --> 00:05:13,435
+The main divisions of Earth into continents and oceans, described in the preface by
+
+58
+00:05:13,435 --> 00:05:18,792
+Ricci and other texts on the map, were also translated.
+
+59
+00:05:18,792 --> 00:05:24,724
+Taken together, they suggest that the Manchu translator had a grasp of and an interest
+
+60
+00:05:24,724 --> 00:05:32,083
+in the “theory” of the map, having read and understood the prefaces and other accompanying texts.
+
+61
+00:05:32,083 --> 00:05:36,157
+There are three things that make us believe that this map stood out at its
+
+62
+00:05:36,157 --> 00:05:41,591
+time. It was repaired, intentionally colored, and had inscriptions of the Manchu
+
+63
+00:05:41,591 --> 00:05:47,314
+transcript on it. When it was used in the Shenyang palace, the Xuantu was damaged.
+
+64
+00:05:47,314 --> 00:05:51,517
+Winters in Shenyang are bitterly cold, and rooms must be heated.
+
+65
+00:05:51,517 --> 00:05:56,010
+For this reason, there was a temperature difference between the upper and lower parts of
+
+66
+00:05:56,010 --> 00:06:01,269
+the room. This created condensation, and because the map was most likely displayed
+
+67
+00:06:01,269 --> 00:06:06,917
+vertically, the dampness damaged the portions closer to the ground.
+
+68
+00:06:06,917 --> 00:06:11,607
+The bottom corner of the eight roll (left side of the map) of the Shengyang
+
+69
+00:06:11,607 --> 00:06:15,008
+copy of the Map of observing mysteries.
+
+70
+00:06:15,008 --> 00:06:20,906
+This area, representing the Southern Hemisphere, was damaged and later repaired.
+
+71
+00:06:20,906 --> 00:06:26,421
+An artisan had applied paper paste and, after it dried, redrew the meridians to give
+
+72
+00:06:26,421 --> 00:06:32,063
+the impression of continuity. Further damage to the map reveals the discrepancy between
+
+73
+00:06:32,063 --> 00:06:34,250
+the two layers.
+
+74
+00:06:34,250 --> 00:06:39,114
+The amount of information included in the reconstruction on the top stratum differed
+
+75
+00:06:39,114 --> 00:06:41,053
+from that of the layer below.
+
+76
+00:06:41,053 --> 00:06:44,721
+This was due perhaps to the artisan's limited knowledge.
+
+77
+00:06:44,721 --> 00:06:49,017
+But it might also be a reflection of the interests of the map owners.
+
+78
+00:06:49,017 --> 00:06:54,834
+he Southern Hemisphere on the left side of the map (roll one), for instance, disappeared
+
+79
+00:06:54,834 --> 00:06:58,213
+completely, being covered up in the restoration;
+
+80
+00:06:58,213 --> 00:07:04,063
+only a circle and some of the radiating meridians were copied on top for consistency.
+
+81
+00:07:04,063 --> 00:07:09,300
+On the other hand, the northern hemisphere was preserved, and annotations were added to
+
+82
+00:07:09,300 --> 00:07:14,375
+it because it encompassed places the Manchus were interested in.
+
+83
+00:07:14,375 --> 00:07:20,063
+Most translations of place-names are concentrated in East Asia, radiating toward
+
+84
+00:07:20,063 --> 00:07:25,613
+Europe.The Manchus, it seems, were primarily preoccupied with locating themselves and
+
+85
+00:07:25,613 --> 00:07:30,663
+their immediate surroundings; in terms of their outward interest, they focused on
+
+86
+00:07:30,663 --> 00:07:36,723
+looking westward. The Manchu homeland is marked out by the translation of three adjacent
+
+87
+00:07:36,723 --> 00:07:43,898
+place-names northeastof the Great Wall: Jurchen (Nüzhen女真), Mount Changbai (Changbai
+
+88
+00:07:43,898 --> 00:07:50,833
+Shan長白山), and the City of the Five Nations (Wuguo Cheng五國城).
+
+89
+00:07:50,833 --> 00:07:57,461
+The translation of Mount Changbai (Changbai Shan長白山), on the other hand, is more
+
+90
+00:07:57,461 --> 00:08:03,162
+revealing of the Manchus' own emerging sense of identity in the sixteenth century.
+
+91
+00:08:03,162 --> 00:08:08,792
+The mountain, appearing here in translation as Sanggiyan Alin, was part of an imperial
+
+92
+00:08:08,792 --> 00:08:13,657
+cult throughout the Qing, revered as the birthplace of the mythical founder of the
+
+93
+00:08:13,657 --> 00:08:19,474
+dynasty, Bukūri Yongšon. The addition of an in-scription alongside the mountain is an
+
+94
+00:08:19,474 --> 00:08:25,625
+indication that the place was meaningful for the Manchus as early as the Later Jin.
+
+95
+00:08:25,625 --> 00:08:31,406
+Moving beyond this sphere, immediately neighboring countries such as Japan, Korea, and
+
+96
+00:08:31,406 --> 00:08:35,771
+the Great Ming are labeled using names of Manchu origin:
+
+97
+00:08:35,771 --> 00:08:42,853
+Ose, Sohlo, and Nikan. These names do not describe places or countries but, rather,
+
+98
+00:08:42,853 --> 00:08:48,496
+ethnicities.They were well established in the common geographic knowledge embedded in
+
+99
+00:08:48,496 --> 00:08:54,292
+the Manchu language, as the Manchus had direct interactions with them.
+
+100
+00:08:54,292 --> 00:09:00,433
+The rest of the translations of place-names on the map are transliterations in Manchu of
+
+101
+00:09:00,433 --> 00:09:06,226
+the pronunciation of Chinese characters. These include the place-names for India, the
+
+102
+00:09:06,226 --> 00:09:13,319
+Philippines, Java, Madagascar, the Cape of Good Hope, the Fortunate (Canary) Islands,
+
+103
+00:09:13,319 --> 00:09:20,181
+Greenland,and Novaya Zemlya. The selection of these places cannot be easily explained by
+
+104
+00:09:20,181 --> 00:09:23,629
+what we readily know about the Manchus.
+
+105
+00:09:23,629 --> 00:09:28,749
+However, since they were singled out among all the other locations on the map, we
+
+106
+00:09:28,749 --> 00:09:33,787
+must assume that they triggered a sense of relevance and recognition for the translator
+
+107
+00:09:33,787 --> 00:09:36,792
+and for the map's viewership.
+
+108
+00:09:36,792 --> 00:09:42,143
+The translations of places like the Fortunate Islands, the Cape of Good Hope,
+
+109
+00:09:42,143 --> 00:09:47,542
+Madagascar, Java, and the Philippines resulted from an awareness of the centers of the
+
+110
+00:09:47,542 --> 00:09:54,241
+European trade network around Eurasia. These were, after all, places from which ships
+
+111
+00:09:54,241 --> 00:09:58,292
+dropping anchor at Macao would have been coming.
+
+112
+00:09:58,292 --> 00:10:02,076
+However, the form of the inscriptions is also meaningful.
+
+113
+00:10:02,076 --> 00:10:07,958
+They can help answer questions about the dating and authorship of the translations.
+
+114
+00:10:07,958 --> 00:10:12,996
+According to the Manchu Veritable Records, the Manchu written language was a direct
+
+115
+00:10:12,996 --> 00:10:19,799
+invention of bilingual scholars working for Nurhaci and was established in 1599.
+
+116
+00:10:19,799 --> 00:10:25,384
+A well-known passage describes how Nurhaci noticed that Mongolian and Chinese could be
+
+117
+00:10:25,384 --> 00:10:31,688
+both written and spoken, while the Manchus needed to use Mongolian—a language they did
+
+118
+00:10:31,688 --> 00:10:36,227
+not speak as natives—to write documentsand proclamations.
+
+119
+00:10:36,227 --> 00:10:43,170
+Consequently, Nurhaci asked the polyglot scholar Erdeni and the judge Gagai to solve the
+
+120
+00:10:43,170 --> 00:10:48,325
+problem and modify the Mongolian script so as to write Manchu words.
+
+121
+00:10:48,325 --> 00:10:54,153
+But because Mongolian letters could not perfectly represent Manchu sounds, this version
+
+122
+00:10:54,153 --> 00:10:56,777
+of the scripthad a few drawbacks.
+
+123
+00:10:56,777 --> 00:11:03,429
+The script could not clearly distinguish a and e,o and u, or k,g, and h.
+
+124
+00:11:03,429 --> 00:11:08,433
+There was also no distinction between front and back d and t, and there were
+
+125
+00:11:08,433 --> 00:11:12,000
+uncertainties in spelling certain words.
+
+126
+00:11:12,000 --> 00:11:17,374
+A reform of the language that would address these issues was implemented during the time
+
+127
+00:11:17,374 --> 00:11:19,755
+of the second Khan, Hong Taiji.
+
+128
+00:11:19,755 --> 00:11:24,944
+The most important and visible aspect of this reform was the addition of dots and
+
+129
+00:11:24,944 --> 00:11:27,904
+circles to solve the problem of distinction.
+
+130
+00:11:27,904 --> 00:11:33,152
+The addition of dots could separate a from e,o from u, and k from g,
+
+131
+00:11:33,152 --> 00:11:36,090
+while circles would distinguish k from h.
+
+132
+00:11:36,090 --> 00:11:41,082
+This way of writing Manchu achieved virtually universal usage and has remained the
+
+133
+00:11:41,082 --> 00:11:44,458
+standard way of writing it to this day.
+
+134
+00:11:44,458 --> 00:11:49,113
+Analysis of the form of the script on the map thus indicates that the Map
+
+135
+00:11:49,113 --> 00:11:56,253
+of Observing Mysterieswas translated between roughly 1625 and 1636, when the reformed
+
+136
+00:11:56,253 --> 00:11:59,469
+version of the Old Manchu script was used.
+
+137
+00:11:59,469 --> 00:12:03,903
+In any case, the map's annotations indicate an interest in, as well as an
+
+138
+00:12:03,903 --> 00:12:10,544
+epistemological engagement with, a Sino-Western artifact in a crucial moment, as the
+
+139
+00:12:10,544 --> 00:12:15,083
+Manchus were beginning to plan their conquest of China.
+
+140
+00:12:15,083 --> 00:12:21,410
+Figure 4 Synthetic map of the Great Ming, Da Ming hunyi tu大明混一圖, original in First
+
+141
+00:12:21,410 --> 00:12:28,468
+Historical Archives, Beijing, reprint in Zhongguo Gudai Ditu Ji中国古代地图集 (Beijing, 1990).
+
+142
+00:12:28,468 --> 00:12:31,963
+Facsimile from the Shanghai Museum of Navigation 航海博物馆.
+
+143
+00:12:31,963 --> 00:12:36,491
+Photograph by the author. This section of the map of the Great Ming depicts the
+
+144
+00:12:36,491 --> 00:12:42,668
+western portion of Korea and displays the Manchu place-name transliterations on affixed
+
+145
+00:12:42,668 --> 00:12:47,788
+labels. In some places, over time, the labels have detached, revealing the original
+
+146
+00:12:47,788 --> 00:12:50,458
+Chinese text underneath.
+
+147
+00:12:50,458 --> 00:12:56,517
+Repairs, modifications, as well as annotations therefore, all belonged to a broad
+
+148
+00:12:56,517 --> 00:13:02,195
+strategy of translation of cartographic artifacts first practiced in the preconquest
+
+149
+00:13:02,195 --> 00:13:07,129
+period on the map by Li Yingshi and Ricci, then on the Map of the
+
+150
+00:13:07,129 --> 00:13:12,051
+nine borders, and ultimately, after the conquest, on Ming maps.
+
+151
+00:13:12,051 --> 00:13:17,625
+This demonstrates the continuity in translation across the Ming-Qing divide.
+
+152
+00:13:17,625 --> 00:13:22,988
+The presence of a map co-authored by Matteo Ricci in the Shenyang palace is ultimately
+
+153
+00:13:22,988 --> 00:13:28,375
+a testament to the extent of knowledge networks in the early modern period.

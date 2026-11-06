@@ -62,9 +62,13 @@
   }
   function updatePlay() {
     const playing = !video.paused && !video.ended;
+    const soundOn = !video.muted && video.volume > 0;
     $('play-label').textContent = playing ? 'Pause' : video.ended ? 'Replay' : 'Play';
     $('play-symbol').setAttribute('href',playing ? '#film-pause':'#film-play');
-    $('film-state').textContent = playing ? 'Playing · silent' : video.ended ? 'End of film' : 'Silent film';
+    $('film-state').textContent = video.ended ? 'End of film' : playing ? `Playing · ${soundOn ? 'sound on' : 'muted'}` : soundOn ? 'Narration on' : 'Narration muted';
+    $('toggle-sound').setAttribute('aria-pressed',String(soundOn));
+    $('toggle-sound').title = soundOn ? 'Mute narration' : 'Unmute narration';
+    $('sound-symbol').setAttribute('href',soundOn ? '#film-sound' : '#film-muted');
     cancelAnimationFrame(raf);
     if (playing) raf = requestAnimationFrame(loop);
   }
@@ -139,7 +143,7 @@
     }
   }
   async function init() {
-    const responses = await Promise.all([fetch('data/story.json'),fetch('data/map-film-v4.json')]);
+    const responses = await Promise.all([fetch('data/story.json'),fetch('data/map-film-v6.json')]);
     if (responses.some(response => !response.ok)) throw new Error('The presentation data could not load');
     [story,film] = await Promise.all(responses.map(response => response.json()));
     reader.replaceChildren();
@@ -154,10 +158,12 @@
     $('film-chapter').innerHTML = story.chapters.map((chapter,index)=>`<option value="${index}">${chapter.title}</option>`).join('');
     $('film-position').max = String(film.duration);
     video.src = film.movie;
-    video.muted = true;
+    video.muted = false;
+    if ('preservesPitch' in video) video.preservesPitch = true;
     $('play-film').addEventListener('click',playPause);
+    $('toggle-sound').addEventListener('click',()=>{video.muted=!video.muted;});
     video.addEventListener('click',playPause);
-    ['play','pause','ended'].forEach(name=>video.addEventListener(name,()=>{ updatePlay();updateTime(); }));
+    ['play','pause','ended','volumechange'].forEach(name=>video.addEventListener(name,()=>{ updatePlay();updateTime(); }));
     ['timeupdate','seeked'].forEach(name=>video.addEventListener(name,updateTime));
     video.addEventListener('loadedmetadata',()=>{if(pendingTime !== null){video.currentTime=pendingTime;pendingTime=null;}updateTime();});
     video.addEventListener('error',()=>{ $('film-error').hidden=false;updatePlay(); });

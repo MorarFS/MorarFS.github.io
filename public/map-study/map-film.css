@@ -5,3 +5,6 @@
 @media(max-height:680px) and (min-width:701px){.film-heading h1{font-size:24px}.film-heading{top:12px}.film-heading p{font-size:13px;margin-top:5px}.presentation-stage video,.source-viewer{inset:67px 0 21px;height:calc(100% - 88px)}.subtitle-panel{padding-block:10px 8px;min-height:94px}.subtitle-text{font-size:22px;min-height:60px}.subtitle-meta{margin-top:4px}.presentation-controls{padding-block:7px 4px}}
 
 @media(max-height:600px){.map-film-page{overflow:auto}.map-film-shell{height:auto;min-height:calc(100dvh - 64px)}.presentation-stage{flex:none;height:48vw;min-height:245px}.subtitle-panel,.presentation-controls{flex-shrink:0}}
+
+.narration-credit{font-size:12px;line-height:1.4;color:#aaa;margin:1px 0 3px}.film-control-row #toggle-sound[aria-pressed="false"]{color:#aaa}.film-control-row #toggle-sound svg{width:21px;height:21px}
+@media(max-width:700px){.film-control-row .pace-label select{width:76px}.chapter-label{order:2;flex:1 1 calc(100% - 100px);margin:3px 0 0}.film-control-row .film-secondary{order:3;flex:0 0 90px;min-width:90px;max-width:90px;margin:3px 0 0}.narration-credit{margin:0 0 3px}.film-control-row #toggle-sound{min-width:44px}}
