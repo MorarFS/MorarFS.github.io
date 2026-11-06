@@ -32,6 +32,8 @@ h1 { font-size:clamp(3.1rem,5.7vw,5rem); line-height:1.04; letter-spacing:-.045e
 .project h3 { font-size:1.65rem; line-height:1.25; margin:0 0 .75rem; } .project p:last-child { margin-bottom:0; }
 .project .eyebrow { font-size:.875rem; margin-bottom:.8rem; } .book-subtitle { font-style:italic; }
 .text-link { color:var(--primary); font-size:.875rem; }
+.book-links { display:grid; justify-items:start; gap:.5rem; }
+.book-links .text-link { max-width:100%; }
 footer { margin-top:3rem; padding:0 0 2rem; display:flex; justify-content:space-between; gap:1rem; font-size:.875rem; color:var(--muted-foreground); }
 @media(min-width:1000px) { .profile { position:sticky; top:2rem; } }
 @media(max-width:760px) { .site-header { padding:1.25rem 1.5rem; flex-wrap:wrap; gap:.7rem; } .wordmark span { display:none; } nav { gap:1.2rem; } .page-grid { grid-template-columns:minmax(0,1fr); padding:2.5rem 1.5rem 0; gap:2.75rem; } .profile { display:grid; grid-template-columns:minmax(110px,155px) minmax(0,1fr); gap:1.4rem; } .profile-meta { padding-top:0; } .profile-links { margin-top:1rem; padding-top:.75rem; } .profile-meta .affiliation { margin-top:.5rem; } h1 { font-size:3.6rem; } .research { margin-top:2.7rem; } }

@@ -132,18 +132,26 @@
   function zoom(factor) { if (osd?.viewport) { osd.viewport.zoomBy(factor);osd.viewport.applyConstraints(reduced.matches); } }
   function readHash() {
     const hash = location.hash.slice(1);
-    if(hash.startsWith('subtitle=')){const i=film.subtitles.findIndex(c=>c.id===hash.slice(9));if(i>=0)seekSubtitle(i);}
+    const passageIndex = id => story.stops.findIndex(passage => passage.id === (film.passageAliases?.[id] ?? id));
+    if(hash.startsWith('subtitle=')){
+      const id=hash.slice(9), i=film.subtitles.findIndex(c=>c.id===id);
+      if(i>=0)seekSubtitle(i);
+      else {
+        const index=passageIndex(id.replace(/-subtitle-\d+$/,''));
+        if(index>=0)seek(index,false);
+      }
+    }
     else if (hash.startsWith('story=')) {
-      const index = story.stops.findIndex(passage => passage.id === hash.slice(6));
+      const index = passageIndex(hash.slice(6));
       if (index >= 0) seek(index,false);
     } else if (hash.startsWith('detail=')) {
       const detail = story.hotspots.find(item => item.id === hash.slice(7));
-      const index = detail ? story.stops.findIndex(passage => passage.id === detail.stop) : -1;
+      const index = detail ? passageIndex(detail.stop) : -1;
       if (index >= 0) { seek(index,false);setExplore(true); }
     }
   }
   async function init() {
-    const responses = await Promise.all([fetch('data/story.json'),fetch('data/map-film-v6.json')]);
+    const responses = await Promise.all([fetch('data/map-story-v7.json'),fetch('data/map-film-v7.json')]);
     if (responses.some(response => !response.ok)) throw new Error('The presentation data could not load');
     [story,film] = await Promise.all(responses.map(response => response.json()));
     reader.replaceChildren();

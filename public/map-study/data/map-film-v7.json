@@ -1,0 +1,1341 @@
+{
+  "title": "Matteo Ricci’s World Map and the Manchus",
+  "fps": 24,
+  "frames": 11520,
+  "duration": 480,
+  "audio": true,
+  "characters": false,
+  "readingPace": {
+    "timing": "Synchronized to narration",
+    "defaultPlaybackRate": 1
+  },
+  "sourcePageSha256": "d4aed21fecf47a15a3eb5ea5bd0094fb6ec6b78f220b2d52f4df4ff0e3ad2edb",
+  "cues": [
+    {
+      "index": 0,
+      "id": "passage-01-02",
+      "title": "The Xuantu",
+      "chapter": 0,
+      "asset": "xuantu",
+      "sourceAsset": "xuantu",
+      "start": 0.0,
+      "end": 16.916666666666668,
+      "duration": 16.916666666666668,
+      "frames": 406,
+      "focus": null,
+      "zoom": [
+        1.0,
+        1.035
+      ],
+      "file": "00-source-00.mp4",
+      "sourceCrop": null,
+      "subtitles": [
+        0,
+        1,
+        2
+      ],
+      "motion": "Eight original map panels unroll sequentially, then settle into the whole map.",
+      "sourceIndex": 0
+    },
+    {
+      "index": 1,
+      "id": "passage-01-03",
+      "title": "Before the conquest",
+      "chapter": 0,
+      "asset": "xuantu",
+      "sourceAsset": "xuantu",
+      "start": 16.916666666666668,
+      "end": 30.291666666666668,
+      "duration": 13.375,
+      "frames": 321,
+      "focus": null,
+      "zoom": [
+        1.035,
+        1.07
+      ],
+      "file": "01-source-01.mp4",
+      "sourceCrop": null,
+      "subtitles": [
+        3,
+        4,
+        5
+      ],
+      "sourceIndex": 1
+    },
+    {
+      "index": 2,
+      "id": "passage-02-01",
+      "title": "A printed predecessor",
+      "chapter": 1,
+      "asset": "ricci",
+      "sourceAsset": "ricci",
+      "start": 30.291666666666668,
+      "end": 54.875,
+      "duration": 24.583333333333332,
+      "frames": 590,
+      "focus": null,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "file": "02-source-02.mp4",
+      "sourceCrop": null,
+      "subtitles": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "sourceIndex": 2
+    },
+    {
+      "index": 3,
+      "id": "passage-03-01",
+      "title": "The scale of the object",
+      "chapter": 1,
+      "asset": "xuantu",
+      "sourceAsset": "xuantu",
+      "start": 54.875,
+      "end": 77.375,
+      "duration": 22.5,
+      "frames": 540,
+      "focus": null,
+      "zoom": [
+        1.0,
+        1.035
+      ],
+      "file": "03-source-03.mp4",
+      "sourceCrop": null,
+      "subtitles": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "sourceIndex": 3
+    },
+    {
+      "index": 4,
+      "id": "passage-04-01",
+      "title": "The fragility of print",
+      "chapter": 1,
+      "asset": "xuantu",
+      "sourceAsset": "screen",
+      "start": 77.375,
+      "end": 104.875,
+      "duration": 27.5,
+      "frames": 660,
+      "focus": null,
+      "zoom": [
+        1.035,
+        1.07
+      ],
+      "file": "04-source-04.mp4",
+      "sourceCrop": null,
+      "subtitles": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "sourceIndex": 4
+    },
+    {
+      "index": 5,
+      "id": "passage-05-01",
+      "title": "What is on the map",
+      "chapter": 2,
+      "asset": "xuantu",
+      "sourceAsset": "xuantu",
+      "start": 104.875,
+      "end": 115.91666666666667,
+      "duration": 11.041666666666666,
+      "frames": 265,
+      "focus": [
+        0.5,
+        0.5,
+        0.75
+      ],
+      "zoom": [
+        1.0,
+        1.035
+      ],
+      "file": "05-source-05.mp4",
+      "sourceCrop": [
+        1015,
+        78,
+        7106,
+        3504
+      ],
+      "subtitles": [
+        21,
+        22
+      ],
+      "sourceIndex": 5
+    },
+    {
+      "index": 6,
+      "id": "passage-05-03",
+      "title": "Painted mountain ranges",
+      "chapter": 2,
+      "asset": "xuantu",
+      "sourceAsset": "xuantu",
+      "start": 115.91666666666667,
+      "end": 138.75,
+      "duration": 22.833333333333332,
+      "frames": 548,
+      "focus": [
+        0.8,
+        0.28,
+        0.24
+      ],
+      "zoom": [
+        1.0,
+        1.035
+      ],
+      "file": "06-source-07.mp4",
+      "sourceCrop": [
+        5522,
+        455,
+        7471,
+        1551
+      ],
+      "subtitles": [
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "sourceIndex": 7
+    },
+    {
+      "index": 7,
+      "id": "passage-05-04",
+      "title": "Annotations and cosmology",
+      "chapter": 2,
+      "asset": "xuantu",
+      "sourceAsset": "xuantu",
+      "start": 138.75,
+      "end": 166.58333333333334,
+      "duration": 27.833333333333332,
+      "frames": 668,
+      "focus": [
+        0.55,
+        0.51,
+        0.25
+      ],
+      "zoom": [
+        1.0,
+        1.035
+      ],
+      "file": "07-source-08.mp4",
+      "sourceCrop": [
+        3451,
+        1256,
+        5482,
+        2398
+      ],
+      "subtitles": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "sourceIndex": 8
+    },
+    {
+      "index": 8,
+      "id": "passage-07-01",
+      "title": "Understanding the theory",
+      "chapter": 2,
+      "asset": "cosmology",
+      "sourceAsset": "cosmology",
+      "start": 166.58333333333334,
+      "end": 179.375,
+      "duration": 12.791666666666666,
+      "frames": 307,
+      "focus": null,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "file": "08-source-10.mp4",
+      "sourceCrop": null,
+      "subtitles": [
+        34,
+        35
+      ],
+      "sourceIndex": 10
+    },
+    {
+      "index": 9,
+      "id": "passage-08-01",
+      "title": "Damage and repair",
+      "chapter": 3,
+      "asset": "xuantu",
+      "sourceAsset": "xuantu",
+      "start": 179.375,
+      "end": 203.29166666666666,
+      "duration": 23.916666666666668,
+      "frames": 574,
+      "focus": null,
+      "zoom": [
+        1.0,
+        1.035
+      ],
+      "file": "09-source-11.mp4",
+      "sourceCrop": null,
+      "subtitles": [
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "sourceIndex": 11
+    },
+    {
+      "index": 10,
+      "id": "passage-08-02",
+      "title": "Redrawn meridians",
+      "chapter": 3,
+      "asset": "xuantu",
+      "sourceAsset": "xuantu",
+      "start": 203.29166666666666,
+      "end": 216.33333333333334,
+      "duration": 13.041666666666666,
+      "frames": 313,
+      "focus": [
+        0.045,
+        0.8,
+        0.19
+      ],
+      "zoom": [
+        1.0,
+        1.035
+      ],
+      "file": "10-source-12.mp4",
+      "sourceCrop": [
+        0,
+        2432,
+        1543,
+        3300
+      ],
+      "subtitles": [
+        41,
+        42,
+        43
+      ],
+      "sourceIndex": 12
+    },
+    {
+      "index": 11,
+      "id": "passage-09-01",
+      "title": "Two layers of paper",
+      "chapter": 3,
+      "asset": "repair",
+      "sourceAsset": "repair",
+      "start": 216.33333333333334,
+      "end": 256.0,
+      "duration": 39.666666666666664,
+      "frames": 952,
+      "focus": null,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "file": "11-source-13.mp4",
+      "sourceCrop": null,
+      "subtitles": [
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "sourceIndex": 13
+    },
+    {
+      "index": 12,
+      "id": "passage-10-01",
+      "title": "Locating the homeland",
+      "chapter": 4,
+      "asset": "north",
+      "sourceAsset": "north",
+      "start": 256.0,
+      "end": 274.125,
+      "duration": 18.125,
+      "frames": 435,
+      "focus": null,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "file": "12-source-14.mp4",
+      "sourceCrop": null,
+      "subtitles": [
+        53,
+        54,
+        55
+      ],
+      "sourceIndex": 14
+    },
+    {
+      "index": 13,
+      "id": "passage-10-02",
+      "title": "Mount Changbai",
+      "chapter": 4,
+      "asset": "north",
+      "sourceAsset": "north",
+      "start": 274.125,
+      "end": 305.125,
+      "duration": 31.0,
+      "frames": 744,
+      "focus": null,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "file": "13-source-15.mp4",
+      "sourceCrop": null,
+      "subtitles": [
+        56,
+        57,
+        58,
+        59,
+        60,
+        61
+      ],
+      "sourceIndex": 15
+    },
+    {
+      "index": 14,
+      "id": "passage-10-03",
+      "title": "Names of neighbours",
+      "chapter": 4,
+      "asset": "north",
+      "sourceAsset": "north",
+      "start": 305.125,
+      "end": 324.2083333333333,
+      "duration": 19.083333333333332,
+      "frames": 458,
+      "focus": null,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "file": "14-source-16.mp4",
+      "sourceCrop": null,
+      "subtitles": [
+        62,
+        63,
+        64
+      ],
+      "sourceIndex": 16
+    },
+    {
+      "index": 15,
+      "id": "passage-10-04",
+      "title": "Places farther afield",
+      "chapter": 4,
+      "asset": "north",
+      "sourceAsset": "north",
+      "start": 324.2083333333333,
+      "end": 340.0416666666667,
+      "duration": 15.833333333333334,
+      "frames": 380,
+      "focus": null,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "file": "15-source-17.mp4",
+      "sourceCrop": null,
+      "subtitles": [
+        65,
+        66,
+        67
+      ],
+      "sourceIndex": 17
+    },
+    {
+      "index": 16,
+      "id": "passage-11-01",
+      "title": "Maritime connections",
+      "chapter": 4,
+      "asset": "places",
+      "sourceAsset": "places",
+      "start": 340.0416666666667,
+      "end": 361.0416666666667,
+      "duration": 21.0,
+      "frames": 504,
+      "focus": null,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "file": "16-source-18.mp4",
+      "sourceCrop": null,
+      "subtitles": [
+        68,
+        69,
+        70,
+        71
+      ],
+      "sourceIndex": 18
+    },
+    {
+      "index": 17,
+      "id": "passage-12-01",
+      "title": "A written language",
+      "chapter": 5,
+      "asset": "script",
+      "sourceAsset": "script",
+      "start": 361.0416666666667,
+      "end": 379.25,
+      "duration": 18.208333333333332,
+      "frames": 437,
+      "focus": null,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "file": "17-source-20.mp4",
+      "sourceCrop": null,
+      "subtitles": [
+        72,
+        73,
+        74
+      ],
+      "sourceIndex": 20
+    },
+    {
+      "index": 18,
+      "id": "passage-12-02",
+      "title": "Dots and circles",
+      "chapter": 5,
+      "asset": "script",
+      "sourceAsset": "script",
+      "start": 379.25,
+      "end": 395.625,
+      "duration": 16.375,
+      "frames": 393,
+      "focus": null,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "file": "18-source-21.mp4",
+      "sourceCrop": null,
+      "subtitles": [
+        75,
+        76,
+        77
+      ],
+      "sourceIndex": 21
+    },
+    {
+      "index": 19,
+      "id": "passage-12-03",
+      "title": "Dating the annotations",
+      "chapter": 5,
+      "asset": "script",
+      "sourceAsset": "script",
+      "start": 395.625,
+      "end": 425.75,
+      "duration": 30.125,
+      "frames": 723,
+      "focus": null,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "file": "19-source-22.mp4",
+      "sourceCrop": null,
+      "subtitles": [
+        78,
+        79,
+        80,
+        81,
+        82,
+        83
+      ],
+      "sourceIndex": 22
+    },
+    {
+      "index": 20,
+      "id": "passage-13-01",
+      "title": "Labels on the Great Ming map",
+      "chapter": 6,
+      "asset": "great-ming",
+      "sourceAsset": "great-ming",
+      "start": 425.75,
+      "end": 442.375,
+      "duration": 16.625,
+      "frames": 399,
+      "focus": null,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "file": "20-source-23.mp4",
+      "sourceCrop": null,
+      "subtitles": [
+        84,
+        85,
+        86
+      ],
+      "sourceIndex": 23
+    },
+    {
+      "index": 21,
+      "id": "passage-14-01",
+      "title": "Translation across the divide",
+      "chapter": 6,
+      "asset": "xuantu",
+      "sourceAsset": "xuantu",
+      "start": 442.375,
+      "end": 467.0,
+      "duration": 24.625,
+      "frames": 591,
+      "focus": null,
+      "zoom": [
+        1.0,
+        1.035
+      ],
+      "file": "21-source-24.mp4",
+      "sourceCrop": null,
+      "subtitles": [
+        87,
+        88,
+        89,
+        90
+      ],
+      "sourceIndex": 24
+    },
+    {
+      "index": 22,
+      "id": "passage-14-02",
+      "title": "Networks of knowledge",
+      "chapter": 6,
+      "asset": "xuantu",
+      "sourceAsset": "xuantu",
+      "start": 467.0,
+      "end": 480.0,
+      "duration": 13.0,
+      "frames": 312,
+      "focus": null,
+      "zoom": [
+        1.0,
+        1.035
+      ],
+      "file": "22-source-25.mp4",
+      "sourceCrop": null,
+      "subtitles": [
+        91,
+        92
+      ],
+      "sourceIndex": 25
+    }
+  ],
+  "subtitles": [
+    {
+      "id": "passage-01-02-subtitle-01",
+      "passage": 0,
+      "start": 0.0,
+      "end": 5.542,
+      "text": "The Map of Observing the Mysteries of the Heaven and Earth (Liangyi xuanlan tu 兩儀玄覽圖),"
+    },
+    {
+      "id": "passage-01-02-subtitle-02",
+      "passage": 0,
+      "start": 5.542,
+      "end": 11.479041666666667,
+      "text": "which we call here the Xuantu, is a worldmap in eight panels created in 1603"
+    },
+    {
+      "id": "passage-01-02-subtitle-03",
+      "passage": 0,
+      "start": 11.479041666666667,
+      "end": 16.916666666666668,
+      "text": "by the Ming dynasty military official Li Yingshi李應試."
+    },
+    {
+      "id": "passage-01-03-subtitle-01",
+      "passage": 1,
+      "start": 16.916666666666668,
+      "end": 21.776333666666666,
+      "text": "There is strong reason to believe that the Manchus obtained this particular map before"
+    },
+    {
+      "id": "passage-01-03-subtitle-02",
+      "passage": 1,
+      "start": 21.776333666666666,
+      "end": 27.093333666666666,
+      "text": "they conquered China, a surprising development that makes us reconsider the Manchus'"
+    },
+    {
+      "id": "passage-01-03-subtitle-03",
+      "passage": 1,
+      "start": 27.093333666666666,
+      "end": 30.291666666666668,
+      "text": "relationship to Western cartography."
+    },
+    {
+      "id": "passage-02-01-subtitle-01",
+      "passage": 2,
+      "start": 30.291666666666668,
+      "end": 36.50052083333334,
+      "text": "Matteo Ricci and the scholar Li Zhizao 李之藻 created in 1602 a map named Complete"
+    },
+    {
+      "id": "passage-02-01-subtitle-02",
+      "passage": 2,
+      "start": 36.50052083333334,
+      "end": 40.807208333333335,
+      "text": "Map of the Myriad Kingdoms of the World (Kunyu Wanguo Quantu 坤輿萬國全圖)."
+    },
+    {
+      "id": "passage-02-01-subtitle-03",
+      "passage": 2,
+      "start": 40.807208333333335,
+      "end": 46.008208333333336,
+      "text": "It included geographical descriptions of the historical five continents, complete with"
+    },
+    {
+      "id": "passage-02-01-subtitle-04",
+      "passage": 2,
+      "start": 46.008208333333336,
+      "end": 52.38220833333334,
+      "text": "place-names, a précis of Ptolemaic cosmology, and paper instruments for measuring polar"
+    },
+    {
+      "id": "passage-02-01-subtitle-05",
+      "passage": 2,
+      "start": 52.38220833333334,
+      "end": 54.875,
+      "text": "altitude and latitude."
+    },
+    {
+      "id": "passage-03-01-subtitle-01",
+      "passage": 3,
+      "start": 54.875,
+      "end": 61.852708666666665,
+      "text": "The Xuantu is a large object, measuring 2 meters vertically and 4.42 meters"
+    },
+    {
+      "id": "passage-03-01-subtitle-02",
+      "passage": 3,
+      "start": 61.852708666666665,
+      "end": 67.60470866666667,
+      "text": "horizontally. Maps of this size meant for a high-end audience of officials were rarely"
+    },
+    {
+      "id": "passage-03-01-subtitle-03",
+      "passage": 3,
+      "start": 67.60470866666667,
+      "end": 74.07070866666666,
+      "text": "prints. Instead, just as for paintings, Chinese artisans normally used silk, which was"
+    },
+    {
+      "id": "passage-03-01-subtitle-04",
+      "passage": 3,
+      "start": 74.07070866666666,
+      "end": 77.375,
+      "text": "favored for its superior durability."
+    },
+    {
+      "id": "passage-04-01-subtitle-01",
+      "passage": 4,
+      "start": 77.375,
+      "end": 83.372333,
+      "text": "For Sino-Western world maps, the desire to quickly disseminate many copies trumped that"
+    },
+    {
+      "id": "passage-04-01-subtitle-02",
+      "passage": 4,
+      "start": 83.372333,
+      "end": 89.16733309246175,
+      "text": "of creating solid, durable objects. They were as large in size as silk maps made"
+    },
+    {
+      "id": "passage-04-01-subtitle-03",
+      "passage": 4,
+      "start": 89.16733309246175,
+      "end": 94.19433324424315,
+      "text": "for important people, yet easily reproducible and affordable."
+    },
+    {
+      "id": "passage-04-01-subtitle-04",
+      "passage": 4,
+      "start": 94.19433324424315,
+      "end": 97.9682499867785,
+      "text": "This was at the root of their success in the late Ming."
+    },
+    {
+      "id": "passage-04-01-subtitle-05",
+      "passage": 4,
+      "start": 97.9682499867785,
+      "end": 101.95024977130232,
+      "text": "It is also the reason why so few copies survived:"
+    },
+    {
+      "id": "passage-04-01-subtitle-06",
+      "passage": 4,
+      "start": 101.95024977130232,
+      "end": 104.875,
+      "text": "large prints were fragile."
+    },
+    {
+      "id": "passage-05-01-subtitle-01",
+      "passage": 5,
+      "start": 104.875,
+      "end": 109.43804166666666,
+      "text": "Indeed, Xuantu is important not so much for what it has in it but for"
+    },
+    {
+      "id": "passage-05-01-subtitle-02",
+      "passage": 5,
+      "start": 109.43804166666666,
+      "end": 115.91666666666667,
+      "text": "what it has on it: the repairs, modifications, and annotations added to the original print."
+    },
+    {
+      "id": "passage-05-03-subtitle-01",
+      "passage": 6,
+      "start": 115.91666666666667,
+      "end": 119.27699966666667,
+      "text": "The Shenyang copy was originally uncolored."
+    },
+    {
+      "id": "passage-05-03-subtitle-02",
+      "passage": 6,
+      "start": 119.27699966666667,
+      "end": 124.81499966666667,
+      "text": "Yet during its life in the Shenyang palace, an artisan was tasked with embellishing the"
+    },
+    {
+      "id": "passage-05-03-subtitle-03",
+      "passage": 6,
+      "start": 124.81499966666667,
+      "end": 130.35299966666668,
+      "text": "mountain ranges across all the continents in the style of Chinese painting."
+    },
+    {
+      "id": "passage-05-03-subtitle-04",
+      "passage": 6,
+      "start": 130.35299966666668,
+      "end": 136.09999966666666,
+      "text": "The color scheme of these decorations, blue, green, and gold, fits the one used"
+    },
+    {
+      "id": "passage-05-03-subtitle-05",
+      "passage": 6,
+      "start": 136.09999966666666,
+      "end": 138.75,
+      "text": "throughout the Shenyang palace."
+    },
+    {
+      "id": "passage-05-04-subtitle-01",
+      "passage": 7,
+      "start": 138.75,
+      "end": 144.317667,
+      "text": "Besides the repairs and added decorative elements, the Shenyang copy of the Map of"
+    },
+    {
+      "id": "passage-05-04-subtitle-02",
+      "passage": 7,
+      "start": 144.317667,
+      "end": 148.534667,
+      "text": "Observing Mysteries displays a number of Manchu annotations."
+    },
+    {
+      "id": "passage-05-04-subtitle-03",
+      "passage": 7,
+      "start": 148.534667,
+      "end": 153.585667,
+      "text": "The theory of the map expounded in the preface by Matteo Ricci presented relationships"
+    },
+    {
+      "id": "passage-05-04-subtitle-04",
+      "passage": 7,
+      "start": 153.585667,
+      "end": 159.05366700000002,
+      "text": "between Earth's spherical shape, its position in the solar system, and the cycles of"
+    },
+    {
+      "id": "passage-05-04-subtitle-05",
+      "passage": 7,
+      "start": 159.05366700000002,
+      "end": 164.104667,
+      "text": "night and day. All of these features, represented by lines on the map, had Manchu"
+    },
+    {
+      "id": "passage-05-04-subtitle-06",
+      "passage": 7,
+      "start": 164.104667,
+      "end": 166.58333333333334,
+      "text": "translations attached."
+    },
+    {
+      "id": "passage-07-01-subtitle-01",
+      "passage": 8,
+      "start": 166.58333333333334,
+      "end": 172.31700033333334,
+      "text": "Taken together, they suggest that the Manchu translator had a grasp of and an interest"
+    },
+    {
+      "id": "passage-07-01-subtitle-02",
+      "passage": 8,
+      "start": 172.31700033333334,
+      "end": 179.375,
+      "text": "in the “theory” of the map, having read and understood the prefaces and other accompanying texts."
+    },
+    {
+      "id": "passage-08-01-subtitle-01",
+      "passage": 9,
+      "start": 179.375,
+      "end": 183.99237497958404,
+      "text": "When it was used in the Shenyang palace, the Xuantu was damaged."
+    },
+    {
+      "id": "passage-08-01-subtitle-02",
+      "passage": 9,
+      "start": 183.99237497958404,
+      "end": 188.1953749077379,
+      "text": "Winters in Shenyang are bitterly cold, and rooms must be heated."
+    },
+    {
+      "id": "passage-08-01-subtitle-03",
+      "passage": 9,
+      "start": 188.1953749077379,
+      "end": 192.68837483093446,
+      "text": "For this reason, there was a temperature difference between the upper and lower parts of"
+    },
+    {
+      "id": "passage-08-01-subtitle-04",
+      "passage": 9,
+      "start": 192.68837483093446,
+      "end": 197.94737474103704,
+      "text": "the room. This created condensation, and because the map was most likely displayed"
+    },
+    {
+      "id": "passage-08-01-subtitle-05",
+      "passage": 9,
+      "start": 197.94737474103704,
+      "end": 203.29166666666666,
+      "text": "vertically, the dampness damaged the portions closer to the ground."
+    },
+    {
+      "id": "passage-08-02-subtitle-01",
+      "passage": 10,
+      "start": 203.29166666666666,
+      "end": 208.81033366666665,
+      "text": "An artisan had applied paper paste and, after it dried, redrew the meridians to give"
+    },
+    {
+      "id": "passage-08-02-subtitle-02",
+      "passage": 10,
+      "start": 208.81033366666665,
+      "end": 214.45233366666665,
+      "text": "the impression of continuity. Further damage to the map reveals the discrepancy between"
+    },
+    {
+      "id": "passage-08-02-subtitle-03",
+      "passage": 10,
+      "start": 214.45233366666665,
+      "end": 216.33333333333334,
+      "text": "the two layers."
+    },
+    {
+      "id": "passage-09-01-subtitle-01",
+      "passage": 11,
+      "start": 216.33333333333334,
+      "end": 221.04533333333333,
+      "text": "The amount of information included in the reconstruction on the top stratum differed"
+    },
+    {
+      "id": "passage-09-01-subtitle-02",
+      "passage": 11,
+      "start": 221.04533333333333,
+      "end": 222.98433333333335,
+      "text": "from that of the layer below."
+    },
+    {
+      "id": "passage-09-01-subtitle-03",
+      "passage": 11,
+      "start": 222.98433333333335,
+      "end": 226.65233333333333,
+      "text": "This was due perhaps to the artisan's limited knowledge."
+    },
+    {
+      "id": "passage-09-01-subtitle-04",
+      "passage": 11,
+      "start": 226.65233333333333,
+      "end": 230.94833333333335,
+      "text": "But it might also be a reflection of the interests of the map owners."
+    },
+    {
+      "id": "passage-09-01-subtitle-05",
+      "passage": 11,
+      "start": 230.94833333333335,
+      "end": 236.15033333333335,
+      "text": "The Southern Hemisphere on the left side of the map (roll one), for instance,"
+    },
+    {
+      "id": "passage-09-01-subtitle-06",
+      "passage": 11,
+      "start": 236.15033333333335,
+      "end": 240.14433333333335,
+      "text": "disappeared completely, being covered up in the restoration;"
+    },
+    {
+      "id": "passage-09-01-subtitle-07",
+      "passage": 11,
+      "start": 240.14433333333335,
+      "end": 245.99433333333334,
+      "text": "only a circle and some of the radiating meridians were copied on top for consistency."
+    },
+    {
+      "id": "passage-09-01-subtitle-08",
+      "passage": 11,
+      "start": 245.99433333333334,
+      "end": 251.23133333333334,
+      "text": "On the other hand, the northern hemisphere was preserved, and annotations were added to"
+    },
+    {
+      "id": "passage-09-01-subtitle-09",
+      "passage": 11,
+      "start": 251.23133333333334,
+      "end": 256.0,
+      "text": "it because it encompassed places the Manchus were interested in."
+    },
+    {
+      "id": "passage-10-01-subtitle-01",
+      "passage": 12,
+      "start": 256.0,
+      "end": 261.965,
+      "text": "Most translations of place-names are concentrated in East Asia, radiating toward Europe."
+    },
+    {
+      "id": "passage-10-01-subtitle-02",
+      "passage": 12,
+      "start": 261.965,
+      "end": 267.259,
+      "text": "The Manchus, it seems, were primarily preoccupied with locating themselves and their"
+    },
+    {
+      "id": "passage-10-01-subtitle-03",
+      "passage": 12,
+      "start": 267.259,
+      "end": 274.125,
+      "text": "immediate surroundings; in terms of their outward interest, they focused on looking westward."
+    },
+    {
+      "id": "passage-10-02-subtitle-01",
+      "passage": 13,
+      "start": 274.125,
+      "end": 278.2613122140055,
+      "text": "The translation of Mount Changbai (Changbai Shan長白山) is more revealing of the Manchus'"
+    },
+    {
+      "id": "passage-10-02-subtitle-02",
+      "passage": 13,
+      "start": 278.2613122140055,
+      "end": 282.61531232686195,
+      "text": "own emerging sense of identity in the sixteenth century."
+    },
+    {
+      "id": "passage-10-02-subtitle-03",
+      "passage": 13,
+      "start": 282.61531232686195,
+      "end": 288.2453124727925,
+      "text": "The mountain, appearing here in translation as Sanggiyan Alin, was part of an imperial"
+    },
+    {
+      "id": "passage-10-02-subtitle-04",
+      "passage": 13,
+      "start": 288.2453124727925,
+      "end": 293.18966666666665,
+      "text": "cult throughout the Qing, revered as the birthplace of the mythical founder of the"
+    },
+    {
+      "id": "passage-10-02-subtitle-05",
+      "passage": 13,
+      "start": 293.18966666666665,
+      "end": 299.00666666666666,
+      "text": "dynasty, Bukūri Yongšon. The addition of an inscription alongside the mountain is an"
+    },
+    {
+      "id": "passage-10-02-subtitle-06",
+      "passage": 13,
+      "start": 299.00666666666666,
+      "end": 305.125,
+      "text": "indication that the place was meaningful for the Manchus as early as the Later Jin."
+    },
+    {
+      "id": "passage-10-03-subtitle-01",
+      "passage": 14,
+      "start": 305.125,
+      "end": 310.729,
+      "text": "Moving beyond this sphere, immediately neighboring countries such as Japan, Korea, and"
+    },
+    {
+      "id": "passage-10-03-subtitle-02",
+      "passage": 14,
+      "start": 310.729,
+      "end": 315.15291666666667,
+      "text": "the Great Ming are labeled using names of Manchu origin:"
+    },
+    {
+      "id": "passage-10-03-subtitle-03",
+      "passage": 14,
+      "start": 315.15291666666667,
+      "end": 324.2083333333333,
+      "text": "Ose, Sohlo, and Nikan. These names do not describe places or countries but, rather, ethnicities."
+    },
+    {
+      "id": "passage-10-04-subtitle-01",
+      "passage": 15,
+      "start": 324.2083333333333,
+      "end": 330.1590003333333,
+      "text": "The rest of the translations of place-names on the map are transliterations in Manchu of"
+    },
+    {
+      "id": "passage-10-04-subtitle-02",
+      "passage": 15,
+      "start": 330.1590003333333,
+      "end": 335.5150003333333,
+      "text": "the pronunciation of Chinese characters. The selection of these places cannot be easily"
+    },
+    {
+      "id": "passage-10-04-subtitle-03",
+      "passage": 15,
+      "start": 335.5150003333333,
+      "end": 340.0416666666667,
+      "text": "explained by what we readily know about the Manchus."
+    },
+    {
+      "id": "passage-11-01-subtitle-01",
+      "passage": 16,
+      "start": 340.0416666666667,
+      "end": 345.2423336666667,
+      "text": "The translations of places like the Fortunate Islands, the Cape of Good Hope,"
+    },
+    {
+      "id": "passage-11-01-subtitle-02",
+      "passage": 16,
+      "start": 345.2423336666667,
+      "end": 350.6413336666667,
+      "text": "Madagascar, Java, and the Philippines resulted from an awareness of the centers of the"
+    },
+    {
+      "id": "passage-11-01-subtitle-03",
+      "passage": 16,
+      "start": 350.6413336666667,
+      "end": 357.3403336666667,
+      "text": "European trade network around Eurasia. These were, after all, places from which ships"
+    },
+    {
+      "id": "passage-11-01-subtitle-04",
+      "passage": 16,
+      "start": 357.3403336666667,
+      "end": 361.0416666666667,
+      "text": "dropping anchor at Macao would have been coming."
+    },
+    {
+      "id": "passage-12-01-subtitle-01",
+      "passage": 17,
+      "start": 361.0416666666667,
+      "end": 365.91599966666666,
+      "text": "According to the Manchu Veritable Records, the Manchu written language was a direct"
+    },
+    {
+      "id": "passage-12-01-subtitle-02",
+      "passage": 17,
+      "start": 365.91599966666666,
+      "end": 372.13166666666666,
+      "text": "invention of bilingual scholars working for Nurhaci and was established in 1599."
+    },
+    {
+      "id": "passage-12-01-subtitle-03",
+      "passage": 17,
+      "start": 372.13166666666666,
+      "end": 379.25,
+      "text": "The script could not clearly distinguish a and e, o and u, or k, g, and h."
+    },
+    {
+      "id": "passage-12-02-subtitle-01",
+      "passage": 18,
+      "start": 379.25,
+      "end": 384.442,
+      "text": "A reform of the language that would address these issues was implemented during the time"
+    },
+    {
+      "id": "passage-12-02-subtitle-02",
+      "passage": 18,
+      "start": 384.442,
+      "end": 390.34,
+      "text": "of the second Khan, Hong Taiji. The most important and visible aspect of this reform"
+    },
+    {
+      "id": "passage-12-02-subtitle-03",
+      "passage": 18,
+      "start": 390.34,
+      "end": 395.625,
+      "text": "was the addition of dots and circles to solve the problem of distinction."
+    },
+    {
+      "id": "passage-12-03-subtitle-01",
+      "passage": 19,
+      "start": 395.625,
+      "end": 400.116333,
+      "text": "Analysis of the form of the script on the map thus indicates that the Map"
+    },
+    {
+      "id": "passage-12-03-subtitle-02",
+      "passage": 19,
+      "start": 400.116333,
+      "end": 407.256333,
+      "text": "of Observing Mysteries was translated between roughly 1625 and 1636, when the reformed"
+    },
+    {
+      "id": "passage-12-03-subtitle-03",
+      "passage": 19,
+      "start": 407.256333,
+      "end": 410.472333,
+      "text": "version of the Old Manchu script was used."
+    },
+    {
+      "id": "passage-12-03-subtitle-04",
+      "passage": 19,
+      "start": 410.472333,
+      "end": 414.906333,
+      "text": "In any case, the map's annotations indicate an interest in, as well as an"
+    },
+    {
+      "id": "passage-12-03-subtitle-05",
+      "passage": 19,
+      "start": 414.906333,
+      "end": 421.547333,
+      "text": "epistemological engagement with, a Sino-Western artifact in a crucial moment, as the"
+    },
+    {
+      "id": "passage-12-03-subtitle-06",
+      "passage": 19,
+      "start": 421.547333,
+      "end": 425.75,
+      "text": "Manchus were beginning to plan their conquest of China."
+    },
+    {
+      "id": "passage-13-01-subtitle-01",
+      "passage": 20,
+      "start": 425.75,
+      "end": 430.59924993692863,
+      "text": "This section of the map of the Great Ming depicts the western portion of Korea"
+    },
+    {
+      "id": "passage-13-01-subtitle-02",
+      "passage": 20,
+      "start": 430.59924993692863,
+      "end": 435.8232498061979,
+      "text": "and displays the Manchu place-name transliterations on affixed labels."
+    },
+    {
+      "id": "passage-13-01-subtitle-03",
+      "passage": 20,
+      "start": 435.8232498061979,
+      "end": 442.375,
+      "text": "In some places, over time, the labels have detached, revealing the original Chinese text underneath."
+    },
+    {
+      "id": "passage-14-01-subtitle-01",
+      "passage": 21,
+      "start": 442.375,
+      "end": 448.25033314881796,
+      "text": "Repairs, modifications, as well as annotations therefore, all belonged to a broad"
+    },
+    {
+      "id": "passage-14-01-subtitle-02",
+      "passage": 21,
+      "start": 448.25033314881796,
+      "end": 453.92833329263766,
+      "text": "strategy of translation of cartographic artifacts first practiced in the preconquest"
+    },
+    {
+      "id": "passage-14-01-subtitle-03",
+      "passage": 21,
+      "start": 453.92833329263766,
+      "end": 459.9203950555557,
+      "text": "period on the map by Li Yingshi and Ricci, and ultimately, after the conquest, on"
+    },
+    {
+      "id": "passage-14-01-subtitle-04",
+      "passage": 21,
+      "start": 459.9203950555557,
+      "end": 467.0,
+      "text": "Ming maps. This demonstrates the continuity in translation across the Ming-Qing divide."
+    },
+    {
+      "id": "passage-14-02-subtitle-01",
+      "passage": 22,
+      "start": 467.0,
+      "end": 472.206,
+      "text": "The presence of a map co-authored by Matteo Ricci in the Shenyang palace is ultimately"
+    },
+    {
+      "id": "passage-14-02-subtitle-02",
+      "passage": 22,
+      "start": 472.206,
+      "end": 480.0,
+      "text": "a testament to the extent of knowledge networks in the early modern period."
+    }
+  ],
+  "movie": "media/map-film-v7/map-study-eight-minutes.mp4",
+  "opening": {
+    "method": "Source-textured sequential unrolling of the eight genuine unequal map panels, right to left",
+    "completeRevealSeconds": 15.291666666666666,
+    "panelBoundariesCropX": [
+      0,
+      1057,
+      2113,
+      3119,
+      4114,
+      5118,
+      6123,
+      7123,
+      8121
+    ],
+    "sourceSha256": "371f8d520321bab95e89c984d07488aa05bbe7e561b2c8012368b7645a16ba99"
+  },
+  "narrationCredit": "Abridged text. AI narration based on the author’s voice.",
+  "abridged": true,
+  "originalEssay": "essay.html",
+  "passageAliases": {
+    "passage-05-02": "passage-05-01",
+    "passage-06-01": "passage-05-04",
+    "passage-11-02": "passage-12-01"
+  },
+  "narratedWords": 1112,
+  "delivery": {
+    "width": 1280,
+    "height": 720,
+    "codec": "H264",
+    "audioCodec": "AAC",
+    "audio": true,
+    "fps": 24,
+    "frames": 11520,
+    "bytes": 53989917,
+    "sha256": "203b9bdcf1b979fe1bd72bb6ede0174c7976c0991cb7df1f1f36a3b245adee83"
+  }
+}
