@@ -62,7 +62,7 @@
   }
   function updatePlay() {
     const playing = !video.paused && !video.ended;
-    $('play-label').textContent = playing ? 'Pause film' : video.ended ? 'Replay film' : 'Play film';
+    $('play-label').textContent = playing ? 'Pause' : video.ended ? 'Replay' : 'Play';
     $('play-symbol').setAttribute('href',playing ? '#film-pause':'#film-play');
     $('film-state').textContent = playing ? 'Playing · silent' : video.ended ? 'End of film' : 'Silent film';
     cancelAnimationFrame(raf);
